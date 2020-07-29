@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 58aaf36cb840b5c448d402e2f622afea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4208724465963111374
+    second: Mythos_Nyarlathotep_evade_0
+  - first:
+      213: -1833100929473749544
+    second: Mythos_Nyarlathotep_evade_1
+  - first:
+      213: -3079719546326378458
+    second: Mythos_Nyarlathotep_evade_2
+  - first:
+      213: -790199940457347996
+    second: Mythos_Nyarlathotep_evade_3
+  - first:
+      213: -670289615420301360
+    second: Mythos_Nyarlathotep_evade_4
+  - first:
+      213: 7019760412663553765
+    second: Mythos_Nyarlathotep_evade_5
+  - first:
+      213: 8522731061595932536
+    second: Mythos_Nyarlathotep_evade_6
+  - first:
+      213: 5989758529311596678
+    second: Mythos_Nyarlathotep_evade_7
+  - first:
+      213: -1532526616963497316
+    second: Mythos_Nyarlathotep_evade_8
+  - first:
+      213: -2259564877963543568
+    second: Mythos_Nyarlathotep_evade_9
+  - first:
+      213: -3612356755213776563
+    second: Mythos_Nyarlathotep_evade_10
+  - first:
+      213: 3361403934734770065
+    second: Mythos_Nyarlathotep_evade_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1576
+        width: 165
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982412c2f522cb468c6e0e47fba9044
+      internalID: 4208724465963111374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_1
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1587
+        width: 190
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d36d7fc6982c4742a322186ed3c4719
+      internalID: -1833100929473749544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1672
+        width: 278
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9265bf44d2ba0ba4d8deefd9322c262d
+      internalID: -3079719546326378458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1134
+        width: 335
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be2d10940442044b4d67db3c23cd3e
+      internalID: -790199940457347996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1118
+        width: 315
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d740025574bf84e8b0883d8c3e90f8
+      internalID: -670289615420301360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1123
+        width: 254
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d9bb775d065441bd84e92d0594d43
+      internalID: 7019760412663553765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 623
+        width: 340
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e29e76e3b9194e826fe13e0c182e5
+      internalID: 8522731061595932536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 627
+        width: 313
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93637cd61a644f4b8eeb0657464fbc1
+      internalID: 5989758529311596678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 640
+        width: 263
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d15b70c9fc8f94faac944c934ba4c1
+      internalID: -1532526616963497316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 85
+        width: 166
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236543840a89d374da46669f157c7310
+      internalID: -2259564877963543568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_10
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 138
+        width: 190
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d64df3342fc27408a201c855643b2e
+      internalID: -3612356755213776563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_evade_11
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 124
+        width: 270
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbed632625d3048ad41e556f560a8f
+      internalID: 3361403934734770065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

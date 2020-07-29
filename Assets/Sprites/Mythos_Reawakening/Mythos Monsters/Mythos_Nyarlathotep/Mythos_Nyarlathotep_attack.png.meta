@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 5c0beeeb8e7a02b4ba59088c427cbbc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6481839782618190178
+    second: Mythos_Nyarlathotep_attack_0
+  - first:
+      213: -311333762202703176
+    second: Mythos_Nyarlathotep_attack_1
+  - first:
+      213: -6967221791377804876
+    second: Mythos_Nyarlathotep_attack_2
+  - first:
+      213: -2222042895048805763
+    second: Mythos_Nyarlathotep_attack_3
+  - first:
+      213: 627000220168459128
+    second: Mythos_Nyarlathotep_attack_4
+  - first:
+      213: 2129433735178267263
+    second: Mythos_Nyarlathotep_attack_5
+  - first:
+      213: 2426091820535235190
+    second: Mythos_Nyarlathotep_attack_6
+  - first:
+      213: -7072831435835624492
+    second: Mythos_Nyarlathotep_attack_7
+  - first:
+      213: -4730523614307625302
+    second: Mythos_Nyarlathotep_attack_8
+  - first:
+      213: 8382497272575881219
+    second: Mythos_Nyarlathotep_attack_9
+  - first:
+      213: -3566138475610217055
+    second: Mythos_Nyarlathotep_attack_10
+  - first:
+      213: -7083967662582148501
+    second: Mythos_Nyarlathotep_attack_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1576
+        width: 165
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2573a78826d1b40a9e81eb2fca63d8
+      internalID: -6481839782618190178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1610
+        width: 173
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fdff0b5059bb84fbd59e1e91337152
+      internalID: -311333762202703176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_2
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1536
+        width: 164
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc7e388992d704fa748d14ceeabec7
+      internalID: -6967221791377804876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1134
+        width: 339
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0b0c75bb40dd4d8438c7476e5a45c
+      internalID: -2222042895048805763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1133
+        width: 321
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474267d89fb636b4cacc8ae2f6e1d7fe
+      internalID: 627000220168459128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1135
+        width: 446
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a7ecc25488494f82ba7e8dbf4b894
+      internalID: 2129433735178267263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 623
+        width: 350
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0475373dbe9e4c81a3c18fdd36b10
+      internalID: 2426091820535235190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 623
+        width: 323
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe5fe57944cf9409dd68f30f7bb8f4
+      internalID: -7072831435835624492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 623
+        width: 448
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5722524652ad334597310043e659eaa
+      internalID: -4730523614307625302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 85
+        width: 166
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3dcc224b357f4488600777631e1cd
+      internalID: 8382497272575881219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 71
+        width: 179
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50bd74a75d5944ba28b9a0f0f84555
+      internalID: -3566138475610217055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 74
+        width: 163
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007264b6c72acf148838e8e1a7c32b3d
+      internalID: -7083967662582148501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

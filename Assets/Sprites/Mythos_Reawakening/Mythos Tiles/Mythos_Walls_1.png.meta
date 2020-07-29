@@ -1,0 +1,5015 @@
+fileFormatVersion: 2
+guid: 6ca40fea7959b0849a7d33b4cc40593f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4596184141145407522
+    second: Mythos_Walls_1_0
+  - first:
+      213: -2526801637293554237
+    second: Mythos_Walls_1_1
+  - first:
+      213: 1811317498072836418
+    second: Mythos_Walls_1_2
+  - first:
+      213: -2711096651678519945
+    second: Mythos_Walls_1_3
+  - first:
+      213: 3766555068347348790
+    second: Mythos_Walls_1_4
+  - first:
+      213: 796254461668098525
+    second: Mythos_Walls_1_5
+  - first:
+      213: -8851089734333098090
+    second: Mythos_Walls_1_6
+  - first:
+      213: 5080823648429873576
+    second: Mythos_Walls_1_7
+  - first:
+      213: 5126432141503046442
+    second: Mythos_Walls_1_8
+  - first:
+      213: 8027273238155745563
+    second: Mythos_Walls_1_9
+  - first:
+      213: 1726725664914756940
+    second: Mythos_Walls_1_10
+  - first:
+      213: -3490373331479762311
+    second: Mythos_Walls_1_11
+  - first:
+      213: 1673947871574407367
+    second: Mythos_Walls_1_12
+  - first:
+      213: -9026886363609513281
+    second: Mythos_Walls_1_13
+  - first:
+      213: 4013701761382161155
+    second: Mythos_Walls_1_14
+  - first:
+      213: -830230549386338432
+    second: Mythos_Walls_1_15
+  - first:
+      213: -7936898470228157881
+    second: Mythos_Walls_1_16
+  - first:
+      213: -474206429734577552
+    second: Mythos_Walls_1_17
+  - first:
+      213: 426274192075905656
+    second: Mythos_Walls_1_18
+  - first:
+      213: 9050431347318327392
+    second: Mythos_Walls_1_19
+  - first:
+      213: -5141730987818620165
+    second: Mythos_Walls_1_20
+  - first:
+      213: -7037832335344865244
+    second: Mythos_Walls_1_21
+  - first:
+      213: 3870646726700817951
+    second: Mythos_Walls_1_22
+  - first:
+      213: 7533632339029665868
+    second: Mythos_Walls_1_23
+  - first:
+      213: 8647198733067511858
+    second: Mythos_Walls_1_24
+  - first:
+      213: 5472707898247833236
+    second: Mythos_Walls_1_25
+  - first:
+      213: -969517730938015849
+    second: Mythos_Walls_1_26
+  - first:
+      213: -2872540333792445897
+    second: Mythos_Walls_1_27
+  - first:
+      213: -971274535303155562
+    second: Mythos_Walls_1_28
+  - first:
+      213: -5647544541563294106
+    second: Mythos_Walls_1_29
+  - first:
+      213: -5269580739036213705
+    second: Mythos_Walls_1_30
+  - first:
+      213: -4913190537274913081
+    second: Mythos_Walls_1_31
+  - first:
+      213: -9007504832384743934
+    second: Mythos_Walls_1_32
+  - first:
+      213: -2951116780019349914
+    second: Mythos_Walls_1_33
+  - first:
+      213: -7278928125772713510
+    second: Mythos_Walls_1_34
+  - first:
+      213: 4775612793105861260
+    second: Mythos_Walls_1_35
+  - first:
+      213: 213729307520290013
+    second: Mythos_Walls_1_36
+  - first:
+      213: 7061442002066947807
+    second: Mythos_Walls_1_37
+  - first:
+      213: 399520763547500125
+    second: Mythos_Walls_1_38
+  - first:
+      213: -2277368858070119940
+    second: Mythos_Walls_1_39
+  - first:
+      213: -7835608864884791899
+    second: Mythos_Walls_1_40
+  - first:
+      213: -193964354258220342
+    second: Mythos_Walls_1_41
+  - first:
+      213: -3278523535602339769
+    second: Mythos_Walls_1_42
+  - first:
+      213: -7216907670067724306
+    second: Mythos_Walls_1_43
+  - first:
+      213: -4000410833139275967
+    second: Mythos_Walls_1_44
+  - first:
+      213: -8320168716090670093
+    second: Mythos_Walls_1_45
+  - first:
+      213: 3621471739358196693
+    second: Mythos_Walls_1_46
+  - first:
+      213: -2324834423958428133
+    second: Mythos_Walls_1_47
+  - first:
+      213: 7950340940396627491
+    second: Mythos_Walls_1_48
+  - first:
+      213: -8444126812584340447
+    second: Mythos_Walls_1_49
+  - first:
+      213: -2002456216928784516
+    second: Mythos_Walls_1_50
+  - first:
+      213: -2829820165717404636
+    second: Mythos_Walls_1_51
+  - first:
+      213: 7216650405526513239
+    second: Mythos_Walls_1_52
+  - first:
+      213: 4349733877380211665
+    second: Mythos_Walls_1_53
+  - first:
+      213: 2560472869936328865
+    second: Mythos_Walls_1_54
+  - first:
+      213: 4087322780481049837
+    second: Mythos_Walls_1_55
+  - first:
+      213: 165959748794607173
+    second: Mythos_Walls_1_56
+  - first:
+      213: -6331149772128729462
+    second: Mythos_Walls_1_57
+  - first:
+      213: 2566181553612954541
+    second: Mythos_Walls_1_58
+  - first:
+      213: 2798971209699123486
+    second: Mythos_Walls_1_59
+  - first:
+      213: -2682940567573061755
+    second: Mythos_Walls_1_60
+  - first:
+      213: -3341105221008760837
+    second: Mythos_Walls_1_61
+  - first:
+      213: 8071920106374634119
+    second: Mythos_Walls_1_62
+  - first:
+      213: -4725843813391231632
+    second: Mythos_Walls_1_63
+  - first:
+      213: 5920411882497654627
+    second: Mythos_Walls_1_64
+  - first:
+      213: -4648654513019633777
+    second: Mythos_Walls_1_65
+  - first:
+      213: 2199048042485523345
+    second: Mythos_Walls_1_66
+  - first:
+      213: 6538762428558882149
+    second: Mythos_Walls_1_67
+  - first:
+      213: -491880022011786905
+    second: Mythos_Walls_1_68
+  - first:
+      213: -7496876615171373406
+    second: Mythos_Walls_1_69
+  - first:
+      213: 6234198048314228909
+    second: Mythos_Walls_1_70
+  - first:
+      213: 3542167480539556710
+    second: Mythos_Walls_1_71
+  - first:
+      213: -186496778502417774
+    second: Mythos_Walls_1_72
+  - first:
+      213: 8521336830549980281
+    second: Mythos_Walls_1_73
+  - first:
+      213: -1162578941973907486
+    second: Mythos_Walls_1_74
+  - first:
+      213: 5785984512564492467
+    second: Mythos_Walls_1_75
+  - first:
+      213: -2759373005023486574
+    second: Mythos_Walls_1_76
+  - first:
+      213: -5396617987676851479
+    second: Mythos_Walls_1_77
+  - first:
+      213: 7159504443255973670
+    second: Mythos_Walls_1_78
+  - first:
+      213: 1548854860385563645
+    second: Mythos_Walls_1_79
+  - first:
+      213: 2212960086995514734
+    second: Mythos_Walls_1_80
+  - first:
+      213: 498826055177025042
+    second: Mythos_Walls_1_81
+  - first:
+      213: -7051664577389317722
+    second: Mythos_Walls_1_82
+  - first:
+      213: 5908731253230692456
+    second: Mythos_Walls_1_83
+  - first:
+      213: 694386224048041454
+    second: Mythos_Walls_1_84
+  - first:
+      213: -7708060212437547465
+    second: Mythos_Walls_1_85
+  - first:
+      213: 6683863809540227242
+    second: Mythos_Walls_1_86
+  - first:
+      213: -1250422628691734252
+    second: Mythos_Walls_1_87
+  - first:
+      213: -3474341936660594765
+    second: Mythos_Walls_1_88
+  - first:
+      213: 3384913352542071193
+    second: Mythos_Walls_1_89
+  - first:
+      213: 2554549667838912472
+    second: Mythos_Walls_1_90
+  - first:
+      213: 8608805482043365222
+    second: Mythos_Walls_1_91
+  - first:
+      213: 3315964906630264166
+    second: Mythos_Walls_1_92
+  - first:
+      213: -1743966406822710790
+    second: Mythos_Walls_1_93
+  - first:
+      213: -4345601088620447912
+    second: Mythos_Walls_1_94
+  - first:
+      213: -6816492240795250424
+    second: Mythos_Walls_1_95
+  - first:
+      213: -1421929345421550830
+    second: Mythos_Walls_1_96
+  - first:
+      213: 6085028207717369072
+    second: Mythos_Walls_1_97
+  - first:
+      213: 2021431406646114122
+    second: Mythos_Walls_1_98
+  - first:
+      213: 228369730867825013
+    second: Mythos_Walls_1_99
+  - first:
+      213: -6653553638930060758
+    second: Mythos_Walls_1_100
+  - first:
+      213: -1541237213301627955
+    second: Mythos_Walls_1_101
+  - first:
+      213: 3958113107096623218
+    second: Mythos_Walls_1_102
+  - first:
+      213: 3859272903693367836
+    second: Mythos_Walls_1_103
+  - first:
+      213: -6939054314442002449
+    second: Mythos_Walls_1_104
+  - first:
+      213: 4621695845428941379
+    second: Mythos_Walls_1_105
+  - first:
+      213: 7095621371040843805
+    second: Mythos_Walls_1_106
+  - first:
+      213: -6131039287651663265
+    second: Mythos_Walls_1_107
+  - first:
+      213: 7928687249109529230
+    second: Mythos_Walls_1_108
+  - first:
+      213: -2195330560444519372
+    second: Mythos_Walls_1_109
+  - first:
+      213: 510756839696261404
+    second: Mythos_Walls_1_110
+  - first:
+      213: 7617090522620178799
+    second: Mythos_Walls_1_111
+  - first:
+      213: 1723711940539867171
+    second: Mythos_Walls_1_112
+  - first:
+      213: 8742088491783576139
+    second: Mythos_Walls_1_113
+  - first:
+      213: 8081295726541158244
+    second: Mythos_Walls_1_114
+  - first:
+      213: -3927191493999736942
+    second: Mythos_Walls_1_115
+  - first:
+      213: 1254819253279305747
+    second: Mythos_Walls_1_116
+  - first:
+      213: -7534016430575620828
+    second: Mythos_Walls_1_117
+  - first:
+      213: 4047821244143822640
+    second: Mythos_Walls_1_118
+  - first:
+      213: -2213407798235801518
+    second: Mythos_Walls_1_119
+  - first:
+      213: 7633394465879539650
+    second: Mythos_Walls_1_120
+  - first:
+      213: 2512154191047061359
+    second: Mythos_Walls_1_121
+  - first:
+      213: 9112297587402437553
+    second: Mythos_Walls_1_122
+  - first:
+      213: -1902299839007673381
+    second: Mythos_Walls_1_123
+  - first:
+      213: -2324750356302110611
+    second: Mythos_Walls_1_124
+  - first:
+      213: -7923791672952380705
+    second: Mythos_Walls_1_125
+  - first:
+      213: 2756947336005336646
+    second: Mythos_Walls_1_126
+  - first:
+      213: 1897836377668000830
+    second: Mythos_Walls_1_127
+  - first:
+      213: -4714704545361196062
+    second: Mythos_Walls_1_128
+  - first:
+      213: -2968775552103511537
+    second: Mythos_Walls_1_129
+  - first:
+      213: -5475184604448035575
+    second: Mythos_Walls_1_130
+  - first:
+      213: -2704993156222695577
+    second: Mythos_Walls_1_131
+  - first:
+      213: 3416046899983574122
+    second: Mythos_Walls_1_132
+  - first:
+      213: 6218394940982321404
+    second: Mythos_Walls_1_133
+  - first:
+      213: -1492419651432468058
+    second: Mythos_Walls_1_134
+  - first:
+      213: 4606756280682573903
+    second: Mythos_Walls_1_135
+  - first:
+      213: 8263663675197289061
+    second: Mythos_Walls_1_136
+  - first:
+      213: 4661810596586670365
+    second: Mythos_Walls_1_137
+  - first:
+      213: -8879162510420921769
+    second: Mythos_Walls_1_138
+  - first:
+      213: -5464654516873213975
+    second: Mythos_Walls_1_139
+  - first:
+      213: 4888314316935562645
+    second: Mythos_Walls_1_140
+  - first:
+      213: -5462659950876508959
+    second: Mythos_Walls_1_141
+  - first:
+      213: -8967983892151249497
+    second: Mythos_Walls_1_142
+  - first:
+      213: 1761459807532092318
+    second: Mythos_Walls_1_143
+  - first:
+      213: -4152827967469230873
+    second: Mythos_Walls_1_144
+  - first:
+      213: 4330528817071687226
+    second: Mythos_Walls_1_145
+  - first:
+      213: -1485846105204236166
+    second: Mythos_Walls_1_146
+  - first:
+      213: -4459455467221337211
+    second: Mythos_Walls_1_147
+  - first:
+      213: 2074002817415358235
+    second: Mythos_Walls_1_148
+  - first:
+      213: -1682087151546679258
+    second: Mythos_Walls_1_149
+  - first:
+      213: 3866086642506180241
+    second: Mythos_Walls_1_150
+  - first:
+      213: 1973676093774407954
+    second: Mythos_Walls_1_151
+  - first:
+      213: 2698245536394189390
+    second: Mythos_Walls_1_152
+  - first:
+      213: -7748418358930606979
+    second: Mythos_Walls_1_153
+  - first:
+      213: -9110836706088683445
+    second: Mythos_Walls_1_154
+  - first:
+      213: -2176186575163264188
+    second: Mythos_Walls_1_155
+  - first:
+      213: 838301327294107638
+    second: Mythos_Walls_1_156
+  - first:
+      213: -8345522295194923784
+    second: Mythos_Walls_1_157
+  - first:
+      213: 3066323572398824019
+    second: Mythos_Walls_1_158
+  - first:
+      213: 6520538481283355833
+    second: Mythos_Walls_1_159
+  - first:
+      213: 3366718219555307376
+    second: Mythos_Walls_1_160
+  - first:
+      213: -3131637712512690147
+    second: Mythos_Walls_1_161
+  - first:
+      213: 2532440568146990963
+    second: Mythos_Walls_1_162
+  - first:
+      213: -3415775914024214714
+    second: Mythos_Walls_1_163
+  - first:
+      213: 5611361624409500649
+    second: Mythos_Walls_1_164
+  - first:
+      213: 5812299375815348756
+    second: Mythos_Walls_1_165
+  - first:
+      213: 3759045216239926433
+    second: Mythos_Walls_1_166
+  - first:
+      213: 7929702362297683309
+    second: Mythos_Walls_1_167
+  - first:
+      213: -3977588550233613139
+    second: Mythos_Walls_1_168
+  - first:
+      213: -4425069376380403356
+    second: Mythos_Walls_1_169
+  - first:
+      213: 5643655160305800112
+    second: Mythos_Walls_1_170
+  - first:
+      213: -1640290314445348127
+    second: Mythos_Walls_1_171
+  - first:
+      213: 6125412784968534924
+    second: Mythos_Walls_1_172
+  - first:
+      213: 5203978544274998636
+    second: Mythos_Walls_1_173
+  - first:
+      213: -5166497748339537489
+    second: Mythos_Walls_1_174
+  - first:
+      213: 4276764271815210967
+    second: Mythos_Walls_1_175
+  - first:
+      213: -3060921193314777688
+    second: Mythos_Walls_1_176
+  - first:
+      213: -3999852025263118365
+    second: Mythos_Walls_1_177
+  - first:
+      213: 3834510249761249417
+    second: Mythos_Walls_1_178
+  - first:
+      213: -5374715831099683881
+    second: Mythos_Walls_1_179
+  - first:
+      213: -6788987925712874793
+    second: Mythos_Walls_1_180
+  - first:
+      213: 645682631529218368
+    second: Mythos_Walls_1_181
+  - first:
+      213: -2824314564778435239
+    second: Mythos_Walls_1_182
+  - first:
+      213: -624424467798594504
+    second: Mythos_Walls_1_183
+  - first:
+      213: 394682804584834932
+    second: Mythos_Walls_1_184
+  - first:
+      213: -8073695924900732177
+    second: Mythos_Walls_1_185
+  - first:
+      213: -6016657896668943464
+    second: Mythos_Walls_1_186
+  - first:
+      213: -8084025648228507479
+    second: Mythos_Walls_1_187
+  - first:
+      213: -5337795262345395946
+    second: Mythos_Walls_1_188
+  - first:
+      213: 5706902705653957041
+    second: Mythos_Walls_1_189
+  - first:
+      213: -3612323638529624273
+    second: Mythos_Walls_1_190
+  - first:
+      213: -7894315485457832719
+    second: Mythos_Walls_1_191
+  - first:
+      213: -6928883958013010090
+    second: Mythos_Walls_1_192
+  - first:
+      213: -4237181750863203800
+    second: Mythos_Walls_1_193
+  - first:
+      213: -4634849904751901263
+    second: Mythos_Walls_1_194
+  - first:
+      213: -6626516047889082809
+    second: Mythos_Walls_1_195
+  - first:
+      213: -2463032325803543356
+    second: Mythos_Walls_1_196
+  - first:
+      213: 6964228144642517272
+    second: Mythos_Walls_1_197
+  - first:
+      213: 3529837843292781582
+    second: Mythos_Walls_1_198
+  - first:
+      213: 5357834528428370033
+    second: Mythos_Walls_1_199
+  - first:
+      213: 7725781313326934055
+    second: Mythos_Walls_1_200
+  - first:
+      213: -1179129941735492717
+    second: Mythos_Walls_1_201
+  - first:
+      213: -8494704398158996548
+    second: Mythos_Walls_1_202
+  - first:
+      213: 8541964228864531951
+    second: Mythos_Walls_1_203
+  - first:
+      213: -5147663849091796749
+    second: Mythos_Walls_1_204
+  - first:
+      213: -3960962388407271259
+    second: Mythos_Walls_1_205
+  - first:
+      213: 2869586444614758906
+    second: Mythos_Walls_1_206
+  - first:
+      213: 6029955422808235861
+    second: Mythos_Walls_1_207
+  - first:
+      213: 7010122433044511689
+    second: Mythos_Walls_1_208
+  - first:
+      213: 4819514054663560612
+    second: Mythos_Walls_1_209
+  - first:
+      213: -8039976421186286611
+    second: Mythos_Walls_1_210
+  - first:
+      213: -2213552634863435273
+    second: Mythos_Walls_1_211
+  - first:
+      213: -2136269990014044943
+    second: Mythos_Walls_1_212
+  - first:
+      213: 1707080554474815641
+    second: Mythos_Walls_1_213
+  - first:
+      213: 501874450800137519
+    second: Mythos_Walls_1_214
+  - first:
+      213: 606965996925628476
+    second: Mythos_Walls_1_215
+  - first:
+      213: 7859262055361911858
+    second: Mythos_Walls_1_216
+  - first:
+      213: 1439238131536963594
+    second: Mythos_Walls_1_217
+  - first:
+      213: 4235059565222259988
+    second: Mythos_Walls_1_218
+  - first:
+      213: -3879202535064361880
+    second: Mythos_Walls_1_219
+  - first:
+      213: 8163874650314396800
+    second: Mythos_Walls_1_220
+  - first:
+      213: 1305563732234916939
+    second: Mythos_Walls_1_221
+  - first:
+      213: 147634435937246264
+    second: Mythos_Walls_1_222
+  - first:
+      213: 2855054470071677192
+    second: Mythos_Walls_1_223
+  - first:
+      213: 5960440792902182339
+    second: Mythos_Walls_1_224
+  - first:
+      213: -8583454069408004232
+    second: Mythos_Walls_1_225
+  - first:
+      213: -8043868394840196633
+    second: Mythos_Walls_1_226
+  - first:
+      213: -4737609549263191408
+    second: Mythos_Walls_1_227
+  - first:
+      213: -4002934862058779359
+    second: Mythos_Walls_1_228
+  - first:
+      213: -681712804650302199
+    second: Mythos_Walls_1_229
+  - first:
+      213: -7134678596279261097
+    second: Mythos_Walls_1_230
+  - first:
+      213: -8296401516921956172
+    second: Mythos_Walls_1_231
+  - first:
+      213: -813375880732580102
+    second: Mythos_Walls_1_232
+  - first:
+      213: 2828888929857815227
+    second: Mythos_Walls_1_233
+  - first:
+      213: -4859289709415373817
+    second: Mythos_Walls_1_234
+  - first:
+      213: 6258892825313746910
+    second: Mythos_Walls_1_235
+  - first:
+      213: -1213576913024939018
+    second: Mythos_Walls_1_236
+  - first:
+      213: 8181702986335277016
+    second: Mythos_Walls_1_237
+  - first:
+      213: -2429572573515509120
+    second: Mythos_Walls_1_238
+  - first:
+      213: -3232906038666943136
+    second: Mythos_Walls_1_239
+  - first:
+      213: -777807456512741884
+    second: Mythos_Walls_1_240
+  - first:
+      213: 3253981752851766329
+    second: Mythos_Walls_1_241
+  - first:
+      213: 6277379509837762273
+    second: Mythos_Walls_1_242
+  - first:
+      213: -3056284947230175700
+    second: Mythos_Walls_1_243
+  - first:
+      213: 7427565743915675331
+    second: Mythos_Walls_1_244
+  - first:
+      213: -4175669253387131618
+    second: Mythos_Walls_1_245
+  - first:
+      213: 8124499506679313809
+    second: Mythos_Walls_1_246
+  - first:
+      213: 6998486352909282846
+    second: Mythos_Walls_1_247
+  - first:
+      213: -766303179565171158
+    second: Mythos_Walls_1_248
+  - first:
+      213: 813973787010824652
+    second: Mythos_Walls_1_249
+  - first:
+      213: -3012815162295689317
+    second: Mythos_Walls_1_250
+  - first:
+      213: 6652020805339096009
+    second: Mythos_Walls_1_251
+  - first:
+      213: -603530165242694177
+    second: Mythos_Walls_1_252
+  - first:
+      213: 5950351562115422770
+    second: Mythos_Walls_1_253
+  - first:
+      213: 8523990184195925244
+    second: Mythos_Walls_1_254
+  - first:
+      213: 818565928097683266
+    second: Mythos_Walls_1_255
+  - first:
+      213: -4527472940978949333
+    second: Mythos_Walls_1_256
+  - first:
+      213: -7090351131660228969
+    second: Mythos_Walls_1_257
+  - first:
+      213: 4459609466939203860
+    second: Mythos_Walls_1_258
+  - first:
+      213: -2135021121599072747
+    second: Mythos_Walls_1_259
+  - first:
+      213: 6134816761641747492
+    second: Mythos_Walls_1_260
+  - first:
+      213: 6848011776941460757
+    second: Mythos_Walls_1_261
+  - first:
+      213: 2258161374930195648
+    second: Mythos_Walls_1_262
+  - first:
+      213: 8794658317440267338
+    second: Mythos_Walls_1_263
+  - first:
+      213: 8602783218045354286
+    second: Mythos_Walls_1_264
+  - first:
+      213: 5550432501595674113
+    second: Mythos_Walls_1_265
+  - first:
+      213: -7522107165425057397
+    second: Mythos_Walls_1_266
+  - first:
+      213: 3843219184126967014
+    second: Mythos_Walls_1_267
+  - first:
+      213: -2850111100521546777
+    second: Mythos_Walls_1_268
+  - first:
+      213: 4055012343620891777
+    second: Mythos_Walls_1_269
+  - first:
+      213: -5923874147490409379
+    second: Mythos_Walls_1_270
+  - first:
+      213: 5798844653878558247
+    second: Mythos_Walls_1_271
+  - first:
+      213: 5191093756563047900
+    second: Mythos_Walls_1_272
+  - first:
+      213: 5280498378133167801
+    second: Mythos_Walls_1_273
+  - first:
+      213: 2469046609898381604
+    second: Mythos_Walls_1_274
+  - first:
+      213: 7768341639336310563
+    second: Mythos_Walls_1_275
+  - first:
+      213: 7303011837000919268
+    second: Mythos_Walls_1_276
+  - first:
+      213: 7413646762201841538
+    second: Mythos_Walls_1_277
+  - first:
+      213: -7200119838053758585
+    second: Mythos_Walls_1_278
+  - first:
+      213: 1667000749339495717
+    second: Mythos_Walls_1_279
+  - first:
+      213: -7378984820966791205
+    second: Mythos_Walls_1_280
+  - first:
+      213: -2288748068407971620
+    second: Mythos_Walls_1_281
+  - first:
+      213: 9010772592292811592
+    second: Mythos_Walls_1_282
+  - first:
+      213: -8712765764026770321
+    second: Mythos_Walls_1_283
+  - first:
+      213: 3469084086180721459
+    second: Mythos_Walls_1_284
+  - first:
+      213: 5159053692697899185
+    second: Mythos_Walls_1_285
+  - first:
+      213: 5474495332103361438
+    second: Mythos_Walls_1_286
+  - first:
+      213: 6025243089035038935
+    second: Mythos_Walls_1_287
+  - first:
+      213: -1276507084365256092
+    second: Mythos_Walls_1_288
+  - first:
+      213: -5904864889096449866
+    second: Mythos_Walls_1_289
+  - first:
+      213: -3322560235452555360
+    second: Mythos_Walls_1_290
+  - first:
+      213: 5051501261295438918
+    second: Mythos_Walls_1_291
+  - first:
+      213: -2396813326159436760
+    second: Mythos_Walls_1_292
+  - first:
+      213: -4736102761969722713
+    second: Mythos_Walls_1_293
+  - first:
+      213: -4261590147062173064
+    second: Mythos_Walls_1_294
+  - first:
+      213: -6610805397158117376
+    second: Mythos_Walls_1_295
+  - first:
+      213: -3242440793908963960
+    second: Mythos_Walls_1_296
+  - first:
+      213: 6266726687110658110
+    second: Mythos_Walls_1_297
+  - first:
+      213: 3909461757323532087
+    second: Mythos_Walls_1_298
+  - first:
+      213: -144648129839431644
+    second: Mythos_Walls_1_299
+  - first:
+      213: -795341582025209290
+    second: Mythos_Walls_1_300
+  - first:
+      213: 4499697263106492959
+    second: Mythos_Walls_1_301
+  - first:
+      213: -4212091177522003926
+    second: Mythos_Walls_1_302
+  - first:
+      213: -4419600735271771291
+    second: Mythos_Walls_1_303
+  - first:
+      213: -3323683609292832443
+    second: Mythos_Walls_1_304
+  - first:
+      213: 7984130795887853741
+    second: Mythos_Walls_1_305
+  - first:
+      213: -5016195521872237684
+    second: Mythos_Walls_1_306
+  - first:
+      213: 9093147603296145042
+    second: Mythos_Walls_1_307
+  - first:
+      213: -3752170221277243902
+    second: Mythos_Walls_1_308
+  - first:
+      213: -7330066730928096310
+    second: Mythos_Walls_1_309
+  - first:
+      213: -530555678742439318
+    second: Mythos_Walls_1_310
+  - first:
+      213: 8186550940416535710
+    second: Mythos_Walls_1_311
+  - first:
+      213: -4271793360168952747
+    second: Mythos_Walls_1_312
+  - first:
+      213: -6075013819440867123
+    second: Mythos_Walls_1_313
+  - first:
+      213: 4450331387885087110
+    second: Mythos_Walls_1_314
+  - first:
+      213: -3260545091253020189
+    second: Mythos_Walls_1_315
+  - first:
+      213: -603609533772040455
+    second: Mythos_Walls_1_316
+  - first:
+      213: -836878857460899941
+    second: Mythos_Walls_1_317
+  - first:
+      213: 6991568618932766646
+    second: Mythos_Walls_1_318
+  - first:
+      213: 7106077586753678957
+    second: Mythos_Walls_1_319
+  - first:
+      213: 7284315055405678861
+    second: Mythos_Walls_1_320
+  - first:
+      213: 6475367497619784403
+    second: Mythos_Walls_1_321
+  - first:
+      213: -4276593399531182391
+    second: Mythos_Walls_1_322
+  - first:
+      213: -5897466855892008371
+    second: Mythos_Walls_1_323
+  - first:
+      213: -8335172912594066395
+    second: Mythos_Walls_1_324
+  - first:
+      213: -4847658692354984457
+    second: Mythos_Walls_1_325
+  - first:
+      213: -6321127651290509849
+    second: Mythos_Walls_1_326
+  - first:
+      213: 2254754523609863029
+    second: Mythos_Walls_1_327
+  - first:
+      213: -3051757950143009700
+    second: Mythos_Walls_1_328
+  - first:
+      213: 5860431523591734808
+    second: Mythos_Walls_1_329
+  - first:
+      213: -16920280414832689
+    second: Mythos_Walls_1_330
+  - first:
+      213: -9170321218281497696
+    second: Mythos_Walls_1_331
+  - first:
+      213: -8029929225246277454
+    second: Mythos_Walls_1_332
+  - first:
+      213: 756957897317482421
+    second: Mythos_Walls_1_333
+  - first:
+      213: -928957240360358930
+    second: Mythos_Walls_1_334
+  - first:
+      213: 8449954767145267301
+    second: Mythos_Walls_1_335
+  - first:
+      213: 7898512421076675967
+    second: Mythos_Walls_1_336
+  - first:
+      213: 9116092523220301444
+    second: Mythos_Walls_1_337
+  - first:
+      213: 2066228880073266854
+    second: Mythos_Walls_1_338
+  - first:
+      213: 1348055923013857108
+    second: Mythos_Walls_1_339
+  - first:
+      213: -1137569581139554338
+    second: Mythos_Walls_1_340
+  - first:
+      213: -2480022819658266117
+    second: Mythos_Walls_1_341
+  - first:
+      213: 495544598205138774
+    second: Mythos_Walls_1_342
+  - first:
+      213: 2987875000787709519
+    second: Mythos_Walls_1_343
+  - first:
+      213: 812189427135866110
+    second: Mythos_Walls_1_344
+  - first:
+      213: 2593964677193980445
+    second: Mythos_Walls_1_345
+  - first:
+      213: 8042618157838062889
+    second: Mythos_Walls_1_346
+  - first:
+      213: -4362810893023715054
+    second: Mythos_Walls_1_347
+  - first:
+      213: -7310809293339354280
+    second: Mythos_Walls_1_348
+  - first:
+      213: 5134518459633122931
+    second: Mythos_Walls_1_349
+  - first:
+      213: 4222767356815144904
+    second: Mythos_Walls_1_350
+  - first:
+      213: 7931555584659885649
+    second: Mythos_Walls_1_351
+  - first:
+      213: -8643438709874182111
+    second: Mythos_Walls_1_352
+  - first:
+      213: 3783920792404287357
+    second: Mythos_Walls_1_353
+  - first:
+      213: 8147450607660077726
+    second: Mythos_Walls_1_354
+  - first:
+      213: 4961039992878403649
+    second: Mythos_Walls_1_355
+  - first:
+      213: 7464828533298211756
+    second: Mythos_Walls_1_356
+  - first:
+      213: 116937040812499408
+    second: Mythos_Walls_1_357
+  - first:
+      213: 4727599874973897738
+    second: Mythos_Walls_1_358
+  - first:
+      213: -4485598037419333105
+    second: Mythos_Walls_1_359
+  - first:
+      213: -7526260221158438132
+    second: Mythos_Walls_1_360
+  - first:
+      213: -5265412456268530507
+    second: Mythos_Walls_1_361
+  - first:
+      213: -5472211439865104806
+    second: Mythos_Walls_1_362
+  - first:
+      213: 5594813097622091630
+    second: Mythos_Walls_1_363
+  - first:
+      213: -1702895273899107997
+    second: Mythos_Walls_1_364
+  - first:
+      213: -3612042637205145740
+    second: Mythos_Walls_1_365
+  - first:
+      213: -4110043004920590234
+    second: Mythos_Walls_1_366
+  - first:
+      213: -1477958267011783906
+    second: Mythos_Walls_1_367
+  - first:
+      213: -3070339394322530252
+    second: Mythos_Walls_1_368
+  - first:
+      213: 8974426736244062720
+    second: Mythos_Walls_1_369
+  - first:
+      213: -8838370658125562158
+    second: Mythos_Walls_1_370
+  - first:
+      213: -2301733228324744467
+    second: Mythos_Walls_1_371
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Walls_1_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 2}
+        - {x: -11, y: -21}
+        - {x: -11, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d366bfc27d48164f88b2168ffd60b76
+      internalID: 4596184141145407522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59620b1de9c1394ea0796c5475648e3
+      internalID: -2526801637293554237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c302e6797746f34886e157ffac53694
+      internalID: 1811317498072836418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a20e97689fe9f448ad7cb4c5309557
+      internalID: -2711096651678519945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a60b7456c2fb479270ae57b21246f
+      internalID: 3766555068347348790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e1d17a8a68484287222e19ece2924
+      internalID: 796254461668098525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39bcb3f72d1104cadaab5772785187
+      internalID: -8851089734333098090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09e740dc9279743b836ef65e4f295e
+      internalID: 5080823648429873576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbdaee20520c04c9449173fc137b35
+      internalID: 5126432141503046442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465095125dc850c4b921ce59cd478b4c
+      internalID: 8027273238155745563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698bb04438e6f814bb0dcd5f1c15714e
+      internalID: 1726725664914756940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838cb5cf5c6346a408c7a052676f4295
+      internalID: -3490373331479762311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5616cc602c1414492a4b320b4587c2
+      internalID: 1673947871574407367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be776045c0cd6f846849600227bd548a
+      internalID: -9026886363609513281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16acbb56f7f79c4ca7ab19c1f9fe8f2
+      internalID: 4013701761382161155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f79e68ea154b4eb3fb281fd9d12d7
+      internalID: -830230549386338432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ab7fae2724684fbc51164ec757459
+      internalID: -7936898470228157881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976c99dd0a9fc14caf389288e46a4ba
+      internalID: -474206429734577552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dfdaff647e19f4584ce50acfdd611e
+      internalID: 426274192075905656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd521549bc4fd148a4414455f84c81b
+      internalID: 9050431347318327392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf7eec7c3e6ca46b43142704ffe92b
+      internalID: -5141730987818620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91fe855d9f90c4a9dc59bcdea8b0b5
+      internalID: -7037832335344865244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6705ce6986f39547a5baee79adaba28
+      internalID: 3870646726700817951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c39e045fed8be41b93ee6bb43777b2
+      internalID: 7533632339029665868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51b1aeb7122434798eabcfc384106b
+      internalID: 8647198733067511858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061c4f8449591d4e9c0177652bb7f3e
+      internalID: 5472707898247833236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de831adb83e7642468c933e75e887075
+      internalID: -969517730938015849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b380fef0690a4b89206d7891c6cfa
+      internalID: -2872540333792445897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba47a0387aa0174d8ad514f24bc5295
+      internalID: -971274535303155562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8faebdef6487246b80a8833a68613e
+      internalID: -5647544541563294106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac461fcb0dc1f7640a1d576efaff6510
+      internalID: -5269580739036213705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe687e78357014ca04adee3f138808
+      internalID: -4913190537274913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94d51e29b2bab44a419f33e2f215d6
+      internalID: -9007504832384743934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13729f3aafcf19b44b38e3d1adb8f480
+      internalID: -2951116780019349914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3ed526dca3034ca4069f93baac3e4
+      internalID: -7278928125772713510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e0931f8c834141a6c318767a411a9
+      internalID: 4775612793105861260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da5523d17c36845873b5021a7f58e0
+      internalID: 213729307520290013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2b698721ce184e92d89fcc4916322
+      internalID: 7061442002066947807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275284f84756fc54e883c2a62f46ef44
+      internalID: 399520763547500125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c01c08b3641142959438e3c8d0d8f
+      internalID: -2277368858070119940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469c2f6d6cebbf4caa5ede4f1231285
+      internalID: -7835608864884791899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5feed1c73c1054884dca96db852efe
+      internalID: -193964354258220342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f17999c50f12244b6ef57d57e775e8
+      internalID: -3278523535602339769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762b87784faaf64181dd58bdc1a6d54
+      internalID: -7216907670067724306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdde47e1abf68479a718aa1c0e8e95
+      internalID: -4000410833139275967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 17, y: -23}
+        - {x: 17, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fdf10aded3e8840bfba1ccfe98a994
+      internalID: -8320168716090670093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb2baee4c68d24ab1fb4cdb4f755e6
+      internalID: 3621471739358196693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95cf9bfc1194d343948b47713728918
+      internalID: -2324834423958428133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a584d8317c2649ad623e7e090ce6f
+      internalID: 7950340940396627491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d14507700ed454092bb1dc7fe19514
+      internalID: -8444126812584340447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95521c988e4ca9c47b57bafdfccfc7d2
+      internalID: -2002456216928784516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213ed410258ef545b6882241c7bf649
+      internalID: -2829820165717404636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc9f0bc6e38724d87dd1be33b94655
+      internalID: 7216650405526513239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf1c5f3ce8ad84188f943c28bdf7ad
+      internalID: 4349733877380211665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f89962030845144e92a0e2a46b8993d
+      internalID: 2560472869936328865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec517b7d6e77443846458113eac9c2
+      internalID: 4087322780481049837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce69558de035d41b1a2958e296edcc
+      internalID: 165959748794607173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c320ff9f0d950142b6668e0c9e5f2c5
+      internalID: -6331149772128729462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45785784f752c04484ee62f4cfcf238
+      internalID: 2566181553612954541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b7370e7f06f049b0cece724653250
+      internalID: 2798971209699123486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e83ae2fab3a7d4ba4cd9cc08740b16
+      internalID: -2682940567573061755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ebc10190fb02d4f92c55853faa1599
+      internalID: -3341105221008760837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac7901ed58c5be438b33fb20e599923
+      internalID: 8071920106374634119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e532935e827f1c7418e58d3df082d4d5
+      internalID: -4725843813391231632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b4f177166f8746840e1457ca700e0
+      internalID: 5920411882497654627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d5b5cc01670b40bf3511aa63098ba
+      internalID: -4648654513019633777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad9819d9ca25d4ab827d5d6d1f0fee
+      internalID: 2199048042485523345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_67
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04a898bf757f3b49909358ff1c1ec13
+      internalID: 6538762428558882149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943dcc138204526478a6898a4c7a31bb
+      internalID: -491880022011786905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ba47ecd24ddb449a94921ac646f36
+      internalID: -7496876615171373406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09dd15b7037b3844a5819d85760c570
+      internalID: 6234198048314228909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1cc12eb364c946a90c4759beaddcf
+      internalID: 3542167480539556710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd3ff4add744142881805f8eb43a70
+      internalID: -186496778502417774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47600561040bf418f747be1fac74ba
+      internalID: 8521336830549980281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bec8f7b1c47744ea2bcf81fe37a0a9
+      internalID: -1162578941973907486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36fb1c67a26ee34493e21668b65d3e7
+      internalID: 5785984512564492467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295f65e3eea489488196221a5efcd82
+      internalID: -2759373005023486574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c15dfe51f8d4c43819da9057ac5a57
+      internalID: -5396617987676851479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d93dca73c545341ac5b1cec81bb757
+      internalID: 7159504443255973670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c8e5b36791fb49b667f97acc82f88
+      internalID: 1548854860385563645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb402ca40a15bd04790fcafe7889f7d3
+      internalID: 2212960086995514734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a291fece6bfa67e4db834ce447a35660
+      internalID: 498826055177025042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c188db01bed64186b3c8eda6a7ad0
+      internalID: -7051664577389317722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b08c4c9af94246b7cee57687c0628
+      internalID: 5908731253230692456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c722ad1e79f9f143a6ae945b7568c68
+      internalID: 694386224048041454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_85
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32128baa22581724cbe33f5376072ab3
+      internalID: -7708060212437547465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_86
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817cf4915c1a49c44a258551191c3085
+      internalID: 6683863809540227242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65933c278d76ca040bcbcbb6e57072ed
+      internalID: -1250422628691734252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157859f147d7c434aa20d49a907a69a5
+      internalID: -3474341936660594765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464224e798c0219448a98fac87e978a0
+      internalID: 3384913352542071193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c28631765558489da909f4e20eca8
+      internalID: 2554549667838912472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498116cc54a0a44cad576ee83ec9190
+      internalID: 8608805482043365222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac10206e353c140a7f1cd28540f90a
+      internalID: 3315964906630264166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc517ecf3dfd9bb4f98e21dba68d71dc
+      internalID: -1743966406822710790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a78572d29546c40960bc8b4281ae7d
+      internalID: -4345601088620447912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f301fc1ef50b43bece54c51633aff
+      internalID: -6816492240795250424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5efdd6216eb604d9b2c19c5ed655c8
+      internalID: -1421929345421550830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d851961cdadc345ab79be25a829b79
+      internalID: 6085028207717369072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c8d384facb5b4087eea0ce06abc84
+      internalID: 2021431406646114122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_99
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3810dcbd01645f4c81cc7e73dbdb119
+      internalID: 228369730867825013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed212eb184bf846b1b55692682c305
+      internalID: -6653553638930060758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b45df24759f146902e04090228fe9
+      internalID: -1541237213301627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a4824d4b97a594da2816e90c67dc75
+      internalID: 3958113107096623218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01961b8db21f9bf458731ab6f91638b9
+      internalID: 3859272903693367836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac699e8a0b387d944976e069cc9bc063
+      internalID: -6939054314442002449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a897a7b8929348af47b0703f31361
+      internalID: 4621695845428941379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68685e566513f34d8217463686f7e9a
+      internalID: 7095621371040843805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e505e8ee0b04489997122942d2c8e
+      internalID: -6131039287651663265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236431b44bfd2344afa4119b1485bf1
+      internalID: 7928687249109529230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402be401e033004faf203655be40c85
+      internalID: -2195330560444519372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5afb3b9eee8a8429ff89a9e758a80f
+      internalID: 510756839696261404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2361449eda9958b4393053de7b0b9b32
+      internalID: 7617090522620178799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647db6ef7032ee44b7ca8bba2349f12
+      internalID: 1723711940539867171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985ce1c0a9473b42aa549de85f71a4c
+      internalID: 8742088491783576139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26e8265e449cb49903a3b721dad089
+      internalID: 8081295726541158244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23747ba650b816a4f8bfbd0da79a4dcc
+      internalID: -3927191493999736942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbccb50423054d4990ce06c5f9ecbef
+      internalID: 1254819253279305747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ec1823b1558e4b96d026f0d6bd129
+      internalID: -7534016430575620828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0668cd3f6dc10b147b083051d80caed9
+      internalID: 4047821244143822640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215c187d1bca884d93d67bf68b9f232
+      internalID: -2213407798235801518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8377a847e2ad49ad55bb2f408e732
+      internalID: 7633394465879539650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c523bea59e8149975500b5fca5a3e
+      internalID: 2512154191047061359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f0385d8826d243a04b92f51336761
+      internalID: 9112297587402437553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba66d1ecda3d9344a6095cc1e85e046
+      internalID: -1902299839007673381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd14d89291b66458f6c713b2544808
+      internalID: -2324750356302110611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b8d0fb7ee79b048afdefe61d421e93
+      internalID: -7923791672952380705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93219839dc76f34497fa719c866b9b3
+      internalID: 2756947336005336646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb2dd8058f47b409fb431989448abd
+      internalID: 1897836377668000830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578aad27996b37b44884745d2b2511c0
+      internalID: -4714704545361196062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_129
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7054ec3821ef954d8c8ec2b1c4d46c6
+      internalID: -2968775552103511537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725249043fcd524c9a39598c3f4c8cd
+      internalID: -5475184604448035575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_131
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b73da0c053524a99473931eb78e87
+      internalID: -2704993156222695577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2494480dd41c2248be9575c9ea205b6
+      internalID: 3416046899983574122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_133
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc346f645c2b3eb449a0c2cf964703d1
+      internalID: 6218394940982321404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_134
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da79e9e2bffb948b7eb4c4ad0359b1
+      internalID: -1492419651432468058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_135
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad19eed5bf00646acf268784c9bee2
+      internalID: 4606756280682573903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e6ca875405334684a48bea8cb5d45
+      internalID: 8263663675197289061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9bed923b607894b98b030dc918b688
+      internalID: 4661810596586670365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea6beb952a78e4085d701d0c65169f
+      internalID: -8879162510420921769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274d2adcb766e54a8b70206255c12d6
+      internalID: -5464654516873213975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457906e951973c45ad6dcb79d600467
+      internalID: 4888314316935562645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e417bd8714214f8aad9e9fd033f0e
+      internalID: -5462659950876508959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d0e98c717b044593db5c2d5a91561
+      internalID: -8967983892151249497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf554bd1928c20d4b8e7fed7462b3c55
+      internalID: 1761459807532092318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53334de5dcf39b547a3543b9bccddc87
+      internalID: -4152827967469230873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_145
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a13053e977ac4dbe5ad99c5faf703
+      internalID: 4330528817071687226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_146
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340fa566f30cc78409b42357c6da78f9
+      internalID: -1485846105204236166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_147
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ca1af8f5374f4eb180b4ea6949590
+      internalID: -4459455467221337211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b827b082569904588f77395fe84ffc
+      internalID: 2074002817415358235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49bd24835c886b4e81dd8fc2bd200d8
+      internalID: -1682087151546679258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 24}
+        - {x: 24, y: 20}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690c5d39ebae4647a4f30e6f5a7ca72
+      internalID: 3866086642506180241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d23451c1be297499316564f6b99b72
+      internalID: 1973676093774407954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3892ad343a236f4386971c4d0e256c4
+      internalID: 2698245536394189390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101368ab0ccb1c408f030cf98b3cef6
+      internalID: -7748418358930606979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_154
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9f31380fdc1e408c56e6ba867df69
+      internalID: -9110836706088683445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_155
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07a45f8769efc4090e8a1868be425a
+      internalID: -2176186575163264188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a0b76138b62743a335503ce69ffdc
+      internalID: 838301327294107638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc220e712e8aa1408a854478db6e16e
+      internalID: -8345522295194923784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb852303fba16d47ad033a6cb19d179
+      internalID: 3066323572398824019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42122f705a2bbf54eb48ce72c88fc665
+      internalID: 6520538481283355833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_160
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926ac24ca44e554ab8d5220a2fdbbfe
+      internalID: 3366718219555307376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a5b50a8c37c24397684525fa2b217
+      internalID: -3131637712512690147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c19f371fe49248991ca36fe2602e5
+      internalID: 2532440568146990963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_163
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f18e46ae7db3a44a9bcafb9207fe0a
+      internalID: -3415775914024214714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_164
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e993b5bb574314b89e40031bf65626
+      internalID: 5611361624409500649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef500b01ff32814ca5c2cf603b0a4d1
+      internalID: 5812299375815348756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_166
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9988d2016a6b0a44bad6578611d01fd5
+      internalID: 3759045216239926433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dfdb8ac7df7e24c99f8004dc2a210c
+      internalID: 7929702362297683309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276f7c3539b13247b546a102b6abcaf
+      internalID: -3977588550233613139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_169
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d6a2298ac74343bbe0abe9d38d34e
+      internalID: -4425069376380403356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23031be2a3237324c84ed1dc34d0f1b4
+      internalID: 5643655160305800112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_171
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a047ad9d6f203f4fab48c25422c512a
+      internalID: -1640290314445348127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec95051eab49c4ea78e73c71a3a845
+      internalID: 6125412784968534924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13514168279d6ca49b0b8f94e26463aa
+      internalID: 5203978544274998636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bda366a8abfdd4298e5a2bd33a278d
+      internalID: -5166497748339537489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb912fdbc2301c142a0bffcfeb50388c
+      internalID: 4276764271815210967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e868278db51c594b88b0154c2abd86d
+      internalID: -3060921193314777688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c54d2c93169984db492c6b6da9788c
+      internalID: -3999852025263118365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_178
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743726bb88d74044aae30f9333ffe9bd
+      internalID: 3834510249761249417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Walls_1_179
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a725f2ee13cc94c8b6c7dd79477609
+      internalID: -5374715831099683881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

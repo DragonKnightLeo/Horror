@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CanBePickedUp
+  - Enemy
+  - VirtualCamera
   layers:
   - Default
   - TransparentFX
@@ -13,9 +16,9 @@ TagManager:
   - UI
   - 
   - 
-  - Walls
-  - Objects
-  - Ground
+  - Enemy
+  - Characters
+  - Structures
   - 
   - 
   - 
@@ -41,6 +44,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Foreground
-    uniqueID: 2257721813
+  - name: Ground
+    uniqueID: 3280160441
+    locked: 0
+  - name: OuterWall
+    uniqueID: 3119742057
+    locked: 0
+  - name: InnerWall
+    uniqueID: 3184727553
+    locked: 0
+  - name: Objects
+    uniqueID: 28367043
+    locked: 0
+  - name: Characters
+    uniqueID: 2120127893
+    locked: 0
+  - name: Player
+    uniqueID: 4112347869
     locked: 0

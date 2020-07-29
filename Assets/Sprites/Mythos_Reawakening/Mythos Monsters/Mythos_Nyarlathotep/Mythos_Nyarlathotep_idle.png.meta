@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 8f262efd62d5e64409867348660fabcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5754519224072130074
+    second: Mythos_Nyarlathotep_idle_0
+  - first:
+      213: -2560436981431270827
+    second: Mythos_Nyarlathotep_idle_1
+  - first:
+      213: 4386105104166517469
+    second: Mythos_Nyarlathotep_idle_2
+  - first:
+      213: 7648800020097598290
+    second: Mythos_Nyarlathotep_idle_3
+  - first:
+      213: -7636967461958460028
+    second: Mythos_Nyarlathotep_idle_4
+  - first:
+      213: 1260452865361765517
+    second: Mythos_Nyarlathotep_idle_5
+  - first:
+      213: -8968708528201581532
+    second: Mythos_Nyarlathotep_idle_6
+  - first:
+      213: 1112930946928065525
+    second: Mythos_Nyarlathotep_idle_7
+  - first:
+      213: 8653470321598480959
+    second: Mythos_Nyarlathotep_idle_8
+  - first:
+      213: 2765026584890460425
+    second: Mythos_Nyarlathotep_idle_9
+  - first:
+      213: -7865472083114793027
+    second: Mythos_Nyarlathotep_idle_10
+  - first:
+      213: 3817847240382131026
+    second: Mythos_Nyarlathotep_idle_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1576
+        width: 165
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f6fd152a28a746a7bf971e7f0eb78
+      internalID: -5754519224072130074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1575
+        width: 165
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292e3a1a0cd2264abab90827962536c
+      internalID: -2560436981431270827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1574
+        width: 165
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71544cb0a04f6b44b16c8cfca20764f
+      internalID: 4386105104166517469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1134
+        width: 335
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2eafe5b66dbce40bbde036396bb2ab
+      internalID: 7648800020097598290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1133
+        width: 335
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b30d6e256724b4088d45a6777d8171
+      internalID: -7636967461958460028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1133
+        width: 335
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e346dc2321f8b479ecd47bf35261c7
+      internalID: 1260452865361765517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 623
+        width: 340
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57683e08a3dc41942842b5cbad784166
+      internalID: -8968708528201581532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 623
+        width: 341
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d110615c47a594ca48372fc5cf9d9e
+      internalID: 1112930946928065525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 623
+        width: 346
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706605716dfc2124dbfcbec646610a25
+      internalID: 8653470321598480959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 85
+        width: 166
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c824b5aaffb4848a21a91575317bc4
+      internalID: 2765026584890460425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 85
+        width: 165
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf445cc67f78fad4597b66fc4fc450ae
+      internalID: -7865472083114793027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 85
+        width: 165
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fae244ab8bda478a4558b586b85ee
+      internalID: 3817847240382131026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

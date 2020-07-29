@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: d63af421189ed7c4eaa2aa1b6e2ce9c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1927048777079411942
+    second: Mythos_Nyarlathotep_walking_0
+  - first:
+      213: -5112155353505602691
+    second: Mythos_Nyarlathotep_walking_1
+  - first:
+      213: 5262159463229815267
+    second: Mythos_Nyarlathotep_walking_2
+  - first:
+      213: 1622255714218143315
+    second: Mythos_Nyarlathotep_walking_3
+  - first:
+      213: 1101918176197514755
+    second: Mythos_Nyarlathotep_walking_4
+  - first:
+      213: -1582065827503492654
+    second: Mythos_Nyarlathotep_walking_5
+  - first:
+      213: 6526564278470734416
+    second: Mythos_Nyarlathotep_walking_6
+  - first:
+      213: -5453647156341404983
+    second: Mythos_Nyarlathotep_walking_7
+  - first:
+      213: 7527104473270156465
+    second: Mythos_Nyarlathotep_walking_8
+  - first:
+      213: -4852725290850816714
+    second: Mythos_Nyarlathotep_walking_9
+  - first:
+      213: 6398192469049904852
+    second: Mythos_Nyarlathotep_walking_10
+  - first:
+      213: -441067920963929866
+    second: Mythos_Nyarlathotep_walking_11
+  - first:
+      213: -4276488670519773346
+    second: Mythos_Nyarlathotep_walking_12
+  - first:
+      213: -7773070441516833984
+    second: Mythos_Nyarlathotep_walking_13
+  - first:
+      213: 7541904722147165570
+    second: Mythos_Nyarlathotep_walking_14
+  - first:
+      213: 8482797578427935458
+    second: Mythos_Nyarlathotep_walking_15
+  - first:
+      213: -5758070356630533672
+    second: Mythos_Nyarlathotep_walking_16
+  - first:
+      213: -8837672754059004892
+    second: Mythos_Nyarlathotep_walking_17
+  - first:
+      213: -3009432137970806517
+    second: Mythos_Nyarlathotep_walking_18
+  - first:
+      213: 1868477920164330833
+    second: Mythos_Nyarlathotep_walking_19
+  - first:
+      213: 414752681680243902
+    second: Mythos_Nyarlathotep_walking_20
+  - first:
+      213: -6459141297204815757
+    second: Mythos_Nyarlathotep_walking_21
+  - first:
+      213: 5683372833871926518
+    second: Mythos_Nyarlathotep_walking_22
+  - first:
+      213: -3818841538446747364
+    second: Mythos_Nyarlathotep_walking_23
+  - first:
+      213: -2880595285024782652
+    second: Mythos_Nyarlathotep_walking_24
+  - first:
+      213: -8392878710254366483
+    second: Mythos_Nyarlathotep_walking_25
+  - first:
+      213: -2385782501450082487
+    second: Mythos_Nyarlathotep_walking_26
+  - first:
+      213: 5331203117640540384
+    second: Mythos_Nyarlathotep_walking_27
+  - first:
+      213: 5478664558349449592
+    second: Mythos_Nyarlathotep_walking_28
+  - first:
+      213: 5886178339538970732
+    second: Mythos_Nyarlathotep_walking_29
+  - first:
+      213: -3124815285178298978
+    second: Mythos_Nyarlathotep_walking_30
+  - first:
+      213: -8055808417629070955
+    second: Mythos_Nyarlathotep_walking_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1594
+        width: 152
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191a699c61a151469ac52a76269dc3b
+      internalID: 1927048777079411942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1596
+        width: 192
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeef14c9d5a7d94799b766448156ef1
+      internalID: -5112155353505602691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1580
+        width: 190
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce476ab8340bb4892c6694a27a6b28
+      internalID: 5262159463229815267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1550
+        width: 162
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c5576d729ce6429b519eb2ea35db5
+      internalID: 1622255714218143315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_4
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1564
+        width: 156
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff95e0b2d6bcc4482970db234d6297
+      internalID: 1101918176197514755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_5
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1582
+        width: 190
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e7268e5704c2743a99393ba36776e1
+      internalID: -1582065827503492654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_6
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1552
+        width: 176
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cfaccf7ec0b649a5f6953d2012cc0
+      internalID: 6526564278470734416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_7
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 1560
+        width: 216
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe553fec2da2534198c2fd8917d1011
+      internalID: -5453647156341404983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1142
+        width: 408
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a676b18428776946b9c07df18825a84
+      internalID: 7527104473270156465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1122
+        width: 410
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b78b993d4a5e42952f19026993566
+      internalID: -4852725290850816714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_10
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1144
+        width: 350
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1ef5403a50e14d8bc2145efedad95
+      internalID: 6398192469049904852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_11
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1146
+        width: 344
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505307526f6768409d9566a2575b6fc
+      internalID: -441067920963929866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_12
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1146
+        width: 408
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2520c2a519144409ddb0949b8e9204
+      internalID: -4276488670519773346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_13
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1142
+        width: 406
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11e5328de62e64e96efc51adc4a5bc
+      internalID: -7773070441516833984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_14
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 1140
+        width: 456
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba157ed7cc3125458757c7c069c93ee
+      internalID: 7541904722147165570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_15
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1116
+        width: 364
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36ba21e0fcc984cb397a25c68969aa
+      internalID: 8482797578427935458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 632
+        width: 418
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c94d808e74c54f9ac8573869633ce
+      internalID: -5758070356630533672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 634
+        width: 416
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c92b5f446fe0a4ab4c7659a8311611
+      internalID: -8837672754059004892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_18
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 626
+        width: 352
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d661e9a8029b34398740085ddb2b36
+      internalID: -3009432137970806517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_19
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 628
+        width: 340
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a527e5de19e8854892965379473d9d8
+      internalID: 1868477920164330833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_20
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 632
+        width: 408
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276bb4db74fd724f86474245981daa3
+      internalID: 414752681680243902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_21
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 614
+        width: 410
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cbea765fba5bc47949cb0e80186440
+      internalID: -6459141297204815757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_22
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 622
+        width: 458
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e441834e72d88d4abb9bc08aa19dbba
+      internalID: 5683372833871926518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_23
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 626
+        width: 364
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50073f373f84f340aea287c61de3261
+      internalID: -3818841538446747364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 36
+        width: 160
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013566b90dc1b364bab24921ff862b55
+      internalID: -2880595285024782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 40
+        width: 202
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8eac61ad9fbe349b494c2f59e5d94d
+      internalID: -8392878710254366483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_26
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 92
+        width: 194
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f237c7533676344ca5cd6cc21885147
+      internalID: -2385782501450082487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_27
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 104
+        width: 162
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7b8d1691fde4458fd7e49a122a798
+      internalID: 5331203117640540384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_28
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 52
+        width: 150
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020366b7226a0f4f8db71c839740273
+      internalID: 5478664558349449592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_29
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 40
+        width: 184
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109ddad1d335e4468f5a436b49b596b
+      internalID: 5886178339538970732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_30
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 24
+        width: 180
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1343a9085a38498f96a7827767e9b
+      internalID: -3124815285178298978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_walking_31
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 72
+        width: 220
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24776f6e15523bb4ba3415bb476a3080
+      internalID: -8055808417629070955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

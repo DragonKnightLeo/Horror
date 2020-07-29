@@ -1,0 +1,6799 @@
+fileFormatVersion: 2
+guid: dc8509644484cad4b858b3b4ddf62c4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4174504320625512627
+    second: Mythos_Floors_1_0
+  - first:
+      213: 2440015259527715092
+    second: Mythos_Floors_1_1
+  - first:
+      213: 5829468369977683162
+    second: Mythos_Floors_1_2
+  - first:
+      213: -6589124502872878976
+    second: Mythos_Floors_1_3
+  - first:
+      213: 2236213563369571831
+    second: Mythos_Floors_1_4
+  - first:
+      213: -510384105823549314
+    second: Mythos_Floors_1_5
+  - first:
+      213: -4834930006066606331
+    second: Mythos_Floors_1_6
+  - first:
+      213: -36881613056506479
+    second: Mythos_Floors_1_7
+  - first:
+      213: 4176573618141355311
+    second: Mythos_Floors_1_8
+  - first:
+      213: 2744504267836692941
+    second: Mythos_Floors_1_9
+  - first:
+      213: 8854831450589773771
+    second: Mythos_Floors_1_10
+  - first:
+      213: -6653120638640157342
+    second: Mythos_Floors_1_11
+  - first:
+      213: -6687730578760405209
+    second: Mythos_Floors_1_12
+  - first:
+      213: -5197106048471800439
+    second: Mythos_Floors_1_13
+  - first:
+      213: -5955210493140860886
+    second: Mythos_Floors_1_14
+  - first:
+      213: 5184069777442837628
+    second: Mythos_Floors_1_15
+  - first:
+      213: -2049784839485324193
+    second: Mythos_Floors_1_16
+  - first:
+      213: -3501219286549678832
+    second: Mythos_Floors_1_17
+  - first:
+      213: -2804362364926597089
+    second: Mythos_Floors_1_18
+  - first:
+      213: -8575242829728223433
+    second: Mythos_Floors_1_19
+  - first:
+      213: 1281794496826475786
+    second: Mythos_Floors_1_20
+  - first:
+      213: -1504574013574034752
+    second: Mythos_Floors_1_21
+  - first:
+      213: -5342099497200152159
+    second: Mythos_Floors_1_22
+  - first:
+      213: -6536382488215199363
+    second: Mythos_Floors_1_23
+  - first:
+      213: 1678359392806085793
+    second: Mythos_Floors_1_24
+  - first:
+      213: 8630833537344553746
+    second: Mythos_Floors_1_25
+  - first:
+      213: -5855410298307348231
+    second: Mythos_Floors_1_26
+  - first:
+      213: -6256152511359282188
+    second: Mythos_Floors_1_27
+  - first:
+      213: 8473631143986039454
+    second: Mythos_Floors_1_28
+  - first:
+      213: -1099990185573398301
+    second: Mythos_Floors_1_29
+  - first:
+      213: 7149872366011306201
+    second: Mythos_Floors_1_30
+  - first:
+      213: 2629670615154695126
+    second: Mythos_Floors_1_31
+  - first:
+      213: 3577380289851441152
+    second: Mythos_Floors_1_32
+  - first:
+      213: -3596337557561857008
+    second: Mythos_Floors_1_33
+  - first:
+      213: 7612256104154502612
+    second: Mythos_Floors_1_34
+  - first:
+      213: -6897493510597304493
+    second: Mythos_Floors_1_35
+  - first:
+      213: 6790082835832180003
+    second: Mythos_Floors_1_36
+  - first:
+      213: -1959567249022873762
+    second: Mythos_Floors_1_37
+  - first:
+      213: 2575044963608102319
+    second: Mythos_Floors_1_38
+  - first:
+      213: 7577361341940898565
+    second: Mythos_Floors_1_39
+  - first:
+      213: -5585586447790472912
+    second: Mythos_Floors_1_40
+  - first:
+      213: 8082712048194542364
+    second: Mythos_Floors_1_41
+  - first:
+      213: -2757294467932278013
+    second: Mythos_Floors_1_42
+  - first:
+      213: 7823578905392086490
+    second: Mythos_Floors_1_43
+  - first:
+      213: 4201510980676056621
+    second: Mythos_Floors_1_44
+  - first:
+      213: 1241311245095427955
+    second: Mythos_Floors_1_45
+  - first:
+      213: -1949236718154323808
+    second: Mythos_Floors_1_46
+  - first:
+      213: 5942857526292668281
+    second: Mythos_Floors_1_47
+  - first:
+      213: 5832542518924724712
+    second: Mythos_Floors_1_48
+  - first:
+      213: 4526259716309481561
+    second: Mythos_Floors_1_49
+  - first:
+      213: -4893366708857605823
+    second: Mythos_Floors_1_50
+  - first:
+      213: -3652831766570828326
+    second: Mythos_Floors_1_51
+  - first:
+      213: 5354310072464584632
+    second: Mythos_Floors_1_52
+  - first:
+      213: -7514586840148368867
+    second: Mythos_Floors_1_53
+  - first:
+      213: -3993848328543622010
+    second: Mythos_Floors_1_54
+  - first:
+      213: -6105706438562987765
+    second: Mythos_Floors_1_55
+  - first:
+      213: -2549113674792684531
+    second: Mythos_Floors_1_56
+  - first:
+      213: -145927512269142296
+    second: Mythos_Floors_1_57
+  - first:
+      213: 265716266437444540
+    second: Mythos_Floors_1_58
+  - first:
+      213: 8662585165049360706
+    second: Mythos_Floors_1_59
+  - first:
+      213: 3285833414106372651
+    second: Mythos_Floors_1_60
+  - first:
+      213: 7440062843476165436
+    second: Mythos_Floors_1_61
+  - first:
+      213: -2064319021633520185
+    second: Mythos_Floors_1_62
+  - first:
+      213: 2776578589405284213
+    second: Mythos_Floors_1_63
+  - first:
+      213: -4280660101163717056
+    second: Mythos_Floors_1_64
+  - first:
+      213: -7374097367109762576
+    second: Mythos_Floors_1_65
+  - first:
+      213: -1938485285123145911
+    second: Mythos_Floors_1_66
+  - first:
+      213: 2966241057567838886
+    second: Mythos_Floors_1_67
+  - first:
+      213: 5367016136846747009
+    second: Mythos_Floors_1_68
+  - first:
+      213: -5189163639830569321
+    second: Mythos_Floors_1_69
+  - first:
+      213: 9081620850616462056
+    second: Mythos_Floors_1_70
+  - first:
+      213: 8811748868602051621
+    second: Mythos_Floors_1_71
+  - first:
+      213: -6149097927033175434
+    second: Mythos_Floors_1_72
+  - first:
+      213: 438210550652392303
+    second: Mythos_Floors_1_73
+  - first:
+      213: 2027958915001684473
+    second: Mythos_Floors_1_74
+  - first:
+      213: -7660647459948175698
+    second: Mythos_Floors_1_75
+  - first:
+      213: -3477131819695438761
+    second: Mythos_Floors_1_76
+  - first:
+      213: -3089083354585129456
+    second: Mythos_Floors_1_77
+  - first:
+      213: 8182855526820691994
+    second: Mythos_Floors_1_78
+  - first:
+      213: 2588789455946585413
+    second: Mythos_Floors_1_79
+  - first:
+      213: -7196166803013002423
+    second: Mythos_Floors_1_80
+  - first:
+      213: -1359264131244354970
+    second: Mythos_Floors_1_81
+  - first:
+      213: -382662763437698104
+    second: Mythos_Floors_1_82
+  - first:
+      213: 7074141156093677272
+    second: Mythos_Floors_1_83
+  - first:
+      213: -4996991135911689661
+    second: Mythos_Floors_1_84
+  - first:
+      213: -4693543202031558735
+    second: Mythos_Floors_1_85
+  - first:
+      213: 843844106050093899
+    second: Mythos_Floors_1_86
+  - first:
+      213: -5585257787720219815
+    second: Mythos_Floors_1_87
+  - first:
+      213: 8808042650805901525
+    second: Mythos_Floors_1_88
+  - first:
+      213: -231764761708885038
+    second: Mythos_Floors_1_89
+  - first:
+      213: 8545758482535373834
+    second: Mythos_Floors_1_90
+  - first:
+      213: 549633628393537088
+    second: Mythos_Floors_1_91
+  - first:
+      213: -398722921207860377
+    second: Mythos_Floors_1_92
+  - first:
+      213: 4249508539869791529
+    second: Mythos_Floors_1_93
+  - first:
+      213: -2598762703131281262
+    second: Mythos_Floors_1_94
+  - first:
+      213: 8424740044754597908
+    second: Mythos_Floors_1_95
+  - first:
+      213: 2287652489936214968
+    second: Mythos_Floors_1_96
+  - first:
+      213: -5516464136468524468
+    second: Mythos_Floors_1_97
+  - first:
+      213: -5746470337866416503
+    second: Mythos_Floors_1_98
+  - first:
+      213: 1537689798562091833
+    second: Mythos_Floors_1_99
+  - first:
+      213: -8866697952763582326
+    second: Mythos_Floors_1_100
+  - first:
+      213: 7295968148443763423
+    second: Mythos_Floors_1_101
+  - first:
+      213: -6309411210387989923
+    second: Mythos_Floors_1_102
+  - first:
+      213: -3150288930300581647
+    second: Mythos_Floors_1_103
+  - first:
+      213: 1218838570404838115
+    second: Mythos_Floors_1_104
+  - first:
+      213: -5580622150987490039
+    second: Mythos_Floors_1_105
+  - first:
+      213: -6399147071774749922
+    second: Mythos_Floors_1_106
+  - first:
+      213: 8959412214543316744
+    second: Mythos_Floors_1_107
+  - first:
+      213: 7540491306399802946
+    second: Mythos_Floors_1_108
+  - first:
+      213: 4401298415278979625
+    second: Mythos_Floors_1_109
+  - first:
+      213: -3561156903087469962
+    second: Mythos_Floors_1_110
+  - first:
+      213: -5077241744353251562
+    second: Mythos_Floors_1_111
+  - first:
+      213: 6145486504621967829
+    second: Mythos_Floors_1_112
+  - first:
+      213: 5079543498418352768
+    second: Mythos_Floors_1_113
+  - first:
+      213: -8916162847049915560
+    second: Mythos_Floors_1_114
+  - first:
+      213: -5379262127372552486
+    second: Mythos_Floors_1_115
+  - first:
+      213: 5465556782623309854
+    second: Mythos_Floors_1_116
+  - first:
+      213: -6006690495458579719
+    second: Mythos_Floors_1_117
+  - first:
+      213: 7285437390468553710
+    second: Mythos_Floors_1_118
+  - first:
+      213: 4920506757429056685
+    second: Mythos_Floors_1_119
+  - first:
+      213: -7406513595719964124
+    second: Mythos_Floors_1_120
+  - first:
+      213: 7764436482232684478
+    second: Mythos_Floors_1_121
+  - first:
+      213: -8469845672947553851
+    second: Mythos_Floors_1_122
+  - first:
+      213: -5894013152803998305
+    second: Mythos_Floors_1_123
+  - first:
+      213: 1120155845962761702
+    second: Mythos_Floors_1_124
+  - first:
+      213: 3180223965867317306
+    second: Mythos_Floors_1_125
+  - first:
+      213: -3223178306418785671
+    second: Mythos_Floors_1_126
+  - first:
+      213: -123965390745186512
+    second: Mythos_Floors_1_127
+  - first:
+      213: -8373821087755386284
+    second: Mythos_Floors_1_128
+  - first:
+      213: -8963804602564838503
+    second: Mythos_Floors_1_129
+  - first:
+      213: 7883859351678014856
+    second: Mythos_Floors_1_130
+  - first:
+      213: -3550854999771738264
+    second: Mythos_Floors_1_131
+  - first:
+      213: -2678439921742413231
+    second: Mythos_Floors_1_132
+  - first:
+      213: 3801068047563173097
+    second: Mythos_Floors_1_133
+  - first:
+      213: -559914290938472970
+    second: Mythos_Floors_1_134
+  - first:
+      213: -3448835837780423634
+    second: Mythos_Floors_1_135
+  - first:
+      213: 2498768090026666309
+    second: Mythos_Floors_1_136
+  - first:
+      213: -4022129196080733779
+    second: Mythos_Floors_1_137
+  - first:
+      213: -4721438406147319606
+    second: Mythos_Floors_1_138
+  - first:
+      213: -915623161985957143
+    second: Mythos_Floors_1_139
+  - first:
+      213: 5376861049076355523
+    second: Mythos_Floors_1_140
+  - first:
+      213: 469084098587188793
+    second: Mythos_Floors_1_141
+  - first:
+      213: -6682893718869714804
+    second: Mythos_Floors_1_142
+  - first:
+      213: -3193981874039365851
+    second: Mythos_Floors_1_143
+  - first:
+      213: -3426891528188835113
+    second: Mythos_Floors_1_144
+  - first:
+      213: 4020243514862653644
+    second: Mythos_Floors_1_145
+  - first:
+      213: -4710128546119567747
+    second: Mythos_Floors_1_146
+  - first:
+      213: 2658861874559418200
+    second: Mythos_Floors_1_147
+  - first:
+      213: -8134975174448441116
+    second: Mythos_Floors_1_148
+  - first:
+      213: 721697832027476815
+    second: Mythos_Floors_1_149
+  - first:
+      213: 265985881038676413
+    second: Mythos_Floors_1_150
+  - first:
+      213: 7421954059505784412
+    second: Mythos_Floors_1_151
+  - first:
+      213: 2533804481447547481
+    second: Mythos_Floors_1_152
+  - first:
+      213: 359826672331209031
+    second: Mythos_Floors_1_153
+  - first:
+      213: 7124638310947032273
+    second: Mythos_Floors_1_154
+  - first:
+      213: -2492192913090166060
+    second: Mythos_Floors_1_155
+  - first:
+      213: -8026539216232315059
+    second: Mythos_Floors_1_156
+  - first:
+      213: -7791747362034180916
+    second: Mythos_Floors_1_157
+  - first:
+      213: 4691309214931626017
+    second: Mythos_Floors_1_158
+  - first:
+      213: 6591751758612392834
+    second: Mythos_Floors_1_159
+  - first:
+      213: 262744044463472009
+    second: Mythos_Floors_1_160
+  - first:
+      213: -2917994018950606982
+    second: Mythos_Floors_1_161
+  - first:
+      213: 7759611597098605264
+    second: Mythos_Floors_1_162
+  - first:
+      213: -6936425122201028765
+    second: Mythos_Floors_1_163
+  - first:
+      213: 5328534106979034285
+    second: Mythos_Floors_1_164
+  - first:
+      213: -940519426720160760
+    second: Mythos_Floors_1_165
+  - first:
+      213: -6057091967732778654
+    second: Mythos_Floors_1_166
+  - first:
+      213: -4877746797551876070
+    second: Mythos_Floors_1_167
+  - first:
+      213: 8042705370631416894
+    second: Mythos_Floors_1_168
+  - first:
+      213: -4132108638597580565
+    second: Mythos_Floors_1_169
+  - first:
+      213: -2118010085110148868
+    second: Mythos_Floors_1_170
+  - first:
+      213: -6347553137402255457
+    second: Mythos_Floors_1_171
+  - first:
+      213: 6557902253750142435
+    second: Mythos_Floors_1_172
+  - first:
+      213: 6098119582532441592
+    second: Mythos_Floors_1_173
+  - first:
+      213: -451622141721537472
+    second: Mythos_Floors_1_174
+  - first:
+      213: 3920160128398680896
+    second: Mythos_Floors_1_175
+  - first:
+      213: -4895155982121661093
+    second: Mythos_Floors_1_176
+  - first:
+      213: -8431447557193966145
+    second: Mythos_Floors_1_177
+  - first:
+      213: -2673215786600263130
+    second: Mythos_Floors_1_178
+  - first:
+      213: -874652945470544768
+    second: Mythos_Floors_1_179
+  - first:
+      213: -4343660273167537860
+    second: Mythos_Floors_1_180
+  - first:
+      213: 3176171169437819985
+    second: Mythos_Floors_1_181
+  - first:
+      213: -6417363908421722016
+    second: Mythos_Floors_1_182
+  - first:
+      213: 906008814803777134
+    second: Mythos_Floors_1_183
+  - first:
+      213: -7836645086114115203
+    second: Mythos_Floors_1_184
+  - first:
+      213: -8957286057252218255
+    second: Mythos_Floors_1_185
+  - first:
+      213: -778574954188723767
+    second: Mythos_Floors_1_186
+  - first:
+      213: -815424764400993559
+    second: Mythos_Floors_1_187
+  - first:
+      213: 6720441788525141506
+    second: Mythos_Floors_1_188
+  - first:
+      213: -4134930457875592829
+    second: Mythos_Floors_1_189
+  - first:
+      213: 904177411241603562
+    second: Mythos_Floors_1_190
+  - first:
+      213: 3517560513342782570
+    second: Mythos_Floors_1_191
+  - first:
+      213: -7701774226530087472
+    second: Mythos_Floors_1_192
+  - first:
+      213: 3553996581479502792
+    second: Mythos_Floors_1_193
+  - first:
+      213: 2596526368083061515
+    second: Mythos_Floors_1_194
+  - first:
+      213: 1969385021780967227
+    second: Mythos_Floors_1_195
+  - first:
+      213: -6215877191019765561
+    second: Mythos_Floors_1_196
+  - first:
+      213: -9101656146900724306
+    second: Mythos_Floors_1_197
+  - first:
+      213: 6750458362730828493
+    second: Mythos_Floors_1_198
+  - first:
+      213: 410486162266774022
+    second: Mythos_Floors_1_199
+  - first:
+      213: 5145912294762016221
+    second: Mythos_Floors_1_200
+  - first:
+      213: 690218533533495285
+    second: Mythos_Floors_1_201
+  - first:
+      213: -1434346048595844531
+    second: Mythos_Floors_1_202
+  - first:
+      213: 1900441574336290924
+    second: Mythos_Floors_1_203
+  - first:
+      213: -6548639871852837254
+    second: Mythos_Floors_1_204
+  - first:
+      213: -4072315134018965422
+    second: Mythos_Floors_1_205
+  - first:
+      213: 8790148788285000594
+    second: Mythos_Floors_1_206
+  - first:
+      213: 3506383193488599854
+    second: Mythos_Floors_1_207
+  - first:
+      213: -1303637903389759431
+    second: Mythos_Floors_1_208
+  - first:
+      213: 4702774972316769439
+    second: Mythos_Floors_1_209
+  - first:
+      213: 6164253260752553190
+    second: Mythos_Floors_1_210
+  - first:
+      213: -3764678822360499499
+    second: Mythos_Floors_1_211
+  - first:
+      213: 3998753406715436112
+    second: Mythos_Floors_1_212
+  - first:
+      213: -7647263030501589490
+    second: Mythos_Floors_1_213
+  - first:
+      213: 6862541874602059175
+    second: Mythos_Floors_1_214
+  - first:
+      213: 4534888726922734671
+    second: Mythos_Floors_1_215
+  - first:
+      213: -7896133894629811565
+    second: Mythos_Floors_1_216
+  - first:
+      213: 8545467820246797858
+    second: Mythos_Floors_1_217
+  - first:
+      213: -1203874101392804334
+    second: Mythos_Floors_1_218
+  - first:
+      213: -2934177138877373990
+    second: Mythos_Floors_1_219
+  - first:
+      213: 6609243776373994874
+    second: Mythos_Floors_1_220
+  - first:
+      213: 4722311310013332671
+    second: Mythos_Floors_1_221
+  - first:
+      213: -3443186991040527012
+    second: Mythos_Floors_1_222
+  - first:
+      213: 4004306941643399926
+    second: Mythos_Floors_1_223
+  - first:
+      213: -4021070936878138447
+    second: Mythos_Floors_1_224
+  - first:
+      213: -4716188843316765732
+    second: Mythos_Floors_1_225
+  - first:
+      213: -4215849972061258907
+    second: Mythos_Floors_1_226
+  - first:
+      213: -6352736359162537806
+    second: Mythos_Floors_1_227
+  - first:
+      213: -8219987711240660984
+    second: Mythos_Floors_1_228
+  - first:
+      213: 4819022245930399267
+    second: Mythos_Floors_1_229
+  - first:
+      213: -5308089611091532772
+    second: Mythos_Floors_1_230
+  - first:
+      213: -3709736482884009427
+    second: Mythos_Floors_1_231
+  - first:
+      213: -7640259274242860104
+    second: Mythos_Floors_1_232
+  - first:
+      213: -2337699821902030808
+    second: Mythos_Floors_1_233
+  - first:
+      213: -7983609212678560492
+    second: Mythos_Floors_1_234
+  - first:
+      213: 8289016347169634797
+    second: Mythos_Floors_1_235
+  - first:
+      213: 4636911074636727237
+    second: Mythos_Floors_1_236
+  - first:
+      213: 8355886053226214217
+    second: Mythos_Floors_1_237
+  - first:
+      213: 1684123508042030119
+    second: Mythos_Floors_1_238
+  - first:
+      213: 683934552371302970
+    second: Mythos_Floors_1_239
+  - first:
+      213: -2564150227985685491
+    second: Mythos_Floors_1_240
+  - first:
+      213: -1924755486176025600
+    second: Mythos_Floors_1_241
+  - first:
+      213: -4137615747428013721
+    second: Mythos_Floors_1_242
+  - first:
+      213: -3476034893611432715
+    second: Mythos_Floors_1_243
+  - first:
+      213: -5393166155280230694
+    second: Mythos_Floors_1_244
+  - first:
+      213: -5270215886324457734
+    second: Mythos_Floors_1_245
+  - first:
+      213: -4188290307561646645
+    second: Mythos_Floors_1_246
+  - first:
+      213: 7415539659246506939
+    second: Mythos_Floors_1_247
+  - first:
+      213: 6810522643707302512
+    second: Mythos_Floors_1_248
+  - first:
+      213: -8441191086561663921
+    second: Mythos_Floors_1_249
+  - first:
+      213: -983929734554174376
+    second: Mythos_Floors_1_250
+  - first:
+      213: -1529227759794149932
+    second: Mythos_Floors_1_251
+  - first:
+      213: 2190153712870798176
+    second: Mythos_Floors_1_252
+  - first:
+      213: 5405624815901766937
+    second: Mythos_Floors_1_253
+  - first:
+      213: 3400520317691051573
+    second: Mythos_Floors_1_254
+  - first:
+      213: 6653461634467522386
+    second: Mythos_Floors_1_255
+  - first:
+      213: 7809880636349643796
+    second: Mythos_Floors_1_256
+  - first:
+      213: 1706961908162640251
+    second: Mythos_Floors_1_257
+  - first:
+      213: -7975403441153992437
+    second: Mythos_Floors_1_258
+  - first:
+      213: 6164283345916739454
+    second: Mythos_Floors_1_259
+  - first:
+      213: -3591281243784675815
+    second: Mythos_Floors_1_260
+  - first:
+      213: -3209404242506543937
+    second: Mythos_Floors_1_261
+  - first:
+      213: -2506616100150658788
+    second: Mythos_Floors_1_262
+  - first:
+      213: -2190754998528297847
+    second: Mythos_Floors_1_263
+  - first:
+      213: -1204524049359569023
+    second: Mythos_Floors_1_264
+  - first:
+      213: 5069294726689320671
+    second: Mythos_Floors_1_265
+  - first:
+      213: 9134924567447142003
+    second: Mythos_Floors_1_266
+  - first:
+      213: 3692491273919187743
+    second: Mythos_Floors_1_267
+  - first:
+      213: 7422452954889790127
+    second: Mythos_Floors_1_268
+  - first:
+      213: 4877769417492214486
+    second: Mythos_Floors_1_269
+  - first:
+      213: 8986081807803200194
+    second: Mythos_Floors_1_270
+  - first:
+      213: -168627682118173420
+    second: Mythos_Floors_1_271
+  - first:
+      213: -1893870292577641392
+    second: Mythos_Floors_1_272
+  - first:
+      213: 6046108845625200570
+    second: Mythos_Floors_1_273
+  - first:
+      213: 7836212699077260791
+    second: Mythos_Floors_1_274
+  - first:
+      213: 4216898543347865814
+    second: Mythos_Floors_1_275
+  - first:
+      213: -6945587652274094944
+    second: Mythos_Floors_1_276
+  - first:
+      213: 3545015035189011252
+    second: Mythos_Floors_1_277
+  - first:
+      213: 6056820806963588139
+    second: Mythos_Floors_1_278
+  - first:
+      213: 5344662646230191800
+    second: Mythos_Floors_1_279
+  - first:
+      213: 9173407467272427169
+    second: Mythos_Floors_1_280
+  - first:
+      213: -348800435592762244
+    second: Mythos_Floors_1_281
+  - first:
+      213: 788187973505401159
+    second: Mythos_Floors_1_282
+  - first:
+      213: -6342608444528763821
+    second: Mythos_Floors_1_283
+  - first:
+      213: -946501647959789582
+    second: Mythos_Floors_1_284
+  - first:
+      213: -8525211238285335086
+    second: Mythos_Floors_1_285
+  - first:
+      213: -5340251994209341924
+    second: Mythos_Floors_1_286
+  - first:
+      213: 5536533193708491326
+    second: Mythos_Floors_1_287
+  - first:
+      213: 7353155344595331791
+    second: Mythos_Floors_1_288
+  - first:
+      213: 490950682671314625
+    second: Mythos_Floors_1_289
+  - first:
+      213: 6901784437547186833
+    second: Mythos_Floors_1_290
+  - first:
+      213: -8870735365414921754
+    second: Mythos_Floors_1_291
+  - first:
+      213: 1267044912349329037
+    second: Mythos_Floors_1_292
+  - first:
+      213: -4227942734642713115
+    second: Mythos_Floors_1_293
+  - first:
+      213: -326435850891548377
+    second: Mythos_Floors_1_294
+  - first:
+      213: 3011851555253515210
+    second: Mythos_Floors_1_295
+  - first:
+      213: -1360982816622077797
+    second: Mythos_Floors_1_296
+  - first:
+      213: 592212836506094611
+    second: Mythos_Floors_1_297
+  - first:
+      213: 7931483734459420411
+    second: Mythos_Floors_1_298
+  - first:
+      213: 7257518303252844827
+    second: Mythos_Floors_1_299
+  - first:
+      213: 2222382337695967445
+    second: Mythos_Floors_1_300
+  - first:
+      213: -4312139004620793114
+    second: Mythos_Floors_1_301
+  - first:
+      213: -2183142644088506394
+    second: Mythos_Floors_1_302
+  - first:
+      213: 4516819469129335992
+    second: Mythos_Floors_1_303
+  - first:
+      213: 5857848217461245641
+    second: Mythos_Floors_1_304
+  - first:
+      213: -7942324287937943414
+    second: Mythos_Floors_1_305
+  - first:
+      213: -7094136141498665077
+    second: Mythos_Floors_1_306
+  - first:
+      213: -4229343318331153002
+    second: Mythos_Floors_1_307
+  - first:
+      213: -6213202691542869541
+    second: Mythos_Floors_1_308
+  - first:
+      213: 5170176046462587340
+    second: Mythos_Floors_1_309
+  - first:
+      213: 6048070502688937716
+    second: Mythos_Floors_1_310
+  - first:
+      213: -2691702891406166932
+    second: Mythos_Floors_1_311
+  - first:
+      213: -2025252399881994412
+    second: Mythos_Floors_1_312
+  - first:
+      213: 1891509177929495737
+    second: Mythos_Floors_1_313
+  - first:
+      213: -3805298929745399399
+    second: Mythos_Floors_1_314
+  - first:
+      213: -165468947672884435
+    second: Mythos_Floors_1_315
+  - first:
+      213: -4469061700849588188
+    second: Mythos_Floors_1_316
+  - first:
+      213: -7014307077724424119
+    second: Mythos_Floors_1_317
+  - first:
+      213: -5315754375535185942
+    second: Mythos_Floors_1_318
+  - first:
+      213: 5820488042125747692
+    second: Mythos_Floors_1_319
+  - first:
+      213: -2258070250152020410
+    second: Mythos_Floors_1_320
+  - first:
+      213: -4720927566231516167
+    second: Mythos_Floors_1_321
+  - first:
+      213: 2241164866008541777
+    second: Mythos_Floors_1_322
+  - first:
+      213: 5294907779832949062
+    second: Mythos_Floors_1_323
+  - first:
+      213: -6226625183159785677
+    second: Mythos_Floors_1_324
+  - first:
+      213: -8779767434215692234
+    second: Mythos_Floors_1_325
+  - first:
+      213: 3226623684445586946
+    second: Mythos_Floors_1_326
+  - first:
+      213: -1049789552291439987
+    second: Mythos_Floors_1_327
+  - first:
+      213: 6805288834110263281
+    second: Mythos_Floors_1_328
+  - first:
+      213: 1449507044023776021
+    second: Mythos_Floors_1_329
+  - first:
+      213: -8597230933031313977
+    second: Mythos_Floors_1_330
+  - first:
+      213: 1224552873590257467
+    second: Mythos_Floors_1_331
+  - first:
+      213: 2715057818360322018
+    second: Mythos_Floors_1_332
+  - first:
+      213: -3027064232011795674
+    second: Mythos_Floors_1_333
+  - first:
+      213: -4622057897154141478
+    second: Mythos_Floors_1_334
+  - first:
+      213: 3839848726427477738
+    second: Mythos_Floors_1_335
+  - first:
+      213: 5429708957391185142
+    second: Mythos_Floors_1_336
+  - first:
+      213: -1918727028451185856
+    second: Mythos_Floors_1_337
+  - first:
+      213: -2919773381960697787
+    second: Mythos_Floors_1_338
+  - first:
+      213: -1396782591966188540
+    second: Mythos_Floors_1_339
+  - first:
+      213: 3124529445673912558
+    second: Mythos_Floors_1_340
+  - first:
+      213: -2742061569207517755
+    second: Mythos_Floors_1_341
+  - first:
+      213: -3573016704314543315
+    second: Mythos_Floors_1_342
+  - first:
+      213: -5391866484401165794
+    second: Mythos_Floors_1_343
+  - first:
+      213: 4141512028758398833
+    second: Mythos_Floors_1_344
+  - first:
+      213: 7450438840343517014
+    second: Mythos_Floors_1_345
+  - first:
+      213: -6153723175817107259
+    second: Mythos_Floors_1_346
+  - first:
+      213: 3543607685013382245
+    second: Mythos_Floors_1_347
+  - first:
+      213: -2561027175071096018
+    second: Mythos_Floors_1_348
+  - first:
+      213: -5013259107292335392
+    second: Mythos_Floors_1_349
+  - first:
+      213: -8283554624478187774
+    second: Mythos_Floors_1_350
+  - first:
+      213: 8190178940047984169
+    second: Mythos_Floors_1_351
+  - first:
+      213: -8712229572326066304
+    second: Mythos_Floors_1_352
+  - first:
+      213: 7355670747450888851
+    second: Mythos_Floors_1_353
+  - first:
+      213: -6495894289093230533
+    second: Mythos_Floors_1_354
+  - first:
+      213: 8957948371965354168
+    second: Mythos_Floors_1_355
+  - first:
+      213: -380527282409072555
+    second: Mythos_Floors_1_356
+  - first:
+      213: 6772150153183223511
+    second: Mythos_Floors_1_357
+  - first:
+      213: 2918739163046655050
+    second: Mythos_Floors_1_358
+  - first:
+      213: 4841005290956560614
+    second: Mythos_Floors_1_359
+  - first:
+      213: -1397796184687099140
+    second: Mythos_Floors_1_360
+  - first:
+      213: -1074182418045938626
+    second: Mythos_Floors_1_361
+  - first:
+      213: 4282853557814633622
+    second: Mythos_Floors_1_362
+  - first:
+      213: -7050834639849035234
+    second: Mythos_Floors_1_363
+  - first:
+      213: -586118048389720428
+    second: Mythos_Floors_1_364
+  - first:
+      213: -8229178866197937575
+    second: Mythos_Floors_1_365
+  - first:
+      213: -1029142675897672158
+    second: Mythos_Floors_1_366
+  - first:
+      213: -2959069652548174882
+    second: Mythos_Floors_1_367
+  - first:
+      213: -2664067186117574162
+    second: Mythos_Floors_1_368
+  - first:
+      213: -8201867939333428941
+    second: Mythos_Floors_1_369
+  - first:
+      213: -3663981400957369144
+    second: Mythos_Floors_1_370
+  - first:
+      213: 4666032184351913480
+    second: Mythos_Floors_1_371
+  - first:
+      213: -7047850809193481213
+    second: Mythos_Floors_1_372
+  - first:
+      213: -971085582265298314
+    second: Mythos_Floors_1_373
+  - first:
+      213: 9190100538932736456
+    second: Mythos_Floors_1_374
+  - first:
+      213: 7947629598938294767
+    second: Mythos_Floors_1_375
+  - first:
+      213: 5664027900597732154
+    second: Mythos_Floors_1_376
+  - first:
+      213: 7387941468329189225
+    second: Mythos_Floors_1_377
+  - first:
+      213: 7484143102156184752
+    second: Mythos_Floors_1_378
+  - first:
+      213: 3116928280115630407
+    second: Mythos_Floors_1_379
+  - first:
+      213: 5066292891554994172
+    second: Mythos_Floors_1_380
+  - first:
+      213: -7509497190160999609
+    second: Mythos_Floors_1_381
+  - first:
+      213: 1210713199110362892
+    second: Mythos_Floors_1_382
+  - first:
+      213: 5895138082609225090
+    second: Mythos_Floors_1_383
+  - first:
+      213: 3778996615284048107
+    second: Mythos_Floors_1_384
+  - first:
+      213: -2782803236638957700
+    second: Mythos_Floors_1_385
+  - first:
+      213: 625472957753125448
+    second: Mythos_Floors_1_386
+  - first:
+      213: 5889647586718165977
+    second: Mythos_Floors_1_387
+  - first:
+      213: 3677037116031176734
+    second: Mythos_Floors_1_388
+  - first:
+      213: -7099014731652435990
+    second: Mythos_Floors_1_389
+  - first:
+      213: -1253072311850929191
+    second: Mythos_Floors_1_390
+  - first:
+      213: 2640706026107204928
+    second: Mythos_Floors_1_391
+  - first:
+      213: -1362719876271896402
+    second: Mythos_Floors_1_392
+  - first:
+      213: 7287910720935826462
+    second: Mythos_Floors_1_393
+  - first:
+      213: 8159876381639141090
+    second: Mythos_Floors_1_394
+  - first:
+      213: 4082308661414432743
+    second: Mythos_Floors_1_395
+  - first:
+      213: 6796773399365448492
+    second: Mythos_Floors_1_396
+  - first:
+      213: 3314906541044158496
+    second: Mythos_Floors_1_397
+  - first:
+      213: -7304828014367020499
+    second: Mythos_Floors_1_398
+  - first:
+      213: -8888720727592633437
+    second: Mythos_Floors_1_399
+  - first:
+      213: -1570584302303474926
+    second: Mythos_Floors_1_400
+  - first:
+      213: -1365131352707323038
+    second: Mythos_Floors_1_401
+  - first:
+      213: -8727196150292288045
+    second: Mythos_Floors_1_402
+  - first:
+      213: 1307325901435037861
+    second: Mythos_Floors_1_403
+  - first:
+      213: -8053177452770990410
+    second: Mythos_Floors_1_404
+  - first:
+      213: -7449908487012728572
+    second: Mythos_Floors_1_405
+  - first:
+      213: -946430279495509495
+    second: Mythos_Floors_1_406
+  - first:
+      213: -5305033690856906520
+    second: Mythos_Floors_1_407
+  - first:
+      213: 2732767957296112773
+    second: Mythos_Floors_1_408
+  - first:
+      213: -6232349199775192884
+    second: Mythos_Floors_1_409
+  - first:
+      213: 4274122531179110125
+    second: Mythos_Floors_1_410
+  - first:
+      213: -3821299997580896467
+    second: Mythos_Floors_1_411
+  - first:
+      213: -948709076090003661
+    second: Mythos_Floors_1_412
+  - first:
+      213: 2024745240436415497
+    second: Mythos_Floors_1_413
+  - first:
+      213: -3221343200219331443
+    second: Mythos_Floors_1_414
+  - first:
+      213: -1304966097116850645
+    second: Mythos_Floors_1_415
+  - first:
+      213: 9160181408524626331
+    second: Mythos_Floors_1_416
+  - first:
+      213: 8519234199038493194
+    second: Mythos_Floors_1_417
+  - first:
+      213: 9088884588717664750
+    second: Mythos_Floors_1_418
+  - first:
+      213: -8106189679247860430
+    second: Mythos_Floors_1_419
+  - first:
+      213: -7402085316856560570
+    second: Mythos_Floors_1_420
+  - first:
+      213: -6009352280283717538
+    second: Mythos_Floors_1_421
+  - first:
+      213: -4948369145257618847
+    second: Mythos_Floors_1_422
+  - first:
+      213: 5340566913845414722
+    second: Mythos_Floors_1_423
+  - first:
+      213: 8304889179272540879
+    second: Mythos_Floors_1_424
+  - first:
+      213: 7407124584844019615
+    second: Mythos_Floors_1_425
+  - first:
+      213: 6150168696108286277
+    second: Mythos_Floors_1_426
+  - first:
+      213: -4381680764653260768
+    second: Mythos_Floors_1_427
+  - first:
+      213: 615176741821424959
+    second: Mythos_Floors_1_428
+  - first:
+      213: -7155407271754626322
+    second: Mythos_Floors_1_429
+  - first:
+      213: 7741530552861978360
+    second: Mythos_Floors_1_430
+  - first:
+      213: 334078531272285747
+    second: Mythos_Floors_1_431
+  - first:
+      213: -2114417710605218971
+    second: Mythos_Floors_1_432
+  - first:
+      213: -7640629526217055995
+    second: Mythos_Floors_1_433
+  - first:
+      213: -7275484360976319548
+    second: Mythos_Floors_1_434
+  - first:
+      213: 1325676202059553057
+    second: Mythos_Floors_1_435
+  - first:
+      213: 5626695662579125243
+    second: Mythos_Floors_1_436
+  - first:
+      213: -4573626087336562708
+    second: Mythos_Floors_1_437
+  - first:
+      213: 6008860866721859192
+    second: Mythos_Floors_1_438
+  - first:
+      213: 3457308842238228015
+    second: Mythos_Floors_1_439
+  - first:
+      213: 8384931186084667841
+    second: Mythos_Floors_1_440
+  - first:
+      213: 8922482321999783261
+    second: Mythos_Floors_1_441
+  - first:
+      213: 8159416389559320955
+    second: Mythos_Floors_1_442
+  - first:
+      213: -4770095128873487244
+    second: Mythos_Floors_1_443
+  - first:
+      213: -371004843300233809
+    second: Mythos_Floors_1_444
+  - first:
+      213: 8611945417439988411
+    second: Mythos_Floors_1_445
+  - first:
+      213: 2081580372542842695
+    second: Mythos_Floors_1_446
+  - first:
+      213: 4087887390774869185
+    second: Mythos_Floors_1_447
+  - first:
+      213: -7290185332805698616
+    second: Mythos_Floors_1_448
+  - first:
+      213: -6124142187771155741
+    second: Mythos_Floors_1_449
+  - first:
+      213: 6838481857993071216
+    second: Mythos_Floors_1_450
+  - first:
+      213: 5256583300705849806
+    second: Mythos_Floors_1_451
+  - first:
+      213: 4087609389334607691
+    second: Mythos_Floors_1_452
+  - first:
+      213: 7877827578857636474
+    second: Mythos_Floors_1_453
+  - first:
+      213: -8898037625185498706
+    second: Mythos_Floors_1_454
+  - first:
+      213: 4680651058897049671
+    second: Mythos_Floors_1_455
+  - first:
+      213: 5439259150929444939
+    second: Mythos_Floors_1_456
+  - first:
+      213: 1810945831487716443
+    second: Mythos_Floors_1_457
+  - first:
+      213: 2874442857485262338
+    second: Mythos_Floors_1_458
+  - first:
+      213: 1461112804709845290
+    second: Mythos_Floors_1_459
+  - first:
+      213: 3203057018678608449
+    second: Mythos_Floors_1_460
+  - first:
+      213: 5541896189688553742
+    second: Mythos_Floors_1_461
+  - first:
+      213: -2101161926044994802
+    second: Mythos_Floors_1_462
+  - first:
+      213: -3497586337288551238
+    second: Mythos_Floors_1_463
+  - first:
+      213: -1720923195163174873
+    second: Mythos_Floors_1_464
+  - first:
+      213: 922975959842633543
+    second: Mythos_Floors_1_465
+  - first:
+      213: -8939090885940191664
+    second: Mythos_Floors_1_466
+  - first:
+      213: 5405699425266326276
+    second: Mythos_Floors_1_467
+  - first:
+      213: -5087082280569423246
+    second: Mythos_Floors_1_468
+  - first:
+      213: -4547477895830635065
+    second: Mythos_Floors_1_469
+  - first:
+      213: 6095095334651210305
+    second: Mythos_Floors_1_470
+  - first:
+      213: -2620396900838147067
+    second: Mythos_Floors_1_471
+  - first:
+      213: -5897877949651324110
+    second: Mythos_Floors_1_472
+  - first:
+      213: 3384141018089385493
+    second: Mythos_Floors_1_473
+  - first:
+      213: -5127175821026837868
+    second: Mythos_Floors_1_474
+  - first:
+      213: 2603449106339852252
+    second: Mythos_Floors_1_475
+  - first:
+      213: -1438290539813164055
+    second: Mythos_Floors_1_476
+  - first:
+      213: 3891193238952735599
+    second: Mythos_Floors_1_477
+  - first:
+      213: -573739871300083552
+    second: Mythos_Floors_1_478
+  - first:
+      213: -6743911423092156599
+    second: Mythos_Floors_1_479
+  - first:
+      213: 1846844535169968014
+    second: Mythos_Floors_1_480
+  - first:
+      213: 5601074783690749618
+    second: Mythos_Floors_1_481
+  - first:
+      213: 8838054945210622716
+    second: Mythos_Floors_1_482
+  - first:
+      213: 978062982115105838
+    second: Mythos_Floors_1_483
+  - first:
+      213: -4315258516865073044
+    second: Mythos_Floors_1_484
+  - first:
+      213: -1979615407225651326
+    second: Mythos_Floors_1_485
+  - first:
+      213: 5983268738588886760
+    second: Mythos_Floors_1_486
+  - first:
+      213: -7651572157532999667
+    second: Mythos_Floors_1_487
+  - first:
+      213: 697447692645873814
+    second: Mythos_Floors_1_488
+  - first:
+      213: 6975601368388319799
+    second: Mythos_Floors_1_489
+  - first:
+      213: 5427401807681954306
+    second: Mythos_Floors_1_490
+  - first:
+      213: 8315384580680320821
+    second: Mythos_Floors_1_491
+  - first:
+      213: -8043591902307785970
+    second: Mythos_Floors_1_492
+  - first:
+      213: -7174098655660972948
+    second: Mythos_Floors_1_493
+  - first:
+      213: 7157218892968880113
+    second: Mythos_Floors_1_494
+  - first:
+      213: -2973936751641319688
+    second: Mythos_Floors_1_495
+  - first:
+      213: 8532842691022962551
+    second: Mythos_Floors_1_496
+  - first:
+      213: -3539849893626514055
+    second: Mythos_Floors_1_497
+  - first:
+      213: -7799235727559724737
+    second: Mythos_Floors_1_498
+  - first:
+      213: 3021639922571264268
+    second: Mythos_Floors_1_499
+  - first:
+      213: 5565152705838477081
+    second: Mythos_Floors_1_500
+  - first:
+      213: -3667626781016289915
+    second: Mythos_Floors_1_501
+  - first:
+      213: -4138119583474563155
+    second: Mythos_Floors_1_502
+  - first:
+      213: 3104186401383674925
+    second: Mythos_Floors_1_503
+  - first:
+      213: -5125794371279469212
+    second: Mythos_Floors_1_504
+  - first:
+      213: 3654199178590674166
+    second: Mythos_Floors_1_505
+  - first:
+      213: 9192888021622056082
+    second: Mythos_Floors_1_506
+  - first:
+      213: 6776666805784699885
+    second: Mythos_Floors_1_507
+  - first:
+      213: -8788318563797130675
+    second: Mythos_Floors_1_508
+  - first:
+      213: -7394523026421713785
+    second: Mythos_Floors_1_509
+  - first:
+      213: 5794255866653559361
+    second: Mythos_Floors_1_510
+  - first:
+      213: 3098070440838562848
+    second: Mythos_Floors_1_511
+  - first:
+      213: 2879334593726171189
+    second: Mythos_Floors_1_512
+  - first:
+      213: -3237491088836024443
+    second: Mythos_Floors_1_513
+  - first:
+      213: 3564358405780378277
+    second: Mythos_Floors_1_514
+  - first:
+      213: -8457273619053352534
+    second: Mythos_Floors_1_515
+  - first:
+      213: -8210693212916072211
+    second: Mythos_Floors_1_516
+  - first:
+      213: -3058600937722685510
+    second: Mythos_Floors_1_517
+  - first:
+      213: 7507911931385001923
+    second: Mythos_Floors_1_518
+  - first:
+      213: 1660327311828551133
+    second: Mythos_Floors_1_519
+  - first:
+      213: -208027458896982659
+    second: Mythos_Floors_1_520
+  - first:
+      213: -639959533527786688
+    second: Mythos_Floors_1_521
+  - first:
+      213: 3740599879706028404
+    second: Mythos_Floors_1_522
+  - first:
+      213: -7308308201039076326
+    second: Mythos_Floors_1_523
+  - first:
+      213: 3798860811105710845
+    second: Mythos_Floors_1_524
+  - first:
+      213: 8287474753488582628
+    second: Mythos_Floors_1_525
+  - first:
+      213: -8688005327832830298
+    second: Mythos_Floors_1_526
+  - first:
+      213: 6219297466247465825
+    second: Mythos_Floors_1_527
+  - first:
+      213: 7803929886855898664
+    second: Mythos_Floors_1_528
+  - first:
+      213: 1443680670005236580
+    second: Mythos_Floors_1_529
+  - first:
+      213: 1025732754663471205
+    second: Mythos_Floors_1_530
+  - first:
+      213: -7551938901580753729
+    second: Mythos_Floors_1_531
+  - first:
+      213: -7311121523881804754
+    second: Mythos_Floors_1_532
+  - first:
+      213: -8096327149294676986
+    second: Mythos_Floors_1_533
+  - first:
+      213: 8623055012196672636
+    second: Mythos_Floors_1_534
+  - first:
+      213: 8106594056727293649
+    second: Mythos_Floors_1_535
+  - first:
+      213: -3967111428748205705
+    second: Mythos_Floors_1_536
+  - first:
+      213: 3388183006568306955
+    second: Mythos_Floors_1_537
+  - first:
+      213: -6878290067885466822
+    second: Mythos_Floors_1_538
+  - first:
+      213: 1441203325732854587
+    second: Mythos_Floors_1_539
+  - first:
+      213: 7998756526221862343
+    second: Mythos_Floors_1_540
+  - first:
+      213: 3300303876160825517
+    second: Mythos_Floors_1_541
+  - first:
+      213: 7699235714164701964
+    second: Mythos_Floors_1_542
+  - first:
+      213: 3350961386420300788
+    second: Mythos_Floors_1_543
+  - first:
+      213: -3451906424071272877
+    second: Mythos_Floors_1_544
+  - first:
+      213: 1598921582100887971
+    second: Mythos_Floors_1_545
+  - first:
+      213: -1247678297616822394
+    second: Mythos_Floors_1_546
+  - first:
+      213: -6849846906844111527
+    second: Mythos_Floors_1_547
+  - first:
+      213: 5977878510522474514
+    second: Mythos_Floors_1_548
+  - first:
+      213: -1192367235396425997
+    second: Mythos_Floors_1_549
+  - first:
+      213: 8378480914051655309
+    second: Mythos_Floors_1_550
+  - first:
+      213: 3721491899461365418
+    second: Mythos_Floors_1_551
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Floors_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3251ac7da0bd540a11eb6aedd1dcee
+      internalID: -4174504320625512627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceabdfaa67385341933d8445f8587c1
+      internalID: 2440015259527715092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec1fe7e68b75e419820d81dfcddeda
+      internalID: 5829468369977683162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd10d2c66467b62419841b79d177a263
+      internalID: -6589124502872878976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b5d6f5a72ce94cbf7d222b60822a3
+      internalID: 2236213563369571831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23ff298b9f5e2499d8956deaa8bd53
+      internalID: -510384105823549314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ec92ca14ad374db3c4e3617b8dd97
+      internalID: -4834930006066606331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cfe96d754edcb4da98a0e25946682f
+      internalID: -36881613056506479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf8aadde81ebf418c0b83b961d7e64
+      internalID: 4176573618141355311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca27d185b353e4aaf0b3bff45217f7
+      internalID: 2744504267836692941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32816050508b72b4881f664c1a819cb9
+      internalID: 8854831450589773771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc54f6274a7464bb409865bbb94510
+      internalID: -6653120638640157342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3695ad29132cfd4bb3d3bc117c732fc
+      internalID: -6687730578760405209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9382a2b95408347bf5c2744e1cdd2d
+      internalID: -5197106048471800439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff853e3935364a449ce71a51db63862
+      internalID: -5955210493140860886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34b86b0ad9d674c851e98b126586fc
+      internalID: 5184069777442837628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eae1d3dbf118a458138f6bb99d608c
+      internalID: -2049784839485324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c140c3dc4e974aa431df5ef983312
+      internalID: -3501219286549678832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a665458469432142afaacf8182942b4
+      internalID: -2804362364926597089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0c4e544a657d499f1ea424212a42c
+      internalID: -8575242829728223433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ec2c42da3bc304d9ca6951eec705fd
+      internalID: 1281794496826475786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb7e541633f04479cdd0155c25bec4
+      internalID: -1504574013574034752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad730a3490f581a4fa6c3e9c1cb32445
+      internalID: -5342099497200152159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a385dd4826d43942ab5a465b1090295
+      internalID: -6536382488215199363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01aad0165ae3846a2b284885acdf3d
+      internalID: 1678359392806085793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0202c7afc127644a855f6b357b728f
+      internalID: 8630833537344553746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f975b4c19d2341a5fa29b91a10fa4
+      internalID: -5855410298307348231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee2686ed5cdd645b7e58b87cddae23
+      internalID: -6256152511359282188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017833d89dee78647b215aadf181255d
+      internalID: 8473631143986039454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816830f66e3ede41aa89549cb25c949
+      internalID: -1099990185573398301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617410c4a41397144b329432889d20dc
+      internalID: 7149872366011306201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4906eae26967d64d919a491da1d9b18
+      internalID: 2629670615154695126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb4b03533a42d45b2c7bafe1b571bc
+      internalID: 3577380289851441152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749445016d49dda419094a1791d30d8d
+      internalID: -3596337557561857008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d97386703e2c4987eea09e6374920
+      internalID: 7612256104154502612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351715e1a17a484db70ccf76846a2ca
+      internalID: -6897493510597304493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5906b4f241f9545bf761262d0a1422
+      internalID: 6790082835832180003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfb26c01770be448a3a94396a3d749
+      internalID: -1959567249022873762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b27b04856c8b646a9515a6c8890204
+      internalID: 2575044963608102319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd5b5c8d08a824e946701929e6d388
+      internalID: 7577361341940898565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11878c091720fbe4a92b50cba8c5d0fa
+      internalID: -5585586447790472912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348898d08d0858e4fa27902a718a0eba
+      internalID: 8082712048194542364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe11ac124284a4b448c2711079284b98
+      internalID: -2757294467932278013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1418be31ec05884aa71e700b1cbe373
+      internalID: 7823578905392086490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827cb4d01fd7df49baf82ef0d0e11e3
+      internalID: 4201510980676056621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08d6b618741a994b9c821a22477eadb
+      internalID: 1241311245095427955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abccd49b4e08d4ba0be35214b4f72f
+      internalID: -1949236718154323808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831920f75420c0499eb16a56bda8c3c
+      internalID: 5942857526292668281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaa6880ddf2af34d9792e6fbe1c1a94
+      internalID: 5832542518924724712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87795fb4dca877d4f880275a19f5689e
+      internalID: 4526259716309481561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9f29c74266e884381b66f976a091b7
+      internalID: -4893366708857605823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb84d4ec9a7ff24489c3d4b5b84ce41
+      internalID: -3652831766570828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32e151af237a542b71e37a871d7993
+      internalID: 5354310072464584632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4506d03d3515bce4bad9ff7142253015
+      internalID: -7514586840148368867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ad0d8347975c469dd2dfd67eab16f
+      internalID: -3993848328543622010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c535ac239a93343910122b72358b04
+      internalID: -6105706438562987765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25448aa4745536a408bdb04b3ca300fb
+      internalID: -2549113674792684531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ece827096efb4dab2a31180769b1d
+      internalID: -145927512269142296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69109f5a945d39419fb24929da0f9d8
+      internalID: 265716266437444540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0decc551eda734fafb07d7f4831af0
+      internalID: 8662585165049360706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9b2cb49c5a8b4ca81e8c730257523
+      internalID: 3285833414106372651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c026fb78ffb34c985f95da0e60f2e
+      internalID: 7440062843476165436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad65902148574e41832f5cce4b52286
+      internalID: -2064319021633520185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6df336466a30e4aaabeecc37945d2a
+      internalID: 2776578589405284213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f39e42d95c5f42968636c567dc476
+      internalID: -4280660101163717056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e84b9506cce73488b22029ddce11f5
+      internalID: -7374097367109762576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b2ff961693c6458d8f87249c904c9
+      internalID: -1938485285123145911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d91bd21e6c7fb4e876c9f2e7a19ee1
+      internalID: 2966241057567838886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f198b68bc6c1cc429d8c5e76535d3fb
+      internalID: 5367016136846747009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da41ed04ed62594fb555f343e7fd4d9
+      internalID: -5189163639830569321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec58d5372b6684aac2ebad4eb82ff0
+      internalID: 9081620850616462056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c473522f1c71a948a42de5acdf41e2b
+      internalID: 8811748868602051621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c2b36d0ad7ee4f89d16557d7f3613
+      internalID: -6149097927033175434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f2a7555f32e04db476b67db7294eb
+      internalID: 438210550652392303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2bfd3584edb1d48a4b584c649a2074
+      internalID: 2027958915001684473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb865b11319eca4481555e966ab38dc
+      internalID: -7660647459948175698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446d06fa2f6822d4e92d714c295c3ea3
+      internalID: -3477131819695438761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773fb122e2977e40be797156498abc2
+      internalID: -3089083354585129456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efd5462c28e244ba0d9e4888cd8816
+      internalID: 8182855526820691994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ed1b38b3b6f34d82f37655abd0022
+      internalID: 2588789455946585413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb398154b7baf4fb138538649d8e67
+      internalID: -7196166803013002423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f346c8f31ed8ffe4faab252478b75c7b
+      internalID: -1359264131244354970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa3b62ba5865524c9171b3b4158125a
+      internalID: -382662763437698104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576358993efff564ba960798c7a8d02e
+      internalID: 7074141156093677272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58f4fd0868e4f429e463d1da6c9310
+      internalID: -4996991135911689661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a716042b3ffb409d8c222d1fcd44e
+      internalID: -4693543202031558735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2eb030ee323c45a3b17862187cef1
+      internalID: 843844106050093899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bd4dfb07049447aeb5d873861ed67
+      internalID: -5585257787720219815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5efcb23494054a9394436ff9de858
+      internalID: 8808042650805901525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3828e6a4b3cb9341b5a7f637527d682
+      internalID: -231764761708885038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5490de4ff613e4abc7de32796187b0
+      internalID: 8545758482535373834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d9d4050258124bb11f1f5bc145a11
+      internalID: 549633628393537088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa2945edcbd4747b1232b6446c8433
+      internalID: -398722921207860377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aed095f29f0d64b8be30e1f604b8e0
+      internalID: 4249508539869791529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cc4add93d989489d4c2b50b0e1206
+      internalID: -2598762703131281262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77ea21205cf6f438737e96766599e6
+      internalID: 8424740044754597908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2850323bd656a4cbe51a8351bc8050
+      internalID: 2287652489936214968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d07f82a7545b46b27645a64d4234b
+      internalID: -5516464136468524468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad25918a52fd784e86a5905b4dba528
+      internalID: -5746470337866416503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b6e49b17f989f4f8c55f0e7f41f937
+      internalID: 1537689798562091833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad1f75a8174c643879421439270846
+      internalID: -8866697952763582326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c1aa4fa832a24ea9ecd65ae840240
+      internalID: 7295968148443763423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf040531eca2a24e88224dc722cbf4f
+      internalID: -6309411210387989923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81256ef379a6a1247ac00d107137971b
+      internalID: -3150288930300581647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1a7c4502a5ab4fba471680792f0b7
+      internalID: 1218838570404838115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597c9a860c9b184e9daf90b9bee64f8
+      internalID: -5580622150987490039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f45be33c6398b488fff3d5a5909dd3
+      internalID: -6399147071774749922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f19429b494eb49ada5f7f783a7bd9
+      internalID: 8959412214543316744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ebd30d2e369244b114f3722538cd4
+      internalID: 7540491306399802946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f1b7ba9941df4c920e6211e259a6d
+      internalID: 4401298415278979625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec14ebe7bef484f91ebbe042bdbb5f
+      internalID: -3561156903087469962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc9f511c381304cadcc0d36b6eeca7
+      internalID: -5077241744353251562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7785c95c65a1395479b94ea1bbbdaaab
+      internalID: 6145486504621967829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83bb74c66333134e93c0c4683047aab
+      internalID: 5079543498418352768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e59c76e017864b8753007fac75714
+      internalID: -8916162847049915560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a9414d8fcf4944aa6742ed59f2070
+      internalID: -5379262127372552486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75ed0b297874747919899a39837ff3
+      internalID: 5465556782623309854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888dc0014dcd83240a9815a401cd4278
+      internalID: -6006690495458579719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e8a2ce1f5b5140b9d4a8a3fa44ca7
+      internalID: 7285437390468553710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdfddf4069db4c45a9e3cc19dc59c29
+      internalID: 4920506757429056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca052aa895b55f42a82d0d77906a90a
+      internalID: -7406513595719964124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15682aaa975782a4aa04cc6a85a567f9
+      internalID: 7764436482232684478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfabdca48a1d8a418698228f184ec5b
+      internalID: -8469845672947553851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0766091132c3bc4bac2eed921cfc8dd
+      internalID: -5894013152803998305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b536eaf1ea7a4b90d14a7ac8cdf4b
+      internalID: 1120155845962761702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed57342416dc1946991e08efcd24d80
+      internalID: 3180223965867317306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617b6870893ca14196333d6bfba3c02
+      internalID: -3223178306418785671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d80e1f4394d249a72433e71d7c2c0
+      internalID: -123965390745186512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938f99943982b84f9b220d82834d731
+      internalID: -8373821087755386284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe818f49120f574f9814b30956efecb
+      internalID: -8963804602564838503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1cd91cf97744d46ad77f3c393c13b4
+      internalID: 7883859351678014856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef160252d3cf334d9b8b868812397a0
+      internalID: -3550854999771738264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9503c7690a50e438fd11251edf5998
+      internalID: -2678439921742413231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610bae639b8dec42946369f2cf25cc4
+      internalID: 3801068047563173097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0fd4bfe551724fadb4dffa19b1e55
+      internalID: -559914290938472970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a62b72794cd6d4982e517f7e2e3a7a
+      internalID: -3448835837780423634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472bb69975ecd44ebf6a672189282ab
+      internalID: 2498768090026666309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17045ca7bfd6548bcbcfec3e82e585
+      internalID: -4022129196080733779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79297535f6579fe4e80e06336b0cf3c6
+      internalID: -4721438406147319606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439de6721da60b468e98bf786aae1d6
+      internalID: -915623161985957143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd865fb218ffaa4b9e8dcb957c43212
+      internalID: 5376861049076355523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea6386d67e4e74ca6ddd80d2ffce55
+      internalID: 469084098587188793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71a5dee729087439fe7ee1d09bde9e
+      internalID: -6682893718869714804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcad6ef5d3e8e4eb3ab4c27f3f2274
+      internalID: -3193981874039365851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d55a0a5b3b6a498266dc6367924c9
+      internalID: -3426891528188835113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb3977f59a2634397e8b26514609f7
+      internalID: 4020243514862653644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5aebe5d53f32d438cfb36ad839bdc0
+      internalID: -4710128546119567747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e74d577e9ead44cb2e0678378ee1c8
+      internalID: 2658861874559418200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b517a2d51abcda4b82199c8b2900c46
+      internalID: -8134975174448441116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac931b1f94a444391e26c69499d181
+      internalID: 721697832027476815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486d5d2d71711146bc407415d33da8e
+      internalID: 265985881038676413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d53daf98a4a6d48b3d7d137cb34eab
+      internalID: 7421954059505784412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14b18958e6ced419d0626696d7d334
+      internalID: 2533804481447547481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f23df9a59051d4fb6e965947f3611d
+      internalID: 359826672331209031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fee5e3941dba54eaea62aed71dc984
+      internalID: 7124638310947032273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68734eab9029b0e45acfca4183c84221
+      internalID: -2492192913090166060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff0d19bfa9a9643a12a64e16ff3bcf
+      internalID: -8026539216232315059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d970cca502d3241898a4d39fa5ef64
+      internalID: -7791747362034180916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eac4bfbac92b647afe5cc87eea38dd
+      internalID: 4691309214931626017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e5c41cb5ed20b45af1e4d604dfe232
+      internalID: 6591751758612392834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4379996271174ca365d41e02dbd08
+      internalID: 262744044463472009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9594107718f540a90f1c58cc5b695
+      internalID: -2917994018950606982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54357939935fbe642a6b465dac807edf
+      internalID: 7759611597098605264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a1d071c4bfd24890dea91a1fa9947
+      internalID: -6936425122201028765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c288f07cd827646a72cc6f192539ff
+      internalID: 5328534106979034285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5d6e8b96264c429ac97430bc97b0f
+      internalID: -940519426720160760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6bad4c5664124a8a6ee2191e6fb23
+      internalID: -6057091967732778654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1c51b2595ce04faaaa3732b46b2a1
+      internalID: -4877746797551876070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2aae1e4dff74949b234572721e0c9f
+      internalID: 8042705370631416894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a37f45857a0a64690fc189efad867e
+      internalID: -4132108638597580565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0550c0114dbf40b2de7df0a114c08
+      internalID: -2118010085110148868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417030fc74d6b0e4397c74532d67da81
+      internalID: -6347553137402255457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69936f0c438ea4eaf79a52147b57d7
+      internalID: 6557902253750142435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089220bc2f7fb124bb40e42b543eae12
+      internalID: 6098119582532441592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26b8567275da1c49895614b266b7c51
+      internalID: -451622141721537472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033bc893c7a3ff142afeb50c25a42696
+      internalID: 3920160128398680896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72191168565d9354fb9903ee4c859671
+      internalID: -4895155982121661093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1c5e2b59d1cf4eba737d541dd6efa
+      internalID: -8431447557193966145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7648937fe68e4a8fc746f92ce5027
+      internalID: -2673215786600263130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ad010148fe04498482f7e43e678b2
+      internalID: -874652945470544768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86987c6b0bf49df499fc7b595089d0b4
+      internalID: -4343660273167537860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ff5eb0d04b4a346ac9ada33aaea8d3
+      internalID: 3176171169437819985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd43ca3a1ac8c4eb4699dadbeec3d4
+      internalID: -6417363908421722016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12865264ba8f6f1428dd3c2a0f9d6622
+      internalID: 906008814803777134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecf1adb4bd49149ac203791357b052
+      internalID: -7836645086114115203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc799f685c05d64cadf0e4e459dea9a
+      internalID: -8957286057252218255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af91460fa7472f54f91dcbace11439b3
+      internalID: -778574954188723767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ca3fe08469e94ba4e2b5e9bfdb4e6
+      internalID: -815424764400993559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404579dc1b6c6804db621e886324b617
+      internalID: 6720441788525141506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b8ebe9f90bf074882f6fc522ecea3a
+      internalID: -4134930457875592829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ba335ed4c5e54ea258e26bed5a29b
+      internalID: 904177411241603562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb466dd57e9d54a80d24e47eab8541
+      internalID: 3517560513342782570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532aefbb0182ccb40ade435b4812fd2d
+      internalID: -7701774226530087472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97e1d25e7bb4e4ca5db489c76bdf3a
+      internalID: 3553996581479502792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169fceb9c6622c48a2835493828172e
+      internalID: 2596526368083061515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a1c4ab6645b44fb32dc1fb7352093
+      internalID: 1969385021780967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc706df5a8fa994c9f6f9bd0bda6a33
+      internalID: -6215877191019765561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a85fa70824c64083d095459160552
+      internalID: -9101656146900724306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cd4cee655e95479a2057c90a724a5
+      internalID: 6750458362730828493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14cf364abc4754696497108e266705
+      internalID: 410486162266774022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d23b695194da6468d41a6b1a1e8a70
+      internalID: 5145912294762016221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4564c8f48c6d4e843947c0179c25ac60
+      internalID: 690218533533495285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca1303a9a2dcc42a87d912acf869e3
+      internalID: -1434346048595844531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd94f4085161dc498e8478d6d463e93
+      internalID: 1900441574336290924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ef11df75f26141a345da86389d170
+      internalID: -6548639871852837254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fbdf545ea26c149835b99c4edf3333
+      internalID: -4072315134018965422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8a34313cdf074684ca3641b5dc6ed
+      internalID: 8790148788285000594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682949a4217d7fa4fbe2564393fb1348
+      internalID: 3506383193488599854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74c932d52f6e24cac5b3cb1d83ea13
+      internalID: -1303637903389759431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723041fe390f5934ab355912bd980cbb
+      internalID: 4702774972316769439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d06352deddd0f47919b574950f4900
+      internalID: 6164253260752553190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c76c573c7d5340bbec50cee9869fe
+      internalID: -3764678822360499499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be038fed7a042045832d4064578df6d
+      internalID: 3998753406715436112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc88fe170e613e47b51f3c7f0ed08e2
+      internalID: -7647263030501589490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792565c99070cf7468739942465fef4a
+      internalID: 6862541874602059175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ca91ab13170f4daa091e6f0a12e56
+      internalID: 4534888726922734671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08470911e384c49996601313035e3d
+      internalID: -7896133894629811565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc94083c14e707409aa87874580c5b4
+      internalID: 8545467820246797858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8bd4f3ee20cf43a97d435a966f1cb
+      internalID: -1203874101392804334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68b7d2de3344e418eb9e9a48ce2903
+      internalID: -2934177138877373990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fe2ff95785e4488784679270e1214
+      internalID: 6609243776373994874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13706b04393356444b2f3ffcb850b0ea
+      internalID: 4722311310013332671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1245fc75b9414ab1f3f4657520e7d
+      internalID: -3443186991040527012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e6d31140ac1149a95d5f3df53b5ba
+      internalID: 4004306941643399926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e5235ffb17a24bb6ac656e15020ac
+      internalID: -4021070936878138447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b4e4e04a48b24b835b09eb0350b9e
+      internalID: -4716188843316765732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a119b69d637a48b84581e225ca099
+      internalID: -4215849972061258907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008359cb5283db4ea3b9702dfff1974
+      internalID: -6352736359162537806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc39d16e520d045a814ce6533a9f4c
+      internalID: -8219987711240660984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3313ddeca556d4a843bb722c180f03
+      internalID: 4819022245930399267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dba80c62d23f4c4993ca1934ed4ac01
+      internalID: -5308089611091532772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c2309d92b01640bd9ecd4f01174ca
+      internalID: -3709736482884009427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89e73820d648446a56cdd04d6e4c10
+      internalID: -7640259274242860104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad8f02e1f14c6f45a0eb81b88d611c8
+      internalID: -2337699821902030808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aacabc403c42264cb61add5ebbb3b1e
+      internalID: -7983609212678560492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042ec878f499d040a110b2d88ea3c89
+      internalID: 8289016347169634797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23c88a43f7dcb42af38d17988d97ad
+      internalID: 4636911074636727237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728fad2989fc63468d36015985764a5
+      internalID: 8355886053226214217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eac8c20e7bcf14d81ff2f1a8f52724
+      internalID: 1684123508042030119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Floors_1_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7228efb52891074191e777fa5d7e38d
+      internalID: 683934552371302970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

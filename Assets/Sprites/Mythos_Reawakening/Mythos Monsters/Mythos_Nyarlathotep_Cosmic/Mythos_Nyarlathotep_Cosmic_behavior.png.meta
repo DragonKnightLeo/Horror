@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 0e3a205e83fdb294fa6960384465716c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9056467144988005698
+    second: Mythos_Nyarlathotep_Cosmic_behavior_0
+  - first:
+      213: -8695351286982348580
+    second: Mythos_Nyarlathotep_Cosmic_behavior_1
+  - first:
+      213: -8775791638278199314
+    second: Mythos_Nyarlathotep_Cosmic_behavior_2
+  - first:
+      213: -1150984942600906045
+    second: Mythos_Nyarlathotep_Cosmic_behavior_3
+  - first:
+      213: 6116629225017282528
+    second: Mythos_Nyarlathotep_Cosmic_behavior_4
+  - first:
+      213: 3730086163868353439
+    second: Mythos_Nyarlathotep_Cosmic_behavior_5
+  - first:
+      213: -4354352294130539429
+    second: Mythos_Nyarlathotep_Cosmic_behavior_6
+  - first:
+      213: 7925564193577163423
+    second: Mythos_Nyarlathotep_Cosmic_behavior_7
+  - first:
+      213: 283348251146611184
+    second: Mythos_Nyarlathotep_Cosmic_behavior_8
+  - first:
+      213: -5951430364145060057
+    second: Mythos_Nyarlathotep_Cosmic_behavior_9
+  - first:
+      213: -6112469803206836542
+    second: Mythos_Nyarlathotep_Cosmic_behavior_10
+  - first:
+      213: -6338956392808969443
+    second: Mythos_Nyarlathotep_Cosmic_behavior_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1667
+        width: 139
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d377138d2cf3408afe5c437467941
+      internalID: -9056467144988005698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1667
+        width: 140
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28be1a475ad22440902958c291d61c0
+      internalID: -8695351286982348580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1667
+        width: 140
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018b484ee7c75b4fa7460cefe7095c0
+      internalID: -8775791638278199314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1158
+        width: 250
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aa902c4f78b8941b997800bddf39ef
+      internalID: -1150984942600906045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1158
+        width: 250
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a03cd2e575374085322822c2dc61f
+      internalID: 6116629225017282528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_5
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1158
+        width: 249
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2786f28b53f7cb4fade25f6482d531d
+      internalID: 3730086163868353439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 645
+        width: 250
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f65e1fc9b1bc4ebd4ba8587dc0a8a
+      internalID: -4354352294130539429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 645
+        width: 249
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf01fc7a8e4944c86dedd2935a2e3e
+      internalID: 7925564193577163423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 645
+        width: 247
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f0a4bfb3d0424c9491be5cd721d60
+      internalID: 283348251146611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 139
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e891a0e4899743a066542f37d0338
+      internalID: -5951430364145060057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 110
+        width: 139
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1842da3c3b5b4dac9e25a5fbc3fc0
+      internalID: -6112469803206836542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_Cosmic_behavior_11
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 111
+        width: 139
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771016f31517784b943afc2eb7f7045
+      internalID: -6338956392808969443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
