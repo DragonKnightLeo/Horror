@@ -20,6 +20,7 @@ public abstract class Characters : MonoBehaviour
     public float armorPower;
     public float currentExperience;
     public float expToLvlUp;
+    public float lightTimer;
     public int goldOnHand;
     public int maxLvl;
     public int attack;

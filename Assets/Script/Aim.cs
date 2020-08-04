@@ -61,7 +61,6 @@ public class Aim : MonoBehaviour
         
     }
 
-
     GameObject SpawnAmmo(Vector3 location)
     {
         foreach (GameObject ammo in ammoPool)

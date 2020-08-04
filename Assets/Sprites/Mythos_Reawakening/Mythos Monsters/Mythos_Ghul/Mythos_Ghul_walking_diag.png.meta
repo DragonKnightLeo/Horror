@@ -1,7 +1,103 @@
 fileFormatVersion: 2
 guid: 5ce1e2a2e707fcb4d9fe9c63d38e5540
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8494031447554586348
+    second: Mythos_Ghul_walking_diag_0
+  - first:
+      213: -2244523091066418827
+    second: Mythos_Ghul_walking_diag_1
+  - first:
+      213: 6343897360023747190
+    second: Mythos_Ghul_walking_diag_2
+  - first:
+      213: 1356479116064410641
+    second: Mythos_Ghul_walking_diag_3
+  - first:
+      213: -3018156447381496737
+    second: Mythos_Ghul_walking_diag_4
+  - first:
+      213: 1092347687482563520
+    second: Mythos_Ghul_walking_diag_5
+  - first:
+      213: 6483029676723606626
+    second: Mythos_Ghul_walking_diag_6
+  - first:
+      213: -7612661568125112999
+    second: Mythos_Ghul_walking_diag_7
+  - first:
+      213: 799200558686887351
+    second: Mythos_Ghul_walking_diag_8
+  - first:
+      213: -7972348363484220895
+    second: Mythos_Ghul_walking_diag_9
+  - first:
+      213: -3380725828397253852
+    second: Mythos_Ghul_walking_diag_10
+  - first:
+      213: -2617603036497395985
+    second: Mythos_Ghul_walking_diag_11
+  - first:
+      213: -7461899004933248197
+    second: Mythos_Ghul_walking_diag_12
+  - first:
+      213: 7938403779416679466
+    second: Mythos_Ghul_walking_diag_13
+  - first:
+      213: 4923655999824346901
+    second: Mythos_Ghul_walking_diag_14
+  - first:
+      213: -8222408589683617335
+    second: Mythos_Ghul_walking_diag_15
+  - first:
+      213: -9152725759266510471
+    second: Mythos_Ghul_walking_diag_16
+  - first:
+      213: 4564824519664706010
+    second: Mythos_Ghul_walking_diag_17
+  - first:
+      213: 1283143921382133374
+    second: Mythos_Ghul_walking_diag_18
+  - first:
+      213: -6198547307676994989
+    second: Mythos_Ghul_walking_diag_19
+  - first:
+      213: -2591851839837870292
+    second: Mythos_Ghul_walking_diag_20
+  - first:
+      213: -2364358136808470893
+    second: Mythos_Ghul_walking_diag_21
+  - first:
+      213: -3800061662405305384
+    second: Mythos_Ghul_walking_diag_22
+  - first:
+      213: -6172826296348633671
+    second: Mythos_Ghul_walking_diag_23
+  - first:
+      213: -7170660676781813760
+    second: Mythos_Ghul_walking_diag_24
+  - first:
+      213: -3510547505473716914
+    second: Mythos_Ghul_walking_diag_25
+  - first:
+      213: -1026690724064804469
+    second: Mythos_Ghul_walking_diag_26
+  - first:
+      213: -4415059212561621704
+    second: Mythos_Ghul_walking_diag_27
+  - first:
+      213: -4108966102162640886
+    second: Mythos_Ghul_walking_diag_28
+  - first:
+      213: 7961607033588801924
+    second: Mythos_Ghul_walking_diag_29
+  - first:
+      213: -7456922171397958952
+    second: Mythos_Ghul_walking_diag_30
+  - first:
+      213: -4063744444169408230
+    second: Mythos_Ghul_walking_diag_31
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +127,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +136,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +159,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +180,679 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 616
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e8186f8e2fb54885b014b286de261
+      internalID: -8494031447554586348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 624
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c679b09559b7148aad2f7828c015d0
+      internalID: -2244523091066418827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 620
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aab38583954aa4eb2c78be19501e43
+      internalID: 6343897360023747190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 619
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dcbc1cd5962cf44be10be0e2159e7a
+      internalID: 1356479116064410641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_4
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 617
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce411af3ec2154b81f1990ba15c770
+      internalID: -3018156447381496737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 618
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91de80d2a08019438fc826963361adc
+      internalID: 1092347687482563520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 619
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75574a9f18c2843b9bda1e1e800700
+      internalID: 6483029676723606626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 611
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd156f8c1b32c1148b4bd41f6fae7a9e
+      internalID: -7612661568125112999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 419
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab653024997920449a843378367e3bec
+      internalID: 799200558686887351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 428
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198c48ac47d5a640b5b74bfd50215e0
+      internalID: -7972348363484220895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 426
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb3a7f68a216b468404effe4cccc1e
+      internalID: -3380725828397253852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 422
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02c98af01c34a4595c774fe78f534f
+      internalID: -2617603036497395985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 414
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43313b8de22806040acc81723ea62cab
+      internalID: -7461899004933248197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_13
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 423
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6309a62e173e44195314cc5d7eedbd
+      internalID: 7938403779416679466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_14
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 431
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50680dbf853fc3243b936bc51cf1ef8e
+      internalID: 4923655999824346901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_15
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 427
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3ff7b432e15a4580fc1dc5d3f5a43
+      internalID: -8222408589683617335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 233
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e81f9867c41249a930ab21f042f55
+      internalID: -9152725759266510471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 234
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bce749baa5bb4b8c5a0b84a2d7997
+      internalID: 4564824519664706010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 237
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761123fb39326046a5a9e769794f3fe
+      internalID: 1283143921382133374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102a997b172807409708d3e922c7fc5
+      internalID: -6198547307676994989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_20
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 233
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0e6fefc166374fb00068ef21074ea
+      internalID: -2591851839837870292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 240
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83beaadf43e038141be8498ed4b1fa50
+      internalID: -2364358136808470893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_22
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 236
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6842e5fdbbc0e44932894220197498
+      internalID: -3800061662405305384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_23
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 234
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d17562283b2014c99cb29cdab24b91
+      internalID: -6172826296348633671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 30
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a78727a1ccae41b4aed3573a2334c
+      internalID: -7170660676781813760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2b9e8bb170eb478584ca0fe9292d2
+      internalID: -3510547505473716914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 48
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7308c788f5cf3540a4c1780bd261582
+      internalID: -1026690724064804469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 45
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cfd59f4389d44cb4e9d18c6f7a835
+      internalID: -4415059212561621704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 34
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397f808867079d46bf2432c13f2197b
+      internalID: -4108966102162640886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_29
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 46
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda7e4cace3f1242b15a5f3715340f3
+      internalID: 7961607033588801924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_30
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 44
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5487189224b8841bc9e5ac8859ab4f
+      internalID: -7456922171397958952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_walking_diag_31
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 39
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e315e5232359f541b632e4c4d2370e0
+      internalID: -4063744444169408230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

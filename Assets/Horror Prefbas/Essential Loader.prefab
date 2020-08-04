@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2461723380631638859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2461723380631638861}
+  - component: {fileID: 2461723380631638858}
+  m_Layer: 0
+  m_Name: Essential Loader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2461723380631638861
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2461723380631638859}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.002103, y: -12.523322, z: -1.0742188}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2461723380631638858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2461723380631638859}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c14e611db1544c4aaccdb493124116c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 6065456612827948600, guid: a639e365bf4def44488c6d3268b9e749, type: 3}
+  gameManager: {fileID: 3178795579852500241, guid: 21028cf9c0107634da26e4ec32ab7436,
+    type: 3}
+  globalLight: {fileID: 4435026333465054134, guid: 07a48532074c03442b9e8befde4ea239,
+    type: 3}
+  wallIndicator: {fileID: 2921596192547489945, guid: 2364ce89d25a6ee42a5f2af4a87d2ef3,
+    type: 3}
+  healthBar: {fileID: 6638345125527134266, guid: 74faa0d166817e94ea4c4e1dfe5573aa,
+    type: 3}
+  horrorUI: {fileID: 3543439524669462813, guid: fe3993a81df9d0644a1c91804b555d6c,
+    type: 3}
+  mainCamera: {fileID: 1491961450586507336, guid: 4ae66ead8df6117419f66160ab808114,
+    type: 3}
+  virtualCamera: {fileID: 4591902920749741530, guid: 2f6009be75611ee418a4f5c89d9d9724,
+    type: 3}
+  soundManager: {fileID: 1995869577684116734, guid: 78a05dbed20316140b080d75a80ac7da,
+    type: 3}

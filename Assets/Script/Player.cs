@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Experimental.Rendering.LWRP;
 
 public class Player : Characters
 {
-    public static Player playerInstance;
-    public Healthbar healthBarPrefab;
-    Healthbar healthBar;
-    public string areaToTransitionName;
     Items hitObject;
     Enemy enemy;
+    public static Player playerInstance;
+    public string areaToTransitionName;
     public bool shouldDisappear;
 
 
@@ -31,7 +31,8 @@ public class Player : Characters
     {
         DontDestroyOnLoad(gameObject);
         startingHitPoints = currentHitPoints;
-        spawnHealthBar();
+        //spawnHealthBar();
+        lightTimer = 600;
     }
 
 
@@ -42,9 +43,33 @@ public class Player : Characters
         //lvlUP();
     }
 
+    private void FixedUpdate()
+    {
+    }
+
     public override IEnumerator DamageCharacter(float damage, float interval)
     {
-        throw new System.NotImplementedException();
+        print("Player is Hit");
+        while (true)
+        {
+            currentHitPoints = Mathf.Round(currentHitPoints - damage);
+            PlayerMovement.playerMovementInstance.isHitAnimation(true);
+            if (currentHitPoints <= float.Epsilon)
+            {
+                KillCharacter();
+                break;
+            }
+            PlayerMovement.playerMovementInstance.isHitAnimation(false);
+            if (interval > float.Epsilon)
+            {
+                yield return new WaitForSeconds(interval);
+            }
+            else
+            {
+                break;
+            }
+
+        }
     }
 
     public void levelUP()
@@ -62,13 +87,26 @@ public class Player : Characters
         if (other.gameObject.CompareTag("CanBePickedUp"))
         {
             hitObject = other.gameObject.GetComponent<UsuableItems>().usuableItems;
-            shouldDisappear = Inventory.instance.addNewItem(hitObject);
+            if (hitObject.itemName == "Battery" && hitObject.itemType == Items.ItemType.CONSUMABLE)
+            {
+                if (lightTimer < 600 || lightTimer >= 0)
+                {
+                    lightTimer += 300;
+                    other.gameObject.SetActive(false);
+                }
 
+                if(lightTimer > 600)
+                {
+                    lightTimer = 600;
+                }
+            }
+            shouldDisappear = Inventory.instance.addNewItem(hitObject);
+            
             if (shouldDisappear == true)
             {
-                other.gameObject.SetActive(false);
+               other.gameObject.SetActive(false);
             }
-        }
+         }
     }
 
     public void useItem()
@@ -85,77 +123,57 @@ public class Player : Characters
                 if (Inventory.instance.items[itemSelectedPos].itemName == "Health Potion" && currentHitPoints < maxHitPoints)
                 {
                     print("reached health");
-                    currentHitPoints += 10;
+                    currentHitPoints += 20;
                     if (currentHitPoints > maxHitPoints)
                     {
                         currentHitPoints = maxHitPoints;
                     }
                 }
-                else if (Inventory.instance.items[itemSelectedPos].itemName == "Mana Potion" && currentManaPoints < maxManaPoints)
+                else if (Inventory.instance.items[itemSelectedPos].itemName == "Stamina Potion" && currentManaPoints < maxManaPoints)
                 {
-                    print("reached mana");
-                    currentManaPoints += 10;
-                    if (currentManaPoints > maxManaPoints)
+                    print("reached stam");
+                    currentStamPoints += 30;
+                    if (currentStamPoints > maxStamPoints)
                     {
-                        currentManaPoints = maxManaPoints;
+                        currentStamPoints = maxStamPoints;
                     }
                 }
-                Inventory.instance.slots[slotSelectedPos].qtyText.text = (Inventory.instance.slots[slotSelectedPos].buttonValue -= 1).ToString();
-
-            }
-            else if (Inventory.instance.items[itemSelectedPos].itemType == Items.ItemType.WEAPON ||
-                    Inventory.instance.items[itemSelectedPos].itemType == Items.ItemType.ARMOR)
-            {
-                if (buttonValue > 0 && slotSelectedPlus > 0)
+                /*
+                else if((Inventory.instance.items[itemSelectedPos].itemName == "Bullet"))
                 {
-
-                    switch (Inventory.instance.items[itemSelectedPos].itemName)
+                    if (PlayerMovement.playerMovementInstance.bulletCount < 7 && PlayerMovement.playerMovementInstance.bulletCount >= 0 && Inventory.instance.slots[2].buttonValue > 0)
                     {
-                        case "Iron Sword":
-                            print("Iron Sword Equipped ");
-                            attackPower = Inventory.instance.items[itemSelectedPos].itemDamage;
-                            break;
+                        PlayerMovement.playerMovementInstance.bulletCount += Inventory.instance.slots[2].buttonValue;
 
-                        case "Iron Armor":
-                            print("Iron Armor Equipped ");
-                            armorPower = Inventory.instance.items[itemSelectedPos].itemArmor;
-                            break;
-
-                        case "Leather Armor":
-                            print("Leather Armor Equipped ");
-                            armorPower = Inventory.instance.items[itemSelectedPos].itemDamage;
-                            break;
-
-                        case "Wooden Sword":
-                            print("Wooden Sword Equipped ");
-                            attackPower = Inventory.instance.items[itemSelectedPos].itemDamage;
-                            break;
-                        default:
-                            break;
+                        if (Input.GetKeyDown(KeyCode.R))
+                        {
+                            PlayerMovement.playerMovementInstance.bulletCount += Inventory.instance.slots[2].buttonValue;
+                        }
                     }
                 }
-                Inventory.instance.slots[slotSelectedPos].qtyText.text = (Inventory.instance.slots[slotSelectedPos].buttonValue -= 1).ToString();
-                print("slot selected plus after is" + slotSelectedPlus);
             }
-            Inventory.instance.slotSelectedPlus = 0;
+            */
+                Inventory.instance.slots[slotSelectedPos].qtyText.text = (Inventory.instance.slots[slotSelectedPos].buttonValue -= 1).ToString();
+                PlayerMovement.playerMovementInstance.animator.SetBool("isShooting", false);
+                PlayerMovement.playerMovementInstance.setBulletsOff(0, false);
+                PlayerMovement.playerMovementInstance.playGunSound(false);
+                Inventory.instance.slotSelectedPlus = 0;
+            }
         }
+         
 
     }
     public void DamageTaken(float damageAmount)
     {
-        damageAmount = damageAmount / 2;
+        //damageAmount = damageAmount / 2;
 
         currentHitPoints -= damageAmount;
-
+        SoundManager.instance.takingDamageSound();
+        SoundManager.instance.monster1AttackSound();
         if (currentHitPoints <= 0)
         {
             KillCharacter();
         }
-    }
-
-    public void spawnHealthBar()
-    {
-        healthBar = Instantiate(healthBarPrefab);
     }
 }
 

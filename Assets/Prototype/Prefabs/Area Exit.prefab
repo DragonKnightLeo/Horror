@@ -72,7 +72,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   areaToLoad: Player House
-  musicToPlay: 4
+  musicToPlay: 8
+  music2ToPlay: 0
   areaTransitionName: Shop_1
   theEntrance: {fileID: 2931068012272046481}
   waitToLoad: 1

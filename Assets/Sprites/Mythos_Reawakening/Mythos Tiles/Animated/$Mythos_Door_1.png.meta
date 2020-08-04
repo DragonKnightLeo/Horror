@@ -35,6 +35,21 @@ TextureImporter:
   - first:
       213: -9082995018550762563
     second: $Mythos_Door_1_10
+  - first:
+      213: -6266763353215911185
+    second: $Mythos_Door_1_11
+  - first:
+      213: 5997859894147828716
+    second: $Mythos_Door_1_12
+  - first:
+      213: 2272190827628181155
+    second: $Mythos_Door_1_13
+  - first:
+      213: 4610240089916375682
+    second: $Mythos_Door_1_14
+  - first:
+      213: 7624926366293890872
+    second: $Mythos_Door_1_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -164,10 +179,10 @@ TextureImporter:
       name: $Mythos_Door_1_2
       rect:
         serializedVersion: 2
-        x: 379
-        y: 0
+        x: 377
+        y: 98
         width: 71
-        height: 190
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,6 +360,111 @@ TextureImporter:
       bones: []
       spriteID: d7132842f14f52648a48d2b0bb84a253
       internalID: -9082995018550762563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_1_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7136b7371e380240a9c0daa53c3944a
+      internalID: -6266763353215911185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_1_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fcb1e97f23844285481d37a6cab77
+      internalID: 5997859894147828716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_1_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 69
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556e89b655f93543a2ed2aad0a2b557
+      internalID: 2272190827628181155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_1_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 69
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1411ca80e2e55438bc056bb9e2dd2a
+      internalID: 4610240089916375682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_1_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace23208a372e546a09160fefc80247
+      internalID: 7624926366293890872
       vertices: []
       indices: 
       edges: []

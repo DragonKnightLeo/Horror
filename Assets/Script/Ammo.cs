@@ -9,10 +9,10 @@ public class Ammo : MonoBehaviour
     {
         if (collision is BoxCollider2D)
         {
+            print("Taget Hit");
             Enemy enemy = collision.gameObject.GetComponent<Enemy>();
             StartCoroutine(enemy.DamageCharacter(Player.playerInstance.attackPower, 2.0f));
             gameObject.SetActive(false);
-            print("reached");
         }
     }
 
