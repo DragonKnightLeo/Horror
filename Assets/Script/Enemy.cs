@@ -53,11 +53,6 @@ public class Enemy : Characters
         }
     }
 
-    public void playMonster1Attack()
-    {
-        SoundManager.instance.monster1AttackSound();
-    }
-
     public void playMonsterGrowl()
     {
         SoundManager.instance.monster1GrowlSound();
@@ -67,4 +62,5 @@ public class Enemy : Characters
     {
         SoundManager.instance.monster1StepsSound();
     }
+   
 }

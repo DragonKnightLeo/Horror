@@ -12,12 +12,16 @@ public class GameManager : MonoBehaviour
     public static GameManager gameManagerInstance;
     const int numberOfPartyMembers = 4;
     public float globalLightIntesity;
+    public float indicatorLightIntensity;
     bool canAttack;
     public bool fadingBetweenAreas;
     public bool dialogActive;
     public Characters[] charStats = new Characters[numberOfPartyMembers];
     public PlayerMovement playerMovement;
     public Light2D globalLight;
+    public Light2D InnerWallIndicators;
+    public Light2D OuterWallIndicators;
+    public Light2D DoorExitLighting;
 
 
     // Start is called before the first frame update
@@ -35,9 +39,12 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
 
         globalLight.intensity = globalLightIntesity;
+        InnerWallIndicators.intensity = indicatorLightIntensity;
+        OuterWallIndicators.intensity = indicatorLightIntensity;
+        DoorExitLighting.intensity = indicatorLightIntensity;
 
 
-    }
+}
 
     // Update is called once per frame
     private void FixedUpdate()

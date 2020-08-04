@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 89b31f86c4b83374696a1405815443d2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4055416140666351436
+    second: Mythos_Ghul_idle_diag_0
+  - first:
+      213: -6753623675405400451
+    second: Mythos_Ghul_idle_diag_1
+  - first:
+      213: 1998293973322873149
+    second: Mythos_Ghul_idle_diag_2
+  - first:
+      213: -241399708133618698
+    second: Mythos_Ghul_idle_diag_3
+  - first:
+      213: 5272503422659576891
+    second: Mythos_Ghul_idle_diag_4
+  - first:
+      213: -3940988256843041321
+    second: Mythos_Ghul_idle_diag_5
+  - first:
+      213: 6873067789077051349
+    second: Mythos_Ghul_idle_diag_6
+  - first:
+      213: -2596851889883898306
+    second: Mythos_Ghul_idle_diag_7
+  - first:
+      213: 2402625179496855781
+    second: Mythos_Ghul_idle_diag_8
+  - first:
+      213: -7402990524882121348
+    second: Mythos_Ghul_idle_diag_9
+  - first:
+      213: 8510100842133208300
+    second: Mythos_Ghul_idle_diag_10
+  - first:
+      213: 1771836995950263412
+    second: Mythos_Ghul_idle_diag_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 617
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d0d639ed74da74683f961a82a85f86
+      internalID: -4055416140666351436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 617
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db1b034a896944bbffc055869a65e7
+      internalID: -6753623675405400451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 617
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfddb846005bb145aed35d3703a1f2c
+      internalID: 1998293973322873149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd9aa30cbd57e4480684319b54be89
+      internalID: -241399708133618698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 432
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e94a34d686ec45ab2eb775476de49
+      internalID: 5272503422659576891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 432
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86acaefd905344c4b84827dab3980802
+      internalID: -3940988256843041321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 232
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae253710ff979374fac226277302bb24
+      internalID: 6873067789077051349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eeb4131466c3a4a8a290a4dbf420c1
+      internalID: -2596851889883898306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 231
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4780e21c602cbe459960c6c2eb134cf
+      internalID: 2402625179496855781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3c6e7ad7df014ebe3a472d04618ff
+      internalID: -7402990524882121348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 44
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916b540cc0258e418dca803da7ad359
+      internalID: 8510100842133208300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_idle_diag_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 44
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639a6eb7e56f5449929db7f4701394c
+      internalID: 1771836995950263412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

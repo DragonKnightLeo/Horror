@@ -9,8 +9,8 @@ public class Inventory : MonoBehaviour
     public static Inventory instance;
     public ItemSlot[] slots;
     public Items[] items;
-    public EquipButton buttonLabel;
-    [SerializeField] EquipButton goldOnHand;
+    //public EquipButton buttonLabel;
+    //[SerializeField] EquipButton goldOnHand;
     int equippedItemLimit = 1;
     int potionLimit = 10;
     int ammoItemLimit = 100;
@@ -30,14 +30,16 @@ public class Inventory : MonoBehaviour
         {
             instance = this;
         }
+
+
         //checkSlot();
     }
 
     // Update is called once per frame
     void Update()
     {
-        invAtStart();
-        goldOnHand.buttonLabel.text = Player.playerInstance.goldOnHand.ToString();
+        //invAtStart();
+        //goldOnHand.buttonLabel.text = Player.playerInstance.goldOnHand.ToString();
         
     }
 
@@ -47,26 +49,20 @@ public class Inventory : MonoBehaviour
         {
             if (slots[i].buttonValue == 0)
             {
-                if (slots[i].buttonValue < equippedItemLimit || slots[i].buttonValue < potionLimit)
-                {
-                    return addItems(i, itemToAdd);
-                }
+
+                return addItems(i, itemToAdd);
+
             }
             else if (slots[i].ItemInSlot.text == itemToAdd.itemName)
             {
                 if (itemToAdd.itemType == Items.ItemType.WEAPON)
                 {
-                    if (slots[i].buttonValue < equippedItemLimit)
-                    {
-                        return addItems(i, itemToAdd);
-                    }
+
+                    return addItems(i, itemToAdd);
                 }
                 else if(itemToAdd.itemType == Items.ItemType.CONSUMABLE)
                 {
-                    if (slots[i].buttonValue < potionLimit)
-                    {
                         return addItems(i, itemToAdd);
-                    }
                 }
             }
 
@@ -76,29 +72,20 @@ public class Inventory : MonoBehaviour
 
     public bool addItems(int i, Items itemToAdd)
     {
-        if (itemToAdd.itemType == Items.ItemType.WEAPON || itemToAdd.itemType == Items.ItemType.ARMOR)
+        if (itemToAdd.itemName == slots[0].ItemInSlot.text)
         {
-
-                slots[i].buttonImage.sprite = itemToAdd.itemImage;
-                slots[i].ItemInSlot.text = itemToAdd.itemName;
-                slots[i].qtyText.text = (slots[i].buttonValue += qty).ToString();
+                slots[0].qtyText.text = (slots[0].buttonValue += qty).ToString();
                 return true;
         }
-        else if (itemToAdd.itemType == Items.ItemType.AMMO)
+        else if (itemToAdd.itemName == slots[1].ItemInSlot.text)
         {
-
-                slots[i].buttonImage.sprite = itemToAdd.itemImage;
-                slots[i].ItemInSlot.text = itemToAdd.itemName;
-                slots[i].qtyText.text = (slots[i].buttonValue += qty).ToString();
+                slots[1].qtyText.text = (slots[1].buttonValue += qty).ToString();
                 return true;
 
         }
-        else if (itemToAdd.itemType == Items.ItemType.CONSUMABLE)
+        else if (itemToAdd.itemName == slots[2].ItemInSlot.text)
         {
-
-                slots[i].buttonImage.sprite = itemToAdd.itemImage;
-                slots[i].ItemInSlot.text = itemToAdd.itemName;
-                slots[i].qtyText.text = (slots[i].buttonValue += qty).ToString();
+                slots[2].qtyText.text = (slots[2].buttonValue += qty).ToString();
                 return true;
         }
         return false;
@@ -133,17 +120,21 @@ public class Inventory : MonoBehaviour
             if (slots[i].ItemInSlot.text == items[x].itemName)
             {
                 itemSelected = x;
+
+
+                /*
                 if (items[x].itemType == Items.ItemType.CONSUMABLE)
                 {
-                    buttonLabel.buttonLabel.text = "Use";
+                    //buttonLabel.buttonLabel.text = "Use";
                 }
                 else
                 {
-                    buttonLabel.buttonLabel.text = "Equip";
+                    //buttonLabel.buttonLabel.text = "Equip";
                 }
 
                 ShopPanelManager.instance.goldAmount.text = "" + Inventory.instance.items[Inventory.instance.itemSelected].value / 2;
-            }
+                */
+             }
         }
         
     }

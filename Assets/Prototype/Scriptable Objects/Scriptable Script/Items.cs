@@ -15,7 +15,9 @@ public class Items : ScriptableObject
     public float itemDamage;
     public float itemArmor;
     public float durability;
+    public float timeToAdd;
     public bool stackable;
+    
 
 
     public enum WeaponType
@@ -61,10 +63,5 @@ public class Items : ScriptableObject
     public string ItemDesc() { return itemDesc; }
 
     public bool Stackable() { return stackable; }
-
-
-
-
-
 
 }

@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd555c49a15b26649be4cc9c27a81fcf, type: 3}
   m_Name: InventorySlots
   m_EditorClassIdentifier: 
-  slotImage: {fileID: 21300000, guid: 84b3bb40ee35ce74c8a8f5850dd74a5d, type: 3}
+  slotImage: {fileID: 6622024467451821200, guid: 998e666a2973ca84b9a1f27bbbcd67ed,
+    type: 3}

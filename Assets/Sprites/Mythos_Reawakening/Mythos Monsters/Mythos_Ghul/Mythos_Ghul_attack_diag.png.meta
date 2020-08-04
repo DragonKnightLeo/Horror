@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: ea6bd78181f38834f9b74d669f927ca1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1533767183174189809
+    second: Mythos_Ghul_attack_diag_0
+  - first:
+      213: -3182155642047413403
+    second: Mythos_Ghul_attack_diag_1
+  - first:
+      213: -5431647515714179624
+    second: Mythos_Ghul_attack_diag_2
+  - first:
+      213: -3814160182429863990
+    second: Mythos_Ghul_attack_diag_3
+  - first:
+      213: 5533024387688102629
+    second: Mythos_Ghul_attack_diag_4
+  - first:
+      213: 7189349942195952284
+    second: Mythos_Ghul_attack_diag_5
+  - first:
+      213: -3866886460541105625
+    second: Mythos_Ghul_attack_diag_6
+  - first:
+      213: -2591590403391892484
+    second: Mythos_Ghul_attack_diag_7
+  - first:
+      213: 6350963939218105941
+    second: Mythos_Ghul_attack_diag_8
+  - first:
+      213: 7638508836546014451
+    second: Mythos_Ghul_attack_diag_9
+  - first:
+      213: 7419379822981651514
+    second: Mythos_Ghul_attack_diag_10
+  - first:
+      213: 1468351363462091266
+    second: Mythos_Ghul_attack_diag_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 611
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a100261f6a4e409ada78930fbd695
+      internalID: 1533767183174189809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 613
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e687933ceee8df42bf67d86117e2d4c
+      internalID: -3182155642047413403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 606
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2b44e5a25b08246a1439507f17a098
+      internalID: -5431647515714179624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 424
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a62b3fd33823b42b7824561c4f3137
+      internalID: -3814160182429863990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 409
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae056eb1f9b48a4ebd0e8896a89965e
+      internalID: 5533024387688102629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 436
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd914c384245b7d4e887f98886e169c3
+      internalID: 7189349942195952284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 236
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1cb4a0ce782374bbf419a4a36d3f96
+      internalID: -3866886460541105625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 245
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff429b3f3159a4b4b88ca896645477dc
+      internalID: -2591590403391892484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 215
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb03f6a5252f746bdf57b6ea84a170
+      internalID: 6350963939218105941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4c19082f0ff9439592294313e3a87
+      internalID: 7638508836546014451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 24
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae342d438ce42d0459eb555b19c7dab1
+      internalID: 7419379822981651514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Ghul_attack_diag_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 50
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b9771ea7933a4c8d52fa8083053a9
+      internalID: 1468351363462091266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

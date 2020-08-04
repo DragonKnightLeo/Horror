@@ -148,10 +148,6 @@ public class SoundManager : MonoBehaviour
         {
             sfx[15].PlayOneShot(clip[4], 0.7f);
         }
-        else
-        {
-            sfx[15].Stop();
-        }
     }
 
     public void monster1GrowlSound()
@@ -159,10 +155,6 @@ public class SoundManager : MonoBehaviour
         if (!sfx[13].isPlaying)
         {
             sfx[13].PlayOneShot(clip[5], 0.7f);
-        }
-        else
-        {
-            sfx[13].Stop();
         }
     }
 

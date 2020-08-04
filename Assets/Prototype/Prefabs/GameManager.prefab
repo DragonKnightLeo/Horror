@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4712eedb8b7f7264b8fe3c282ac44c03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canWalk: 0
+  globalLightIntesity: 0
   fadingBetweenAreas: 0
   dialogActive: 0
   charStats:
@@ -52,3 +52,4 @@ MonoBehaviour:
   - {fileID: 6966422108517694988, guid: 6dd6f0b43751f5e45b588f80075dee93, type: 3}
   - {fileID: 8344228494857660816, guid: 37c3b826cc21e7e47a4245e2c9d656a9, type: 3}
   playerMovement: {fileID: 0}
+  globalLight: {fileID: 0}
