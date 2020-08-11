@@ -49,12 +49,17 @@ public class SoundManager : MonoBehaviour
 
     public void playSfx(int sfxToPlay, int clipNumber, float volumeScale)
     {
-        if(!sfx[sfxToPlay].isPlaying)
-        {
             if(sfxToPlay < sfx.Length)
             {
                 sfx[sfxToPlay].PlayOneShot(clip[clipNumber], volumeScale);
             }
+    }
+
+    public void playLoopSfx(int sfxToPlay)
+    {
+        if (sfxToPlay < sfx.Length)
+        {
+            sfx[sfxToPlay].Play();
         }
     }
 
@@ -89,7 +94,7 @@ public class SoundManager : MonoBehaviour
     {
         if (shooting)
         {
-            sfx[8].Play();
+            sfx[1].Play();
         }
         else
         {
@@ -97,19 +102,19 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    public void footSteps()
+    public void footSteps(float volumeScale)
     {
-        if(!sfx[9].isPlaying)
+        if(!sfx[0].isPlaying)
         {
-            sfx[9].PlayOneShot(clip[0], 0.7f);
+            sfx[0].PlayOneShot(clip[0], 0.7f);
         }
-        else if(sfx[9].isPlaying)
+        else if(sfx[0].isPlaying)
         {
-            sfx[9].Stop();
+            sfx[0].Stop();
         }
     }
 
-    public void runningSteps()
+    public void runningSteps(float volumeScale)
     {
         if (!sfx[10].isPlaying)
         {
@@ -135,8 +140,6 @@ public class SoundManager : MonoBehaviour
 
     public void BreathingRun()
     {
-
-            if (!sfx[12].isPlaying)
             {
                 sfx[12].PlayOneShot(clip[3], 0.7f);
             }
@@ -160,13 +163,49 @@ public class SoundManager : MonoBehaviour
 
     public void monster1StepsSound()
     {
-        if (!sfx[17].isPlaying)
+        if (!sfx[23].isPlaying)
         {
-            sfx[17].PlayOneShot(clip[7], 0.7f);
+            sfx[23].PlayOneShot(clip[13], 0.7f);
         }
         else
         {
-            sfx[17].Stop();
+            sfx[23].Stop();
+        }
+    }
+
+    public void OpenLockedDoor()
+    {
+        if (!sfx[7].isPlaying)
+        {
+            sfx[7].PlayOneShot(clip[7], 0.7f);
+        }
+        else
+        {
+            sfx[7].Stop();
+        }
+    }
+
+    public void PlayGhulSteps()
+    {
+        if (!sfx[23].isPlaying)
+        {
+            sfx[23].PlayOneShot(clip[13], 0.7f);
+        }
+    }
+
+    public void PlayShadowStep(float volumeScale)
+    {
+        if (!sfx[7].isPlaying)
+        {
+            sfx[7].PlayOneShot(clip[7], volumeScale);
+        }
+    }
+
+    public void PlayShadowyAttack(float volumeScale)
+    {
+        if (!sfx[25].isPlaying)
+        {
+            sfx[25].PlayOneShot(clip[15], volumeScale);
         }
     }
 }

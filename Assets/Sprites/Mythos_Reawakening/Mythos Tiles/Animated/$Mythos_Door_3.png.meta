@@ -38,6 +38,12 @@ TextureImporter:
   - first:
       213: 2422726106000778674
     second: $Mythos_Door_3_11
+  - first:
+      213: 4549481991854739364
+    second: $Mythos_Door_3_12
+  - first:
+      213: -6258681791067020690
+    second: $Mythos_Door_3_13
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -167,10 +173,10 @@ TextureImporter:
       name: $Mythos_Door_3_2
       rect:
         serializedVersion: 2
-        x: 173
+        x: 175
         y: 427
         width: 81
-        height: 109
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +362,10 @@ TextureImporter:
       name: $Mythos_Door_3_11
       rect:
         serializedVersion: 2
-        x: 173
-        y: 0
+        x: 174
+        y: 44
         width: 85
-        height: 104
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,6 +375,48 @@ TextureImporter:
       bones: []
       spriteID: 7a4101289263c404c934fdd1b5f01b46
       internalID: 2422726106000778674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_3_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 471
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9178d139fcec545960c5444f57254f
+      internalID: 4549481991854739364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Mythos_Door_3_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b05de9c6f6dd4ea3f31ccfc3e605c
+      internalID: -6258681791067020690
       vertices: []
       indices: 
       edges: []

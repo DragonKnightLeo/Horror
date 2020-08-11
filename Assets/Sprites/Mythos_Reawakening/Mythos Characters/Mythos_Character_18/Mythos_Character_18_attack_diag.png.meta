@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 93585661b958c264694f400e31555c8d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4487735496325432119
+    second: Mythos_Character_18_attack_diag_0
+  - first:
+      213: -4866124648144559182
+    second: Mythos_Character_18_attack_diag_1
+  - first:
+      213: 7022769188402774851
+    second: Mythos_Character_18_attack_diag_2
+  - first:
+      213: -7861426763308688564
+    second: Mythos_Character_18_attack_diag_3
+  - first:
+      213: -3360635939575575099
+    second: Mythos_Character_18_attack_diag_4
+  - first:
+      213: 2001565832214228717
+    second: Mythos_Character_18_attack_diag_5
+  - first:
+      213: -3387703618567777833
+    second: Mythos_Character_18_attack_diag_6
+  - first:
+      213: -5204652668925456167
+    second: Mythos_Character_18_attack_diag_7
+  - first:
+      213: -6257653723311341452
+    second: Mythos_Character_18_attack_diag_8
+  - first:
+      213: 5528441740459199485
+    second: Mythos_Character_18_attack_diag_9
+  - first:
+      213: -5927218201088363211
+    second: Mythos_Character_18_attack_diag_10
+  - first:
+      213: -8163145497851861243
+    second: Mythos_Character_18_attack_diag_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 399
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6672ede24ba5b4da5b83bccaff09ea
+      internalID: 4487735496325432119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 399
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff01fd697bd4d4491920de0b9c68f8
+      internalID: -4866124648144559182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 399
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff886fd208d2c4f8487bb56c1a390e
+      internalID: 7022769188402774851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22404aac7950353458f0e9cee8b5951c
+      internalID: -7861426763308688564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe19441b4593e4fafe3b82804d0275
+      internalID: -3360635939575575099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dceb8d50508a04aac6e004277847ca
+      internalID: 2001565832214228717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 137
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeec41a7221b1c46b5e741a8eb318b7
+      internalID: -3387703618567777833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 137
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1737b8f73a60488919d33f3c0a58e
+      internalID: -5204652668925456167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 137
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429846cef5af2dc4f9a808b31129292e
+      internalID: -6257653723311341452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 17
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190311215b248ba45a9b641df016db47
+      internalID: 5528441740459199485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc7b60ec090dd4fab036ca8604bae0
+      internalID: -5927218201088363211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_attack_diag_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 17
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9501d2d099da764b9648af986cbd435
+      internalID: -8163145497851861243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,103 @@
 fileFormatVersion: 2
 guid: 8a8058fbc9a835446b478142c505e3b3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4824744218936848523
+    second: Mythos_Character_18_running_diag_0
+  - first:
+      213: -8158139778697437510
+    second: Mythos_Character_18_running_diag_1
+  - first:
+      213: -2989932135821060546
+    second: Mythos_Character_18_running_diag_2
+  - first:
+      213: 6136653985623557275
+    second: Mythos_Character_18_running_diag_3
+  - first:
+      213: 299009089059161724
+    second: Mythos_Character_18_running_diag_4
+  - first:
+      213: 2881421852696108217
+    second: Mythos_Character_18_running_diag_5
+  - first:
+      213: 598529079880840183
+    second: Mythos_Character_18_running_diag_6
+  - first:
+      213: 6301126261440233469
+    second: Mythos_Character_18_running_diag_7
+  - first:
+      213: 1821151521544718546
+    second: Mythos_Character_18_running_diag_8
+  - first:
+      213: -5570684184321661065
+    second: Mythos_Character_18_running_diag_9
+  - first:
+      213: 7432149708727466260
+    second: Mythos_Character_18_running_diag_10
+  - first:
+      213: -1383116720091247334
+    second: Mythos_Character_18_running_diag_11
+  - first:
+      213: 530739676466075761
+    second: Mythos_Character_18_running_diag_12
+  - first:
+      213: 924850186236755068
+    second: Mythos_Character_18_running_diag_13
+  - first:
+      213: -5612494563844233745
+    second: Mythos_Character_18_running_diag_14
+  - first:
+      213: -5460235378713566168
+    second: Mythos_Character_18_running_diag_15
+  - first:
+      213: 1080629941177152922
+    second: Mythos_Character_18_running_diag_16
+  - first:
+      213: -1933228238567904397
+    second: Mythos_Character_18_running_diag_17
+  - first:
+      213: 8116293426869377936
+    second: Mythos_Character_18_running_diag_18
+  - first:
+      213: -4344637783508150401
+    second: Mythos_Character_18_running_diag_19
+  - first:
+      213: 8748919159601582508
+    second: Mythos_Character_18_running_diag_20
+  - first:
+      213: 5688708223440007198
+    second: Mythos_Character_18_running_diag_21
+  - first:
+      213: -4965209518393099330
+    second: Mythos_Character_18_running_diag_22
+  - first:
+      213: 1147683231662646337
+    second: Mythos_Character_18_running_diag_23
+  - first:
+      213: 2515005580752718602
+    second: Mythos_Character_18_running_diag_24
+  - first:
+      213: 5855465812520106454
+    second: Mythos_Character_18_running_diag_25
+  - first:
+      213: 6811041213149470259
+    second: Mythos_Character_18_running_diag_26
+  - first:
+      213: 3535668913154155221
+    second: Mythos_Character_18_running_diag_27
+  - first:
+      213: 7773666162719110259
+    second: Mythos_Character_18_running_diag_28
+  - first:
+      213: 3441672001048126995
+    second: Mythos_Character_18_running_diag_29
+  - first:
+      213: -6050379151449435149
+    second: Mythos_Character_18_running_diag_30
+  - first:
+      213: 6646523288105211147
+    second: Mythos_Character_18_running_diag_31
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +127,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +136,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +159,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +180,679 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 399
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9efbf4cecb70bc4290a3938852bd3da
+      internalID: -4824744218936848523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 405
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d413e12bd29554c90ec36099eb7350
+      internalID: -8158139778697437510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 405
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd28cd858b3314f93da6d1cc6a52ca
+      internalID: -2989932135821060546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 402
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cef7a581325ae418ff17f08a633649
+      internalID: 6136653985623557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 397
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62044c4458809543b98d638e644b7a9
+      internalID: 299009089059161724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 400
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a572df1c954f64885211321264e415
+      internalID: 2881421852696108217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 405
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958016d234633854db38b2b0e9f7b4f3
+      internalID: 598529079880840183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 404
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5b4b68a28c134a93322dd05c78301
+      internalID: 6301126261440233469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9458b28e1507ca409a9ed7b57f3e067
+      internalID: 1821151521544718546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 270
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2861cfebf2c64d4a9315523b8ae87ba
+      internalID: -5570684184321661065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 266
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc229506903e3af419fa255d7b37d0be
+      internalID: 7432149708727466260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 267
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040e0aad303c1cd40b419b93d5d8b757
+      internalID: -1383116720091247334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 270
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53409a089d0860d419d4f1c81b4bbba9
+      internalID: 530739676466075761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 274
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c550bdd34ff74a980e601de175917
+      internalID: 924850186236755068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 270
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7948ce4b6fec35469622d8eb480a0d4
+      internalID: -5612494563844233745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_15
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 261
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce798ae4d93e94da4f558ccf81be70
+      internalID: -5460235378713566168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 141
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dca0a23256df54093dad420f5645cc
+      internalID: 1080629941177152922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 149
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058dd3b164a8044ab67d3435891e4fd
+      internalID: -1933228238567904397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 148
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9735de79ade345489c1e520fc875bb3
+      internalID: 8116293426869377936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 144
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ecd6c84e2423d489036ff9278b9f72
+      internalID: -4344637783508150401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 140
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcfa481206f0a41bb9bd89113cd720
+      internalID: 8748919159601582508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 144
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8112cef85e28cb42b960051ac02e0f1
+      internalID: 5688708223440007198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 147
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0b7132c7771f43bc32ba42063e50f
+      internalID: -4965209518393099330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_23
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 147
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cf6bc30bacd54397301e56806f381
+      internalID: 1147683231662646337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fbcf77cb6f1c409353c2d9717477c
+      internalID: 2515005580752718602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3388f57ad578348bed594dc23a9566
+      internalID: 5855465812520106454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 9
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c056615912d90478661b5deefaf740
+      internalID: 6811041213149470259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850295d111e4f4c48a3f31f527589aa1
+      internalID: 3535668913154155221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_28
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 6
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55477529e0ebb464cb54edf165daade1
+      internalID: 7773666162719110259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 11
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58b02ccec4cf6498a5177347f9ed55
+      internalID: 3441672001048126995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 17
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5afdf3cf550846ac66b860b07e223
+      internalID: -6050379151449435149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_running_diag_31
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 14
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831a11bea023b441b943093570359cb
+      internalID: 6646523288105211147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

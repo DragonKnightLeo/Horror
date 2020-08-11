@@ -8,6 +8,15 @@ TagManager:
   - Enemy
   - VirtualCamera
   - TriggerLight
+  - GlobalLight
+  - DialogPanel
+  - ItemButton
+  - GeneratorSwitch
+  - DialogImage
+  - DialogText
+  - MonsterHomePos
+  - Wall
+  - MonsterSpawnPoint
   layers:
   - Default
   - TransparentFX
@@ -54,18 +63,29 @@ TagManager:
   - name: InnerWall
     uniqueID: 3184727553
     locked: 0
+  - name: Object Lower Layer
+    uniqueID: 4112347869
+    locked: 0
+  - name: Player
+    uniqueID: 264397063
+    locked: 0
   - name: Objects
     uniqueID: 28367043
     locked: 0
   - name: Characters
     uniqueID: 2120127893
     locked: 0
-  - name: Player
-    uniqueID: 4112347869
+  - name: Monster
+    uniqueID: 2214162591
     locked: 0
   - name: Entrances and Exits
     uniqueID: 4291844731
     locked: 0
+<<<<<<< Updated upstream
   - name: Foreground
     uniqueID: 238246957
+=======
+  - name: Light Limiter
+    uniqueID: 27784775
+>>>>>>> Stashed changes
     locked: 0

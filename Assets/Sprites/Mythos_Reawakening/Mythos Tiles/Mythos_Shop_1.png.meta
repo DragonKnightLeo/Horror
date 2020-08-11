@@ -1,7 +1,322 @@
 fileFormatVersion: 2
 guid: 8cb1168eeba550147ab3e695337b2119
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4381959302284061278
+    second: Mythos_Shop_1_0
+  - first:
+      213: 4908395826446842682
+    second: Mythos_Shop_1_1
+  - first:
+      213: -1199975185319515052
+    second: Mythos_Shop_1_2
+  - first:
+      213: 19927720821792078
+    second: Mythos_Shop_1_3
+  - first:
+      213: 2917290827539642009
+    second: Mythos_Shop_1_4
+  - first:
+      213: -5676910773395001003
+    second: Mythos_Shop_1_5
+  - first:
+      213: -2256049462896662871
+    second: Mythos_Shop_1_6
+  - first:
+      213: -6003155596151296452
+    second: Mythos_Shop_1_7
+  - first:
+      213: -1652188946188045315
+    second: Mythos_Shop_1_8
+  - first:
+      213: 8436878119340165301
+    second: Mythos_Shop_1_9
+  - first:
+      213: -7817432708063689375
+    second: Mythos_Shop_1_10
+  - first:
+      213: -4756863919920236047
+    second: Mythos_Shop_1_11
+  - first:
+      213: 4227828963063433910
+    second: Mythos_Shop_1_12
+  - first:
+      213: 4866378163348382735
+    second: Mythos_Shop_1_13
+  - first:
+      213: 1669776068321498978
+    second: Mythos_Shop_1_14
+  - first:
+      213: 7044462940689647684
+    second: Mythos_Shop_1_15
+  - first:
+      213: 5193703957317169623
+    second: Mythos_Shop_1_16
+  - first:
+      213: -3420911136942605111
+    second: Mythos_Shop_1_17
+  - first:
+      213: -3468058867069386348
+    second: Mythos_Shop_1_18
+  - first:
+      213: 6246831399833780945
+    second: Mythos_Shop_1_19
+  - first:
+      213: 1269610459285060940
+    second: Mythos_Shop_1_20
+  - first:
+      213: -6167999888335786685
+    second: Mythos_Shop_1_21
+  - first:
+      213: 3576598619795016775
+    second: Mythos_Shop_1_22
+  - first:
+      213: -1356260667958290205
+    second: Mythos_Shop_1_23
+  - first:
+      213: -6083917846942146532
+    second: Mythos_Shop_1_24
+  - first:
+      213: -4552708223384010667
+    second: Mythos_Shop_1_25
+  - first:
+      213: -2342481832537836997
+    second: Mythos_Shop_1_26
+  - first:
+      213: -155768897833225541
+    second: Mythos_Shop_1_27
+  - first:
+      213: 981759500263416356
+    second: Mythos_Shop_1_28
+  - first:
+      213: -6096583371299841835
+    second: Mythos_Shop_1_29
+  - first:
+      213: -7935765490883935675
+    second: Mythos_Shop_1_30
+  - first:
+      213: -7021849846205361616
+    second: Mythos_Shop_1_31
+  - first:
+      213: 1079487636721995959
+    second: Mythos_Shop_1_32
+  - first:
+      213: -1837588985192830369
+    second: Mythos_Shop_1_33
+  - first:
+      213: 7320956151307228054
+    second: Mythos_Shop_1_34
+  - first:
+      213: -6189409000545549294
+    second: Mythos_Shop_1_35
+  - first:
+      213: 4284721115106517957
+    second: Mythos_Shop_1_36
+  - first:
+      213: -9198587617625001466
+    second: Mythos_Shop_1_37
+  - first:
+      213: 96052516555966147
+    second: Mythos_Shop_1_38
+  - first:
+      213: 8922263527103110212
+    second: Mythos_Shop_1_39
+  - first:
+      213: 2659792998199606574
+    second: Mythos_Shop_1_40
+  - first:
+      213: -5010237821366226021
+    second: Mythos_Shop_1_41
+  - first:
+      213: -2822554745140218882
+    second: Mythos_Shop_1_42
+  - first:
+      213: 7057248648868734247
+    second: Mythos_Shop_1_43
+  - first:
+      213: -4156182558132527737
+    second: Mythos_Shop_1_44
+  - first:
+      213: -3249792936768633432
+    second: Mythos_Shop_1_45
+  - first:
+      213: 3236232838619544911
+    second: Mythos_Shop_1_46
+  - first:
+      213: -7188461301561541478
+    second: Mythos_Shop_1_47
+  - first:
+      213: -3735074343474815917
+    second: Mythos_Shop_1_48
+  - first:
+      213: 755504475555727947
+    second: Mythos_Shop_1_49
+  - first:
+      213: 470238611596689586
+    second: Mythos_Shop_1_50
+  - first:
+      213: 747145024241152325
+    second: Mythos_Shop_1_51
+  - first:
+      213: -3039806293912051536
+    second: Mythos_Shop_1_52
+  - first:
+      213: -8974373287651610453
+    second: Mythos_Shop_1_53
+  - first:
+      213: 8780682814512067807
+    second: Mythos_Shop_1_54
+  - first:
+      213: -8503928047563616130
+    second: Mythos_Shop_1_55
+  - first:
+      213: 6771502483539872778
+    second: Mythos_Shop_1_56
+  - first:
+      213: 7771031090328261678
+    second: Mythos_Shop_1_57
+  - first:
+      213: -8600080627513648091
+    second: Mythos_Shop_1_58
+  - first:
+      213: 6496253187400754392
+    second: Mythos_Shop_1_59
+  - first:
+      213: -8348011886570440778
+    second: Mythos_Shop_1_60
+  - first:
+      213: -3067864581919777949
+    second: Mythos_Shop_1_61
+  - first:
+      213: -4774041102992579321
+    second: Mythos_Shop_1_62
+  - first:
+      213: 2138965014302385979
+    second: Mythos_Shop_1_63
+  - first:
+      213: 8642249066783501895
+    second: Mythos_Shop_1_64
+  - first:
+      213: 2871292220442227932
+    second: Mythos_Shop_1_65
+  - first:
+      213: -6799701379164772248
+    second: Mythos_Shop_1_66
+  - first:
+      213: -8526572814753756727
+    second: Mythos_Shop_1_67
+  - first:
+      213: 6905993315181632049
+    second: Mythos_Shop_1_68
+  - first:
+      213: 6033568105412644974
+    second: Mythos_Shop_1_69
+  - first:
+      213: 2315450924920093710
+    second: Mythos_Shop_1_70
+  - first:
+      213: -3127147476262247230
+    second: Mythos_Shop_1_71
+  - first:
+      213: 1491282729227174658
+    second: Mythos_Shop_1_72
+  - first:
+      213: -868964332948685130
+    second: Mythos_Shop_1_73
+  - first:
+      213: 6845132061487853586
+    second: Mythos_Shop_1_74
+  - first:
+      213: 1427474667122756223
+    second: Mythos_Shop_1_75
+  - first:
+      213: -1853137368240168700
+    second: Mythos_Shop_1_76
+  - first:
+      213: 3883194546748133041
+    second: Mythos_Shop_1_77
+  - first:
+      213: -189069526328299691
+    second: Mythos_Shop_1_78
+  - first:
+      213: -4248360001554410677
+    second: Mythos_Shop_1_79
+  - first:
+      213: -6485680048823144717
+    second: Mythos_Shop_1_80
+  - first:
+      213: -6696065718882251509
+    second: Mythos_Shop_1_81
+  - first:
+      213: 3234367426655325523
+    second: Mythos_Shop_1_82
+  - first:
+      213: -7627686029905112659
+    second: Mythos_Shop_1_83
+  - first:
+      213: -1424277500130937380
+    second: Mythos_Shop_1_84
+  - first:
+      213: -3930909492607166124
+    second: Mythos_Shop_1_85
+  - first:
+      213: -6902746957183618875
+    second: Mythos_Shop_1_86
+  - first:
+      213: -5399198693616474079
+    second: Mythos_Shop_1_87
+  - first:
+      213: -5683964311283072024
+    second: Mythos_Shop_1_88
+  - first:
+      213: 2412149168903908068
+    second: Mythos_Shop_1_89
+  - first:
+      213: -4059842857790866947
+    second: Mythos_Shop_1_90
+  - first:
+      213: 5792689255452236966
+    second: Mythos_Shop_1_91
+  - first:
+      213: 699085412670880333
+    second: Mythos_Shop_1_92
+  - first:
+      213: -3430339683644467998
+    second: Mythos_Shop_1_93
+  - first:
+      213: 6775773643257213507
+    second: Mythos_Shop_1_94
+  - first:
+      213: -5346257469199739193
+    second: Mythos_Shop_1_95
+  - first:
+      213: 6399358767950968043
+    second: Mythos_Shop_1_96
+  - first:
+      213: -8297917394941057557
+    second: Mythos_Shop_1_97
+  - first:
+      213: 5613689993183139085
+    second: Mythos_Shop_1_98
+  - first:
+      213: 2129797087615153115
+    second: Mythos_Shop_1_99
+  - first:
+      213: 2225032808754460420
+    second: Mythos_Shop_1_100
+  - first:
+      213: -6927758841601346020
+    second: Mythos_Shop_1_101
+  - first:
+      213: -7015649080689460732
+    second: Mythos_Shop_1_102
+  - first:
+      213: -100506246655701640
+    second: Mythos_Shop_1_103
+  - first:
+      213: -3335959105566122823
+    second: Mythos_Shop_1_104
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +346,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +355,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +378,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +399,2212 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Shop_1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 681
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110424f3589b8124cac47a9793bee076
+      internalID: 4381959302284061278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 732
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5057e4f572327c6428645a1f7a1025f8
+      internalID: 4908395826446842682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 680
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c4b51006190c4a9c3929203c5d9dd
+      internalID: -1199975185319515052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 730
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035796c028ce1d0479a9196773a4f2bb
+      internalID: 19927720821792078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 683
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c297e3241a168459a94198cb15925a
+      internalID: 2917290827539642009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 692
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75092245ae996c849bf55a13c3a13557
+      internalID: -5676910773395001003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 674
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1844e9d0e91f4e141afb668e5992648a
+      internalID: -2256049462896662871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 672
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289aeece58bdcad48bfa59ae53e04e3f
+      internalID: -6003155596151296452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 726
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ea00c18b78d246894139a9bb64967
+      internalID: -1652188946188045315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 722
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9805bf8051764ab07c649c5fa36f8
+      internalID: 8436878119340165301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 686
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333f68dc3a85c346a3557450c55048d
+      internalID: -7817432708063689375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 675
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0834ea14c36743a950652229a8dd2
+      internalID: -4756863919920236047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 679
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652cb886537bb87448a1396d699faca5
+      internalID: 4227828963063433910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 591
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7f49fd7f97364cbc9c7c217c9d748
+      internalID: 4866378163348382735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 593
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b444fe99b1d8c445b29a3b11bd6a26d
+      internalID: 1669776068321498978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 593
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41534e717a14b49a8e9f0a2b32aa97
+      internalID: 7044462940689647684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 588
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a938573489c4fc4c9cebf8200a7bd18
+      internalID: 5193703957317169623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 589
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae7a2e209a9df4f8a2fceff611900a
+      internalID: -3420911136942605111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 581
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc713bb5cf141478ea442479157f14
+      internalID: -3468058867069386348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 628
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c480475ec78c3a048bcc273b266562a7
+      internalID: 6246831399833780945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 629
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728000c516f1ba42bc645d265e224f8
+      internalID: 1269610459285060940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 628
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad680da53d7ce489e7164f08de7e31
+      internalID: -6167999888335786685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 578
+        width: 22
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815cfa3a045e3c4484cc8e7548ed22c
+      internalID: 3576598619795016775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 578
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c3aa200b560b429429ffb9ae639e7
+      internalID: -1356260667958290205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 579
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2c0fcdf7bed54286740c3d736c890
+      internalID: -6083917846942146532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 580
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea178c9efa557a4baf25c27f4857938
+      internalID: -4552708223384010667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 496
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c0ab53efcaddf42a86eb4d704db01b
+      internalID: -2342481832537836997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 495
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f1e2e83eb9e5c4e8056f9dff79b10e
+      internalID: -155768897833225541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 540
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00274eeb255eb4f8ffe2ff97e309d6
+      internalID: 981759500263416356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 541
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791117a38b6dd447b321afae17a676b
+      internalID: -6096583371299841835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 540
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810e38b03a3e1e4e8b39859620af0cd
+      internalID: -7935765490883935675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 539
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd63b35093671c4bbc0665722980d07
+      internalID: -7021849846205361616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 490
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e117149296d1d2e4e94ecb6584a356f5
+      internalID: 1079487636721995959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 486
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2805191865fc84f85bb03aeb898fd5
+      internalID: -1837588985192830369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 541
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731f92ce3c61094e9a6be6f5eb9c751
+      internalID: 7320956151307228054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_35
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 539
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad616bd99a60c0e4ba8eb292d03c4bc0
+      internalID: -6189409000545549294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 483
+        width: 21
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97b8cd556d94c4aa45d6596b322ecc
+      internalID: 4284721115106517957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_37
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 480
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ea4858f9756740b4d499f4936ef53
+      internalID: -9198587617625001466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 493
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8435c66a57d741837c01823ae7767
+      internalID: 96052516555966147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 493
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0ebf29ebe50546b570923d5f85e18
+      internalID: 8922263527103110212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 490
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fcff744a042e64ab0a7d3a293f8770
+      internalID: 2659792998199606574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 490
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33735cf0b02c848af3d4bddc3f4f28
+      internalID: -5010237821366226021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_42
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 495
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85721855e9680984ea0c01f081e723d0
+      internalID: -2822554745140218882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_43
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 495
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3f03a01c08dc43944eb1158e8a461
+      internalID: 7057248648868734247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 434
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36222c80962adf4f8087cc923733a3a
+      internalID: -4156182558132527737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 432
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319bd8d59c515cd42bdf1bae4353b17e
+      internalID: -3249792936768633432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 432
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7db808160730743a4eebc6a7c4e51e
+      internalID: 3236232838619544911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 432
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1641c326a6a1b742b517b3a04e283b0
+      internalID: -7188461301561541478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 453
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070dfc9341144c14eb52dd186522b207
+      internalID: -3735074343474815917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 446
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1453d7d9a696d4d8a1e3a6839e4488
+      internalID: 755504475555727947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 443
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a170b0c9055eae4b8927fd1fe1d9a9b
+      internalID: 470238611596689586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 443
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e4a856a2173f940b0b733bd03648a4
+      internalID: 747145024241152325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 387
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516f5c424e641f46b1f4c47095651a3
+      internalID: -3039806293912051536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_53
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 387
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8e1f5219572949aa53ff0932472e7
+      internalID: -8974373287651610453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_54
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 396
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055434e0b2702a247b9c6f1486bde3dd
+      internalID: 8780682814512067807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 393
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9849642b31c7f54c825f21aed7719d3
+      internalID: -8503928047563616130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 384
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163b93ed33829d4aa6b9c5564ef3435
+      internalID: 6771502483539872778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 391
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c4f9d5309e854892614ab0e3111b9
+      internalID: 7771031090328261678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055dea2baf49ed49adcedb52966527b
+      internalID: -8600080627513648091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 391
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333ca8fedf059940bab3c3e0700d340
+      internalID: 6496253187400754392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 399
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f92fbf75cc0040b0d5f7f7bd36d6f
+      internalID: -8348011886570440778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 397
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e79858377943e44a96952ea4467d9f
+      internalID: -3067864581919777949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 394
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf82d23f06c2d42b90566707747e8e
+      internalID: -4774041102992579321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 393
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e907ab936e7094a91046e9695fd013
+      internalID: 2138965014302385979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672ce581df46cf4baf7801677ceb298
+      internalID: 8642249066783501895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc70def9afc8641b413712be5b4a86
+      internalID: 2871292220442227932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 347
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d788025cf0a3a4c4c9c4d1753b8827f6
+      internalID: -6799701379164772248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbbc14df8a670d4590148271a45bf0a
+      internalID: -8526572814753756727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c4c748ed40a25458478a17c11897c0
+      internalID: 6905993315181632049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 353
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e0a5add10627438b976ec9e09f080
+      internalID: 6033568105412644974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 294
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e88bbf6c745ef4b8d58a246ac402a3
+      internalID: 2315450924920093710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 251
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968803f0f4ef0b448ad8c725cf727ce
+      internalID: -3127147476262247230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_72
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 300
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ae30bcb0e611a498f754fdb03c6093
+      internalID: 1491282729227174658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_73
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 337
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c826a61692b8a469c6f1d9d19be4b0
+      internalID: -868964332948685130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 274
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffa0e852ea54914b8c7f7c07dc27a28
+      internalID: 6845132061487853586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 242
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ee2b05656dbf41a02ab4d6ad5356d
+      internalID: 1427474667122756223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d487144b7d1b45920ce7e3b928632
+      internalID: -1853137368240168700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a919fcfdf4b484f8f5d73efaff1580
+      internalID: 3883194546748133041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 244
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5e65fe15283642a4ee266bdda216a
+      internalID: -189069526328299691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 245
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1bad382b31d7545873f8d8c7e0b072
+      internalID: -4248360001554410677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_80
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 246
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72bf40026f753349baffb9f2f637ba2
+      internalID: -6485680048823144717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_81
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 245
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223455251b5adbd4bbeb7bef388d0d91
+      internalID: -6696065718882251509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_82
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 289
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87078583e2591f49853e0c713637d65
+      internalID: 3234367426655325523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_83
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 153
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152195addc8a354c9b3bcfbfd65f038
+      internalID: -7627686029905112659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_84
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 241
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1e613356be0d468b1eaf2b69d92f7
+      internalID: -1424277500130937380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45e06bdfacff648b5b4065f9d366e0
+      internalID: -3930909492607166124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 146
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd537d10ffab5be43976381b71539700
+      internalID: -6902746957183618875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_87
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 149
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a147f9e498ba42baaa825f6548171
+      internalID: -5399198693616474079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_88
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 148
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157fc6f38579fc489388593b48faba9
+      internalID: -5683964311283072024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 148
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6e640b7e8d3f499cf7c56e510a540
+      internalID: 2412149168903908068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 149
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcf1c8868119545a39b6b5a94bd1ee
+      internalID: -4059842857790866947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 150
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140e8f1ebde0a542bb0356f019a13da
+      internalID: 5792689255452236966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_92
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 149
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d86345ee167043a92fdcfb2ba9d3d
+      internalID: 699085412670880333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_93
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 103
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb315bc2ce3c6a647aa84d8695b325a4
+      internalID: -3430339683644467998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_94
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 151
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49211d8527e0b904485b13802f7be09e
+      internalID: 6775773643257213507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_95
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 149
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7020cc019fbe949ab269614138e4b0
+      internalID: -5346257469199739193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f54962162cbf4418844bfdd280bf65
+      internalID: 6399358767950968043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_97
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 55
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5515816c494d80b4fa8fa0345716501a
+      internalID: -8297917394941057557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_98
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d300f456a9ee564da258a40b2daec7e
+      internalID: 5613689993183139085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_99
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 96
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ac815a9892f743afa1cbf5e01d07e
+      internalID: 2129797087615153115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_100
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 96
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7fbcb360ea61e44b55cf2232d360dd
+      internalID: 2225032808754460420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_101
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 22
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debae1df9145bd1449ca54ced5ab5f7d
+      internalID: -6927758841601346020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_102
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 7
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1968c470f91c83745994de14386cc543
+      internalID: -7015649080689460732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_103
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 6
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9645e7c0dc4c4792f4121aef35c7b
+      internalID: -100506246655701640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Shop_1_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442b6c83d4f8d1a418060ffc14216e05
+      internalID: -3335959105566122823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

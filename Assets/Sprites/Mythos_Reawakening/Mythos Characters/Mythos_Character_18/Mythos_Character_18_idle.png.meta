@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 3e95b5de844cce441b7916593fcd87e6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 409860681575300391
+    second: Mythos_Character_18_idle_0
+  - first:
+      213: 4148464073439929917
+    second: Mythos_Character_18_idle_1
+  - first:
+      213: -5863017239434322565
+    second: Mythos_Character_18_idle_2
+  - first:
+      213: -6575120282171911002
+    second: Mythos_Character_18_idle_3
+  - first:
+      213: 8055396024519163911
+    second: Mythos_Character_18_idle_4
+  - first:
+      213: -5960959491747516506
+    second: Mythos_Character_18_idle_5
+  - first:
+      213: -7330448254969032870
+    second: Mythos_Character_18_idle_6
+  - first:
+      213: -7852058374560231985
+    second: Mythos_Character_18_idle_7
+  - first:
+      213: -5504602621467398987
+    second: Mythos_Character_18_idle_8
+  - first:
+      213: 7194170020501419126
+    second: Mythos_Character_18_idle_9
+  - first:
+      213: -5980610030082584392
+    second: Mythos_Character_18_idle_10
+  - first:
+      213: 6726006259899543741
+    second: Mythos_Character_18_idle_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 401
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed8b7edcecd094290e553a8d82210c
+      internalID: 409860681575300391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 401
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37dfbe642af034cb88e5fc1fd3a5e4
+      internalID: 4148464073439929917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 401
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152291904a3cd24a87ef16a3d8a4187
+      internalID: -5863017239434322565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 272
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8288ed9ec60c854a94da63f4310de75
+      internalID: -6575120282171911002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 272
+        width: 28
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8631d3880c6543bb743904f9a912a
+      internalID: 8055396024519163911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 272
+        width: 28
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdaf35794c449a418d4597b768f92fe
+      internalID: -5960959491747516506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c5a4801b2332418da090ba080ec37
+      internalID: -7330448254969032870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 144
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e7708a73a579f4fbf28261acdf1776
+      internalID: -7852058374560231985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 144
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392ec251f0cbd1c4994f72d1ecddbed0
+      internalID: -5504602621467398987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 20
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a81d6acb74654c936b09c4654bc55
+      internalID: 7194170020501419126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 20
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f99a6910897ee449053af20f043a0c
+      internalID: -5980610030082584392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_18_idle_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 20
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5cd9214b3196c41958b21b4c82edbe
+      internalID: 6726006259899543741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
