@@ -1,0 +1,5887 @@
+fileFormatVersion: 2
+guid: 53855508e42541e4f830c177eff0b93b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2054877287941269326
+    second: Mythos_Sothomir_0
+  - first:
+      213: -1599010013815329122
+    second: Mythos_Sothomir_1
+  - first:
+      213: 4941210625462442457
+    second: Mythos_Sothomir_2
+  - first:
+      213: 8725462414168833405
+    second: Mythos_Sothomir_3
+  - first:
+      213: 4680639283684008991
+    second: Mythos_Sothomir_4
+  - first:
+      213: -908704005229188179
+    second: Mythos_Sothomir_5
+  - first:
+      213: 7313966431407730016
+    second: Mythos_Sothomir_6
+  - first:
+      213: -8176235791058695807
+    second: Mythos_Sothomir_7
+  - first:
+      213: 4840421111851769239
+    second: Mythos_Sothomir_8
+  - first:
+      213: -7492023645764062702
+    second: Mythos_Sothomir_9
+  - first:
+      213: 4928430921255373180
+    second: Mythos_Sothomir_10
+  - first:
+      213: -5382924235120158495
+    second: Mythos_Sothomir_11
+  - first:
+      213: -1370397964609909678
+    second: Mythos_Sothomir_12
+  - first:
+      213: 9079520444867865031
+    second: Mythos_Sothomir_13
+  - first:
+      213: 2235483485903176805
+    second: Mythos_Sothomir_14
+  - first:
+      213: 4582711578244323794
+    second: Mythos_Sothomir_15
+  - first:
+      213: -8671008469812724894
+    second: Mythos_Sothomir_16
+  - first:
+      213: 1554845407971321540
+    second: Mythos_Sothomir_17
+  - first:
+      213: -1936483391373702980
+    second: Mythos_Sothomir_18
+  - first:
+      213: -3455989094208908331
+    second: Mythos_Sothomir_19
+  - first:
+      213: 5978719451672420136
+    second: Mythos_Sothomir_20
+  - first:
+      213: 8339885444488998858
+    second: Mythos_Sothomir_21
+  - first:
+      213: -8299653936407676080
+    second: Mythos_Sothomir_22
+  - first:
+      213: 2268032588690719995
+    second: Mythos_Sothomir_23
+  - first:
+      213: -378921793246306643
+    second: Mythos_Sothomir_24
+  - first:
+      213: 6671521963173029300
+    second: Mythos_Sothomir_25
+  - first:
+      213: -1497416726157135497
+    second: Mythos_Sothomir_26
+  - first:
+      213: 3056604048637999250
+    second: Mythos_Sothomir_27
+  - first:
+      213: 8512917398387756286
+    second: Mythos_Sothomir_28
+  - first:
+      213: 5325457123240529244
+    second: Mythos_Sothomir_29
+  - first:
+      213: -7568642505431626571
+    second: Mythos_Sothomir_30
+  - first:
+      213: -6348972659853517650
+    second: Mythos_Sothomir_31
+  - first:
+      213: -3834622888739862046
+    second: Mythos_Sothomir_32
+  - first:
+      213: -8654379449438888339
+    second: Mythos_Sothomir_33
+  - first:
+      213: 4245473137451340500
+    second: Mythos_Sothomir_34
+  - first:
+      213: 2869920297700970603
+    second: Mythos_Sothomir_35
+  - first:
+      213: 204490998819093544
+    second: Mythos_Sothomir_36
+  - first:
+      213: 4510999955802262831
+    second: Mythos_Sothomir_37
+  - first:
+      213: 5173806927811211108
+    second: Mythos_Sothomir_38
+  - first:
+      213: -2474154525819925605
+    second: Mythos_Sothomir_39
+  - first:
+      213: 2193507174504175173
+    second: Mythos_Sothomir_40
+  - first:
+      213: 3000368144628787321
+    second: Mythos_Sothomir_41
+  - first:
+      213: 3902263422694474845
+    second: Mythos_Sothomir_42
+  - first:
+      213: -7134095276078219962
+    second: Mythos_Sothomir_43
+  - first:
+      213: 6398880770038615623
+    second: Mythos_Sothomir_44
+  - first:
+      213: 5795791330143796905
+    second: Mythos_Sothomir_45
+  - first:
+      213: -6259708142263882148
+    second: Mythos_Sothomir_46
+  - first:
+      213: -156398393952505154
+    second: Mythos_Sothomir_47
+  - first:
+      213: 5531356336333714276
+    second: Mythos_Sothomir_48
+  - first:
+      213: 2987196407141810526
+    second: Mythos_Sothomir_49
+  - first:
+      213: 88516588618581999
+    second: Mythos_Sothomir_50
+  - first:
+      213: 4550034533316704466
+    second: Mythos_Sothomir_51
+  - first:
+      213: -9085673885460949994
+    second: Mythos_Sothomir_52
+  - first:
+      213: 8820761068285127136
+    second: Mythos_Sothomir_53
+  - first:
+      213: 6256240923645722307
+    second: Mythos_Sothomir_54
+  - first:
+      213: -2121115435596134645
+    second: Mythos_Sothomir_55
+  - first:
+      213: 6933436357843205771
+    second: Mythos_Sothomir_56
+  - first:
+      213: 2803224835648480953
+    second: Mythos_Sothomir_57
+  - first:
+      213: 6115644999882765423
+    second: Mythos_Sothomir_58
+  - first:
+      213: -441201692430121640
+    second: Mythos_Sothomir_59
+  - first:
+      213: 5064656084082581665
+    second: Mythos_Sothomir_60
+  - first:
+      213: -7238571970983802065
+    second: Mythos_Sothomir_61
+  - first:
+      213: 1480269809441153715
+    second: Mythos_Sothomir_62
+  - first:
+      213: 8464854673542523929
+    second: Mythos_Sothomir_63
+  - first:
+      213: 5940005780422996832
+    second: Mythos_Sothomir_64
+  - first:
+      213: -3891724408476651650
+    second: Mythos_Sothomir_65
+  - first:
+      213: -4116950931585886734
+    second: Mythos_Sothomir_66
+  - first:
+      213: 1231355979309010413
+    second: Mythos_Sothomir_67
+  - first:
+      213: 7987633969417986954
+    second: Mythos_Sothomir_68
+  - first:
+      213: -5244631916820465265
+    second: Mythos_Sothomir_69
+  - first:
+      213: 5003971475633635303
+    second: Mythos_Sothomir_70
+  - first:
+      213: 1853942541182347529
+    second: Mythos_Sothomir_71
+  - first:
+      213: -6854298110612618489
+    second: Mythos_Sothomir_72
+  - first:
+      213: -7982307618221081411
+    second: Mythos_Sothomir_73
+  - first:
+      213: 2343942396010796141
+    second: Mythos_Sothomir_74
+  - first:
+      213: -2430830934744512865
+    second: Mythos_Sothomir_75
+  - first:
+      213: -2089073929478967553
+    second: Mythos_Sothomir_76
+  - first:
+      213: -3342987951031373091
+    second: Mythos_Sothomir_77
+  - first:
+      213: -4710458991341539360
+    second: Mythos_Sothomir_78
+  - first:
+      213: -2356788945860025081
+    second: Mythos_Sothomir_79
+  - first:
+      213: 8017973433616232217
+    second: Mythos_Sothomir_80
+  - first:
+      213: -8481120003753077160
+    second: Mythos_Sothomir_81
+  - first:
+      213: 206676819314306179
+    second: Mythos_Sothomir_82
+  - first:
+      213: 7108890061874793387
+    second: Mythos_Sothomir_83
+  - first:
+      213: -3004359074300722165
+    second: Mythos_Sothomir_84
+  - first:
+      213: -5061662445352671670
+    second: Mythos_Sothomir_85
+  - first:
+      213: 9202125809703437266
+    second: Mythos_Sothomir_86
+  - first:
+      213: -7056260091908440436
+    second: Mythos_Sothomir_87
+  - first:
+      213: 4778567083222628159
+    second: Mythos_Sothomir_88
+  - first:
+      213: 5439528121745825297
+    second: Mythos_Sothomir_89
+  - first:
+      213: -8879929101848760814
+    second: Mythos_Sothomir_90
+  - first:
+      213: 1520589779761643354
+    second: Mythos_Sothomir_91
+  - first:
+      213: 2723727619302638474
+    second: Mythos_Sothomir_92
+  - first:
+      213: 667686397809091273
+    second: Mythos_Sothomir_93
+  - first:
+      213: 516105144316573406
+    second: Mythos_Sothomir_94
+  - first:
+      213: 5002003060444133278
+    second: Mythos_Sothomir_95
+  - first:
+      213: 6263681895825298383
+    second: Mythos_Sothomir_96
+  - first:
+      213: -2611592255365514628
+    second: Mythos_Sothomir_97
+  - first:
+      213: -2437125098753128794
+    second: Mythos_Sothomir_98
+  - first:
+      213: 3802168305604284624
+    second: Mythos_Sothomir_99
+  - first:
+      213: -8945682842466594125
+    second: Mythos_Sothomir_100
+  - first:
+      213: 7948486444127133546
+    second: Mythos_Sothomir_101
+  - first:
+      213: 7012990992411329620
+    second: Mythos_Sothomir_102
+  - first:
+      213: -4435569457831606243
+    second: Mythos_Sothomir_103
+  - first:
+      213: -3868438727029565223
+    second: Mythos_Sothomir_104
+  - first:
+      213: 7406053681097637051
+    second: Mythos_Sothomir_105
+  - first:
+      213: -1714208705891716583
+    second: Mythos_Sothomir_106
+  - first:
+      213: -5451641297720655919
+    second: Mythos_Sothomir_107
+  - first:
+      213: 1746734867666286324
+    second: Mythos_Sothomir_108
+  - first:
+      213: 2744385832081675595
+    second: Mythos_Sothomir_109
+  - first:
+      213: -395255570368848867
+    second: Mythos_Sothomir_110
+  - first:
+      213: -640365138560144904
+    second: Mythos_Sothomir_111
+  - first:
+      213: 5995586616063526549
+    second: Mythos_Sothomir_112
+  - first:
+      213: 7654537074409214866
+    second: Mythos_Sothomir_113
+  - first:
+      213: -6145599426243834141
+    second: Mythos_Sothomir_114
+  - first:
+      213: -6362216137905249873
+    second: Mythos_Sothomir_115
+  - first:
+      213: 6415745136451629664
+    second: Mythos_Sothomir_116
+  - first:
+      213: 3876944540450669892
+    second: Mythos_Sothomir_117
+  - first:
+      213: 5443914814259834088
+    second: Mythos_Sothomir_118
+  - first:
+      213: -6951375555438930490
+    second: Mythos_Sothomir_119
+  - first:
+      213: 4834600545207870700
+    second: Mythos_Sothomir_120
+  - first:
+      213: 8826499816433927071
+    second: Mythos_Sothomir_121
+  - first:
+      213: -4393734224753882147
+    second: Mythos_Sothomir_122
+  - first:
+      213: -2773808047468929759
+    second: Mythos_Sothomir_123
+  - first:
+      213: 6054577600825300460
+    second: Mythos_Sothomir_124
+  - first:
+      213: 7758934052080966023
+    second: Mythos_Sothomir_125
+  - first:
+      213: 7448249250691816557
+    second: Mythos_Sothomir_126
+  - first:
+      213: -3940492877197946216
+    second: Mythos_Sothomir_127
+  - first:
+      213: 935758251673384101
+    second: Mythos_Sothomir_128
+  - first:
+      213: -4375516950536753344
+    second: Mythos_Sothomir_129
+  - first:
+      213: 7785353760764069323
+    second: Mythos_Sothomir_130
+  - first:
+      213: 1967140930629249690
+    second: Mythos_Sothomir_131
+  - first:
+      213: -1478136871149201310
+    second: Mythos_Sothomir_132
+  - first:
+      213: -3873009566551188913
+    second: Mythos_Sothomir_133
+  - first:
+      213: -4845126525059800376
+    second: Mythos_Sothomir_134
+  - first:
+      213: 5395682987529221101
+    second: Mythos_Sothomir_135
+  - first:
+      213: 27672454157075192
+    second: Mythos_Sothomir_136
+  - first:
+      213: -776635479619567641
+    second: Mythos_Sothomir_137
+  - first:
+      213: -913076108050382620
+    second: Mythos_Sothomir_138
+  - first:
+      213: 3322132516126766375
+    second: Mythos_Sothomir_139
+  - first:
+      213: -4029461027583428685
+    second: Mythos_Sothomir_140
+  - first:
+      213: 8119485348083601685
+    second: Mythos_Sothomir_141
+  - first:
+      213: -8546580320655130197
+    second: Mythos_Sothomir_142
+  - first:
+      213: -8783691636511478156
+    second: Mythos_Sothomir_143
+  - first:
+      213: 3563272871597984783
+    second: Mythos_Sothomir_144
+  - first:
+      213: 1303981745859748304
+    second: Mythos_Sothomir_145
+  - first:
+      213: -7499843979135640611
+    second: Mythos_Sothomir_146
+  - first:
+      213: 9095264077206837357
+    second: Mythos_Sothomir_147
+  - first:
+      213: -4213738953226607682
+    second: Mythos_Sothomir_148
+  - first:
+      213: -5234487745080949445
+    second: Mythos_Sothomir_149
+  - first:
+      213: 2210494417899854107
+    second: Mythos_Sothomir_150
+  - first:
+      213: 5983652356269656517
+    second: Mythos_Sothomir_151
+  - first:
+      213: 3854520098243855686
+    second: Mythos_Sothomir_152
+  - first:
+      213: 679839968442444883
+    second: Mythos_Sothomir_153
+  - first:
+      213: -4126436631422810534
+    second: Mythos_Sothomir_154
+  - first:
+      213: -1925765938597340173
+    second: Mythos_Sothomir_155
+  - first:
+      213: -3540222270076772211
+    second: Mythos_Sothomir_156
+  - first:
+      213: -4806304742209873223
+    second: Mythos_Sothomir_157
+  - first:
+      213: -642721609659247932
+    second: Mythos_Sothomir_158
+  - first:
+      213: -7088575397175471971
+    second: Mythos_Sothomir_159
+  - first:
+      213: -5766042028624028611
+    second: Mythos_Sothomir_160
+  - first:
+      213: 5295379012873224096
+    second: Mythos_Sothomir_161
+  - first:
+      213: -935376783898549481
+    second: Mythos_Sothomir_162
+  - first:
+      213: -6833298976849754450
+    second: Mythos_Sothomir_163
+  - first:
+      213: 2067673608433333945
+    second: Mythos_Sothomir_164
+  - first:
+      213: 8457150995613794931
+    second: Mythos_Sothomir_165
+  - first:
+      213: -7511696924105912823
+    second: Mythos_Sothomir_166
+  - first:
+      213: -4450606193342719390
+    second: Mythos_Sothomir_167
+  - first:
+      213: 2976715102412777185
+    second: Mythos_Sothomir_168
+  - first:
+      213: -4744156111557370087
+    second: Mythos_Sothomir_169
+  - first:
+      213: -6639268746190479741
+    second: Mythos_Sothomir_170
+  - first:
+      213: 4362846550578111496
+    second: Mythos_Sothomir_171
+  - first:
+      213: -6612552892593969554
+    second: Mythos_Sothomir_172
+  - first:
+      213: 8559113730320356876
+    second: Mythos_Sothomir_173
+  - first:
+      213: 1569383754528638666
+    second: Mythos_Sothomir_174
+  - first:
+      213: -8241520131437984189
+    second: Mythos_Sothomir_175
+  - first:
+      213: 1692485179496025258
+    second: Mythos_Sothomir_176
+  - first:
+      213: 9140251341297832173
+    second: Mythos_Sothomir_177
+  - first:
+      213: 5752682499789411985
+    second: Mythos_Sothomir_178
+  - first:
+      213: -6309254725924993562
+    second: Mythos_Sothomir_179
+  - first:
+      213: -5785873363074124956
+    second: Mythos_Sothomir_180
+  - first:
+      213: 8892039448255493838
+    second: Mythos_Sothomir_181
+  - first:
+      213: 5681867566730966560
+    second: Mythos_Sothomir_182
+  - first:
+      213: 4636125709545925915
+    second: Mythos_Sothomir_183
+  - first:
+      213: 5608821178868902495
+    second: Mythos_Sothomir_184
+  - first:
+      213: -4326681720441737210
+    second: Mythos_Sothomir_185
+  - first:
+      213: -9133923288708150898
+    second: Mythos_Sothomir_186
+  - first:
+      213: 7308423483427561956
+    second: Mythos_Sothomir_187
+  - first:
+      213: -3562617218538594210
+    second: Mythos_Sothomir_188
+  - first:
+      213: -4004824933059740877
+    second: Mythos_Sothomir_189
+  - first:
+      213: 1500678993188074854
+    second: Mythos_Sothomir_190
+  - first:
+      213: 3232686265275589778
+    second: Mythos_Sothomir_191
+  - first:
+      213: -7059379485844731377
+    second: Mythos_Sothomir_192
+  - first:
+      213: -5581350681074624328
+    second: Mythos_Sothomir_193
+  - first:
+      213: 7346278479208064121
+    second: Mythos_Sothomir_194
+  - first:
+      213: 3410881239930678205
+    second: Mythos_Sothomir_195
+  - first:
+      213: -670683946186765226
+    second: Mythos_Sothomir_196
+  - first:
+      213: -4585533318913372662
+    second: Mythos_Sothomir_197
+  - first:
+      213: -868768974339639385
+    second: Mythos_Sothomir_198
+  - first:
+      213: -6206302373555561589
+    second: Mythos_Sothomir_199
+  - first:
+      213: -8682301688191148810
+    second: Mythos_Sothomir_200
+  - first:
+      213: 4484230415818522742
+    second: Mythos_Sothomir_201
+  - first:
+      213: -1186576687450931528
+    second: Mythos_Sothomir_202
+  - first:
+      213: 8962716690621749365
+    second: Mythos_Sothomir_203
+  - first:
+      213: 8505569051442117672
+    second: Mythos_Sothomir_204
+  - first:
+      213: 5607665639920215878
+    second: Mythos_Sothomir_205
+  - first:
+      213: 5098275784776501448
+    second: Mythos_Sothomir_206
+  - first:
+      213: -2565312924747875971
+    second: Mythos_Sothomir_207
+  - first:
+      213: -8359655399069769637
+    second: Mythos_Sothomir_208
+  - first:
+      213: -4053792933855251198
+    second: Mythos_Sothomir_209
+  - first:
+      213: -5440325440873681331
+    second: Mythos_Sothomir_210
+  - first:
+      213: -3103965535633409967
+    second: Mythos_Sothomir_211
+  - first:
+      213: -9188047115054302809
+    second: Mythos_Sothomir_212
+  - first:
+      213: -5138496146088811329
+    second: Mythos_Sothomir_213
+  - first:
+      213: -5376545258090685690
+    second: Mythos_Sothomir_214
+  - first:
+      213: 7161781263473673104
+    second: Mythos_Sothomir_215
+  - first:
+      213: 7646895262995251592
+    second: Mythos_Sothomir_216
+  - first:
+      213: -8781173570162778782
+    second: Mythos_Sothomir_217
+  - first:
+      213: 5710344748422641008
+    second: Mythos_Sothomir_218
+  - first:
+      213: 4264802916265474748
+    second: Mythos_Sothomir_219
+  - first:
+      213: 1686917177729981408
+    second: Mythos_Sothomir_220
+  - first:
+      213: -2431524536514023391
+    second: Mythos_Sothomir_221
+  - first:
+      213: 3361526339883493412
+    second: Mythos_Sothomir_222
+  - first:
+      213: -5058517183885604037
+    second: Mythos_Sothomir_223
+  - first:
+      213: -8452066026692975265
+    second: Mythos_Sothomir_224
+  - first:
+      213: 6369486258911969279
+    second: Mythos_Sothomir_225
+  - first:
+      213: 1100958248929686244
+    second: Mythos_Sothomir_226
+  - first:
+      213: -6815628306968025547
+    second: Mythos_Sothomir_227
+  - first:
+      213: 7878749411598868763
+    second: Mythos_Sothomir_228
+  - first:
+      213: -5900397057589443190
+    second: Mythos_Sothomir_229
+  - first:
+      213: -2236106476612226538
+    second: Mythos_Sothomir_230
+  - first:
+      213: -6467972291726099059
+    second: Mythos_Sothomir_231
+  - first:
+      213: 3855492172019955977
+    second: Mythos_Sothomir_232
+  - first:
+      213: -5316925233639364553
+    second: Mythos_Sothomir_233
+  - first:
+      213: -956622752771279263
+    second: Mythos_Sothomir_234
+  - first:
+      213: 4437103388378000464
+    second: Mythos_Sothomir_235
+  - first:
+      213: -5467206508834014628
+    second: Mythos_Sothomir_236
+  - first:
+      213: -5282101017232365217
+    second: Mythos_Sothomir_237
+  - first:
+      213: 125430785338236875
+    second: Mythos_Sothomir_238
+  - first:
+      213: -5235061561569924033
+    second: Mythos_Sothomir_239
+  - first:
+      213: -6758783127606523865
+    second: Mythos_Sothomir_240
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Sothomir_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 7764
+        width: 272
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c045e243a47e7c4aaa111ab86760741
+      internalID: -2054877287941269326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 7756
+        width: 284
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da27bbd5e59124fabbc1bb61884184
+      internalID: -1599010013815329122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_2
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 7768
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1763932e9e36b144830236aa0c3dd7d
+      internalID: 4941210625462442457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7780
+        width: 280
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d58c1bcef60bc42a6fa46e323df57b
+      internalID: 8725462414168833405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 7772
+        width: 280
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417f97e255f9504a93b427f417643dc
+      internalID: 4680639283684008991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_5
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 7772
+        width: 268
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3dbc4a1387564ead608242c2d7617
+      internalID: -908704005229188179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_6
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 7756
+        width: 240
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf836c1c2debef84d971b85c3748fc82
+      internalID: 7313966431407730016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_7
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 7776
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3171285ca71a4cb49da62104205cf
+      internalID: -8176235791058695807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_8
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 7756
+        width: 328
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154648bd54be14341b31c958b2cbcccb
+      internalID: 4840421111851769239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_9
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 7760
+        width: 336
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3174916e868146be6da1d9961e7af
+      internalID: -7492023645764062702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_10
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 7776
+        width: 316
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7681c18b9b8793741834ff512cf378d5
+      internalID: 4928430921255373180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_11
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 7764
+        width: 304
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c06075fec36440aa0128b4b6188c8
+      internalID: -5382924235120158495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_12
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 7760
+        width: 316
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e3c832ab9abc4295ff2e5d2ebba84
+      internalID: -1370397964609909678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_13
+      rect:
+        serializedVersion: 2
+        x: 6796
+        y: 7756
+        width: 316
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be33c1dfb9add419890fe89fb289b5
+      internalID: 9079520444867865031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_14
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 7756
+        width: 328
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb297ee4276f4f418718fbdaaae3953
+      internalID: 2235483485903176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_15
+      rect:
+        serializedVersion: 2
+        x: 7832
+        y: 7760
+        width: 304
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e86d934f19996446b852adea4951024
+      internalID: 4582711578244323794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7248
+        width: 328
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c678ede27442a48bd74d5a7528230b
+      internalID: -8671008469812724894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7244
+        width: 336
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3afeeb2f45104eacc94adb6382946
+      internalID: 1554845407971321540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_18
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 7248
+        width: 316
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7e35b87854284c8690cbcb7c1cdc4
+      internalID: -1936483391373702980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7248
+        width: 300
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9b449a4bac0e46a60f05305b78366
+      internalID: -3455989094208908331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_20
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 7252
+        width: 312
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf1f9a31c95ab4fae264884ba77b91
+      internalID: 5978719451672420136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_21
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 7256
+        width: 312
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05169cd2cb90a4db360ca4def0ea46
+      internalID: 8339885444488998858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_22
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 7260
+        width: 328
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f66e8db2a31e3478a79350fe88d597
+      internalID: -8299653936407676080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_23
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 7256
+        width: 308
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750d88c153671c42a4a9bf2c7758612
+      internalID: 2268032588690719995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_24
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 7228
+        width: 276
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6672d973a2144d9555ca5dc6e0729
+      internalID: -378921793246306643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_25
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 7228
+        width: 284
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd967bf93e81340ad4b4c9b199df5e
+      internalID: 6671521963173029300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_26
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 7228
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3a64094d07194289fdf523038efc7
+      internalID: -1497416726157135497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_27
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7228
+        width: 276
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b7a46911f2a954f90470ea96c4501a
+      internalID: 3056604048637999250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_28
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 7228
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e598011432e846bf5119be92f84a9
+      internalID: 8512917398387756286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_29
+      rect:
+        serializedVersion: 2
+        x: 6764
+        y: 7228
+        width: 264
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ad22dea66a174084b9550cb050bed
+      internalID: 5325457123240529244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_30
+      rect:
+        serializedVersion: 2
+        x: 7288
+        y: 7228
+        width: 244
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b60778c443a9049a119282626cf839
+      internalID: -7568642505431626571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_31
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 7228
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bce71d8974b014dbe4f0ce179939c7
+      internalID: -6348972659853517650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6740
+        width: 328
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644df97315aa244b94f9299de2763ea
+      internalID: -3834622888739862046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_33
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6728
+        width: 332
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01def470eec4e4e89063e7bfc838e5
+      internalID: -8654379449438888339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_34
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 6740
+        width: 312
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa39c1e70f1284ba74757c0c285625
+      internalID: 4245473137451340500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_35
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 6728
+        width: 312
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc82d21293f28b41ba163bef10d038a
+      internalID: 2869920297700970603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_36
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 6732
+        width: 320
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d362640875a554a947a61124c32767
+      internalID: 204490998819093544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_37
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 6744
+        width: 316
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6ba0e4719a224f84c55a6b00756af
+      internalID: 4510999955802262831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_38
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 6728
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebdce881519cdc4fb59a3db822c92aa
+      internalID: 5173806927811211108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_39
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 6740
+        width: 324
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38afa6593d4dad74bb71867c544f18ed
+      internalID: -2474154525819925605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_40
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 6720
+        width: 320
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e362b300edd6641abf7f703311ba61
+      internalID: 2193507174504175173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_41
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 6720
+        width: 312
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81485cc2429a7a647a8aae49af3be514
+      internalID: 3000368144628787321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_42
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 6724
+        width: 288
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53136c11acc90049bfb9f8f4196c235
+      internalID: 3902263422694474845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_43
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6728
+        width: 316
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fe637b44a74742afcd67a04d60671
+      internalID: -7134095276078219962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_44
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 6724
+        width: 308
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d08541ed95d05479fac20945816865
+      internalID: 6398880770038615623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_45
+      rect:
+        serializedVersion: 2
+        x: 6792
+        y: 6724
+        width: 312
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076ede1dbe6a1d14aad28696550acfb1
+      internalID: 5795791330143796905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_46
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 6732
+        width: 328
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0effaf24456f5cc4e9d6c343bf4b0a33
+      internalID: -6259708142263882148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_47
+      rect:
+        serializedVersion: 2
+        x: 7812
+        y: 6724
+        width: 316
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f6e22821f1a14e8805c0a3affc2fb
+      internalID: -156398393952505154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6220
+        width: 312
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39269b9a657b52948b765d25b3078e58
+      internalID: 5531356336333714276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6220
+        width: 308
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c5c7fa5f0c8e49af0a6f8d24b5382
+      internalID: 2987196407141810526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_50
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 6228
+        width: 284
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f425c5b21fdfdc4ba96443346a5df17
+      internalID: 88516588618581999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_51
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 6228
+        width: 316
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6eb80f02f35a45a38f7fd1498a890
+      internalID: 4550034533316704466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_52
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 6228
+        width: 308
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077450a49fcbe604cbd3772a7da5fcb0
+      internalID: -9085673885460949994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_53
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 6224
+        width: 316
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3eebab43f17954d91436ca7982d3a7
+      internalID: 8820761068285127136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_54
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 6236
+        width: 324
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35acecd1a67e23c4ea23f3fe2ba65075
+      internalID: 6256240923645722307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_55
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 6216
+        width: 312
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd82d2500f2eb43b2a1dcdf12f5e48
+      internalID: -2121115435596134645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_56
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 6208
+        width: 324
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4602ed3c4533a65409efedea03288795
+      internalID: 6933436357843205771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_57
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 6204
+        width: 332
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78775bbe996667148bf4e079a9fe903d
+      internalID: 2803224835648480953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_58
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 6220
+        width: 316
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1aefee0daa1e46bbb839ad5216d92
+      internalID: 6115644999882765423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_59
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 6212
+        width: 308
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039bf8f7c1c00ac4a816c17da241f1a0
+      internalID: -441201692430121640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_60
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 6212
+        width: 316
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77398dc51894ca479462af4c7900730
+      internalID: 5064656084082581665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_61
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 6212
+        width: 308
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7e94880656df41bfe31bc52906fac
+      internalID: -7238571970983802065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_62
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 6208
+        width: 288
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a6859914a01446a034f2eac951e05
+      internalID: 1480269809441153715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_63
+      rect:
+        serializedVersion: 2
+        x: 7752
+        y: 6216
+        width: 324
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b362d69ca3b84f86a9eebb770606b
+      internalID: 8464854673542523929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5724
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f12dbd51ba1eb4989e7c8445bd79f5
+      internalID: 5940005780422996832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5728
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e63083a03fafc749a686713e7201b7b
+      internalID: -3891724408476651650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 5728
+        width: 248
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7f3f2e52f02c40900df37e43cd3ff
+      internalID: -4116950931585886734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_67
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 5732
+        width: 296
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a17554f4e7162438a7274bc27fcb4b
+      internalID: 1231355979309010413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_68
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 5732
+        width: 296
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d89d2289020a4d8408194d3885dca
+      internalID: 7987633969417986954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_69
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 5732
+        width: 292
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b48e76bbbd5f849b08901fa7978949
+      internalID: -5244631916820465265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_70
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 5724
+        width: 296
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913f2265cd5e164697c06bf24cffe60
+      internalID: 5003971475633635303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_71
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5724
+        width: 292
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aec6e6861cf6745999ecdaf11abeab
+      internalID: 1853942541182347529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_72
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 5724
+        width: 296
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57238ea5d69974fb83a82e29b0c295
+      internalID: -6854298110612618489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_73
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 5716
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a84dc31771a5c4385607a4be63f24f
+      internalID: -7982307618221081411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_74
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 5720
+        width: 248
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b63bcc9b9a8c647b7cb90ba87020d4
+      internalID: 2343942396010796141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_75
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 5724
+        width: 248
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41af22b53798db45ae3841618f34de2
+      internalID: -2430830934744512865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_76
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 5744
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b4d37b038a4c947be44fb7162e5bfd
+      internalID: -2089073929478967553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_77
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 5744
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894de9fd193b5c249bcf1e92ffcf15d7
+      internalID: -3342987951031373091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_78
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 5744
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e3ab505b073c40b75c62b8eb58c65
+      internalID: -4710458991341539360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_79
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 5700
+        width: 288
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb183c3efd29a40acb802170423699
+      internalID: -2356788945860025081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5188
+        width: 292
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb981f6d98a36438798c911b93e2c5
+      internalID: 8017973433616232217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_81
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5188
+        width: 292
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed6f0bf9569ca47bbba99c3252e97c
+      internalID: -8481120003753077160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_82
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 5212
+        width: 284
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca96be2b7f752d45b28bb76c5e38045
+      internalID: 206676819314306179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_83
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5212
+        width: 288
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef76ba54e9e31458e806518db9479d
+      internalID: 7108890061874793387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_84
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 5216
+        width: 288
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34ce91939ed614892962e0e3fa2d78
+      internalID: -3004359074300722165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_85
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 5196
+        width: 316
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d65c1cb9c709445b10c3ed72bef10a
+      internalID: -5061662445352671670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_86
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 5196
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646cfd43a9c29eb469057a310c387795
+      internalID: 9202125809703437266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_87
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 5196
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa63d41350f027449997c58e42b33c55
+      internalID: -7056260091908440436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_88
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 5248
+        width: 340
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562fa9ac6e12394eae08f279499b7bb
+      internalID: 4778567083222628159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_89
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 5244
+        width: 340
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7ea2d86c3910428a84164e8abff95
+      internalID: 5439528121745825297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_90
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 5240
+        width: 332
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4db3a9d492784ca1da51137ea3469
+      internalID: -8879929101848760814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_91
+      rect:
+        serializedVersion: 2
+        x: 5724
+        y: 5188
+        width: 200
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec176f2f98ab81546905e8594e862f3e
+      internalID: 1520589779761643354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_92
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 5188
+        width: 208
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c33447a76fd39469514d5b86be7e6f
+      internalID: 2723727619302638474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_93
+      rect:
+        serializedVersion: 2
+        x: 6740
+        y: 5188
+        width: 208
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070a7c63eb59e0459e263a9edde0144
+      internalID: 667686397809091273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_94
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 5188
+        width: 204
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278875437ef13444f972a5b5cb3f98c0
+      internalID: 516105144316573406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_95
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 5192
+        width: 212
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e525a493b2ff4eba5f03203c23ddd
+      internalID: 5002003060444133278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4680
+        width: 216
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b10347d794364a972d7cf6b11b879
+      internalID: 6263681895825298383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_97
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 4752
+        width: 340
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b35fddc206c4548bfb4850c268a923
+      internalID: -2611592255365514628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_98
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4748
+        width: 336
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e4fa869b3ab249899d75cd4412ef9
+      internalID: -2437125098753128794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_99
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 4744
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f949deb652cc45bb455d6bddb02c1
+      internalID: 3802168305604284624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_100
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 4688
+        width: 276
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9038c56cb399a24eac17f1afaf6adb4
+      internalID: -8945682842466594125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_101
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4692
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6243b728b363a74e8eab60107227258
+      internalID: 7948486444127133546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_102
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 4700
+        width: 280
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c78314d2b1f14d889b4815aa6dccb
+      internalID: 7012990992411329620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_103
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 4716
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846528049dbf2fb4ebb73d3518675a2c
+      internalID: -4435569457831606243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_104
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 4708
+        width: 276
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5cea6ef16a1384dbe314ed3c00e171
+      internalID: -3868438727029565223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_105
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 4700
+        width: 276
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc0f4f715690c5489b3a0baee966dcf
+      internalID: 7406053681097637051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_106
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 4688
+        width: 284
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddd6a5b395755840bbf4fa3283746df
+      internalID: -1714208705891716583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_107
+      rect:
+        serializedVersion: 2
+        x: 5764
+        y: 4692
+        width: 280
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3884839ea1b2e4bb2cad69d2c38d9b
+      internalID: -5451641297720655919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_108
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 4704
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b159abb1873a4da4b67d5b19d7d0c
+      internalID: 1746734867666286324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_109
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 4716
+        width: 276
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bae653b5eae84b8611508072500d3
+      internalID: 2744385832081675595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_110
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 4708
+        width: 272
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9d44bd616aff43bfdc1f4bed524aa
+      internalID: -395255570368848867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_111
+      rect:
+        serializedVersion: 2
+        x: 7804
+        y: 4700
+        width: 280
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99bddabbdef99847a9587e0ffa04f05
+      internalID: -640365138560144904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4204
+        width: 248
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be255b345d8e2fc4aad95595e0b05d31
+      internalID: 5995586616063526549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_113
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4200
+        width: 240
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063184d3e3b3b4c47b0bd20f8a6b77fa
+      internalID: 7654537074409214866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_114
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 4160
+        width: 304
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6695c89cc0a1b343b88c5da5bd618c6
+      internalID: -6145599426243834141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_115
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 4196
+        width: 296
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff3e01a76e80342b2d4b6473c486ce
+      internalID: -6362216137905249873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_116
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 4196
+        width: 348
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65766666afc213a4aa52e8d0ef25a69e
+      internalID: 6415745136451629664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_117
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 4172
+        width: 192
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b1cb9b12e43946a96a5f2192e2e4c
+      internalID: 3876944540450669892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_118
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 4188
+        width: 292
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dda8428a6242468e935ce69b87d0f
+      internalID: 5443914814259834088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_119
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 4200
+        width: 344
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23801e331222864988adbae55470bc1
+      internalID: -6951375555438930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_120
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 4164
+        width: 196
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4ca8c048aebb46a9cc6f797263e0d
+      internalID: 4834600545207870700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_121
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 4168
+        width: 248
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228e68af5baa8a41b5f7b776b5ab2de
+      internalID: 8826499816433927071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_122
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 4148
+        width: 240
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f835fab69c4e704bb557bd6834a236e
+      internalID: -4393734224753882147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_123
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 4288
+        width: 304
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0bb9f96d62aa842b707f14da010187
+      internalID: -2773808047468929759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_124
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4208
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1f84b8ff817544b39f696375b618e
+      internalID: 6054577600825300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_125
+      rect:
+        serializedVersion: 2
+        x: 6812
+        y: 4180
+        width: 336
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad58d1056f5e149b3f7c404e7c79d1
+      internalID: 7758934052080966023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_126
+      rect:
+        serializedVersion: 2
+        x: 7216
+        y: 4156
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfa12dd3989be40a4bdc66fac6d408
+      internalID: 7448249250691816557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_127
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 4172
+        width: 288
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cdbb9a1f4398e488528948b5a9f05d
+      internalID: -3940492877197946216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3636
+        width: 324
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916b7da805e81c469570e5f408e8d48
+      internalID: 935758251673384101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_129
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3740
+        width: 228
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b944f2d987d2ad043b0eb580dd2db277
+      internalID: -4375516950536753344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_130
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3680
+        width: 288
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb9f8dbbd60c54a97de3c0040f350b
+      internalID: 7785353760764069323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_131
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3680
+        width: 324
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946236afea20a5249bcf7bf0c7f41489
+      internalID: 1967140930629249690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_132
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3644
+        width: 212
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59863339364ca534e9066e2f838e8c0c
+      internalID: -1478136871149201310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_133
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3668
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4ae4f3fc263a40be2ec2a60630ba9
+      internalID: -3873009566551188913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_134
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3644
+        width: 340
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264036cf35b06243941778d78a4972b
+      internalID: -4845126525059800376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_135
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 3740
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6399a9bedb9154685e2dd5f9097caa
+      internalID: 5395682987529221101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_136
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 3684
+        width: 248
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c6699a12f61b45a810d68a9030205
+      internalID: 27672454157075192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_137
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 3684
+        width: 236
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33be30c06fdbb64a9ca97ba2f1f96e5
+      internalID: -776635479619567641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_138
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 3684
+        width: 228
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9732d187a77fb874a831da2c959b2c98
+      internalID: -913076108050382620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_139
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 3680
+        width: 332
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16505b439b004e64dac6678ff33b1ea1
+      internalID: 3322132516126766375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_140
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 3684
+        width: 332
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f2801801f0014ba2ab5d9d0f0c99e
+      internalID: -4029461027583428685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_141
+      rect:
+        serializedVersion: 2
+        x: 6760
+        y: 3692
+        width: 328
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080587a8bfbe52469e9b00d1761a2eb
+      internalID: 8119485348083601685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_142
+      rect:
+        serializedVersion: 2
+        x: 7248
+        y: 3688
+        width: 328
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9c83e6c825a74f86fc64f84466622
+      internalID: -8546580320655130197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_143
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 3692
+        width: 328
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae77ba187f991e4c8588581fa6cedc1
+      internalID: -8783691636511478156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3188
+        width: 328
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d7397dffea354dac13e9ebbafcf25
+      internalID: 3563272871597984783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_145
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3172
+        width: 248
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20374e42f690014ea85bbf5657714eb
+      internalID: 1303981745859748304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_146
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3172
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f9f3f9ec492d479f849c51530fc06
+      internalID: -7499843979135640611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_147
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3172
+        width: 228
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff90c5c3737d9646b76d358c35ca4f8
+      internalID: 9095264077206837357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_148
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3156
+        width: 332
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61352d3c16ab137479325c192d5eb0e3
+      internalID: -4213738953226607682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_149
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3156
+        width: 328
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64985dda1bfbbac4ab84cd0de326c0d8
+      internalID: -5234487745080949445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_150
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 3160
+        width: 324
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457e36f72218e0a45a508380c10f9952
+      internalID: 2210494417899854107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_151
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3152
+        width: 300
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2903bd700ad7049abf5761d18d0a01
+      internalID: 5983652356269656517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_152
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3152
+        width: 296
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc74f4bd0f3813940b5e228bc1fde272
+      internalID: 3854520098243855686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_153
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 3152
+        width: 296
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c25ffca7c19a40a8644681790b9b9
+      internalID: 679839968442444883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_154
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 3148
+        width: 300
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a73670cba37a45b2740050578408d
+      internalID: -4126436631422810534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_155
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 3152
+        width: 296
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56109ccbbae907841bacd3adb64ca413
+      internalID: -1925765938597340173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_156
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 3156
+        width: 292
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9da8c324077c43b40e061a882547d
+      internalID: -3540222270076772211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_157
+      rect:
+        serializedVersion: 2
+        x: 6752
+        y: 3176
+        width: 328
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a31f51d730ba143a229ed3869daf8c
+      internalID: -4806304742209873223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_158
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 3180
+        width: 324
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f260ef2fa983c042aeb2ea79fc90828
+      internalID: -642721609659247932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_159
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 3180
+        width: 320
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98ba9e87fe232408745705218a58c0
+      internalID: -7088575397175471971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2688
+        width: 272
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74273d6bd1bc54841b5bb1c65f822a45
+      internalID: -5766042028624028611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_161
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2672
+        width: 248
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aaa5a7e2bef7746a4eee1c75a306f8
+      internalID: 5295379012873224096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_162
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2680
+        width: 292
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b158ea0996dc248b68f20b4409064a
+      internalID: -935376783898549481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_163
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2716
+        width: 292
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d36776a690e62429aa2dbb3b2c03f6
+      internalID: -6833298976849754450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_164
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2672
+        width: 296
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697dd941437f384eb490de023ba7f58
+      internalID: 2067673608433333945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_165
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2660
+        width: 276
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606890eeaf2571444be9b4064c537f49
+      internalID: 8457150995613794931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_166
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2676
+        width: 268
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001501b8587bf3042a0989687d73b3c2
+      internalID: -7511696924105912823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_167
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2664
+        width: 292
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba765e7f4eb9324c83b103604f2d129
+      internalID: -4450606193342719390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_168
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 2680
+        width: 280
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67058d71ee4b646b81795cdc1e4e56
+      internalID: 2976715102412777185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_169
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 2704
+        width: 276
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec6a1b63fbd3340a40e4e4b03b99c4
+      internalID: -4744156111557370087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_170
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 2648
+        width: 248
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e1ebfec2a7ac4cae92379769647b3
+      internalID: -6639268746190479741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_171
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 2664
+        width: 296
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801bbe95bc5dbe4291bfbe999b0d61d
+      internalID: 4362846550578111496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_172
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 2616
+        width: 292
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b312b4233dec43bee0182c04a7702
+      internalID: -6612552892593969554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_173
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 2668
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095a7c34b2ec9348a563f60d832882a
+      internalID: 8559113730320356876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_174
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 2664
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc3b0030ba2a2488669421c75ccd31
+      internalID: 1569383754528638666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_175
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 2664
+        width: 196
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7615240bdcee3f7469cba4ea523a690e
+      internalID: -8241520131437984189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2144
+        width: 292
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc49e0a5ae6435d458f72ef12b4d50ff
+      internalID: 1692485179496025258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_177
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2156
+        width: 316
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4f30a56db38b64a91ba648d05fb5a6
+      internalID: 9140251341297832173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_178
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2124
+        width: 324
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9ec751a233e34a8909d6bca17065d
+      internalID: 5752682499789411985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_179
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2140
+        width: 288
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21786ee425989934dbf8a80fc2c4c9d1
+      internalID: -6309254725924993562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_180
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2156
+        width: 316
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9f1196647b0740aad46b65d162114
+      internalID: -5785873363074124956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_181
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2240
+        width: 328
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0af7ce672228a4daa415cfe531ffb6
+      internalID: 8892039448255493838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_182
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2152
+        width: 316
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272867ef2982ab4dac96a83ebf705b2
+      internalID: 5681867566730966560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_183
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 2156
+        width: 304
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2eaf86ac5dc147a2bce7a2d0647b7
+      internalID: 4636125709545925915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_184
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 2120
+        width: 200
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dda3683454d3f48af7cabede8deae6
+      internalID: 5608821178868902495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_185
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 2164
+        width: 248
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d05cb7537f87a458e2969fb3367d61
+      internalID: -4326681720441737210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_186
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 2164
+        width: 248
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a8bf20d55719b498994f0ecbc46acc
+      internalID: -9133923288708150898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_187
+      rect:
+        serializedVersion: 2
+        x: 5764
+        y: 2164
+        width: 248
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbaf7e100cffe4186556e14710cdcf
+      internalID: 7308423483427561956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_188
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 2164
+        width: 284
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b67c4574485c0c46a5f4c8fd4b3bf55
+      internalID: -3562617218538594210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_189
+      rect:
+        serializedVersion: 2
+        x: 6816
+        y: 2160
+        width: 284
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa917ec077f2444b237101aa15160d
+      internalID: -4004824933059740877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_190
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 2160
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f9a734b90bc74fb02931f8d5f351c
+      internalID: 1500678993188074854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_191
+      rect:
+        serializedVersion: 2
+        x: 7748
+        y: 2160
+        width: 292
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802aa85d35cadf498593bc70600b483
+      internalID: 3232686265275589778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_192
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1648
+        width: 288
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06bd34f693b10c4da0a561ddf7eb702
+      internalID: -7059379485844731377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1648
+        width: 292
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c971a8178efd64ba679489c9f55caf
+      internalID: -5581350681074624328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_194
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1636
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6746659a60474486f0f3f4faceb6a
+      internalID: 7346278479208064121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_195
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1640
+        width: 248
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c0897972a45f4b9a65caecd4935b3
+      internalID: 3410881239930678205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_196
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1636
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ebaa78d0ce144386f5f349e92b8fd
+      internalID: -670683946186765226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_197
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1648
+        width: 320
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5d78ab08782f4e94d432525e52f20
+      internalID: -4585533318913372662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_198
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1648
+        width: 320
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c67653b820c6945855da7c1a14a7b1
+      internalID: -868768974339639385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_199
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1648
+        width: 320
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ff6833849ddd40aac56cbc87f4946
+      internalID: -6206302373555561589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_200
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1632
+        width: 300
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2d4083ba7f574f8988718e4bde955
+      internalID: -8682301688191148810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_201
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 1632
+        width: 300
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ab363c3e1ef0244ad9a424fe701e06
+      internalID: 4484230415818522742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_202
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 1632
+        width: 300
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d200d8e64200640a0685d7ffb03416
+      internalID: -1186576687450931528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_203
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 1644
+        width: 296
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89026c1a62519df4193ae3bbadfcdfce
+      internalID: 8962716690621749365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_204
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 1644
+        width: 296
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debdcb0a97f21604a96188aa1e684a00
+      internalID: 8505569051442117672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_205
+      rect:
+        serializedVersion: 2
+        x: 6740
+        y: 1640
+        width: 296
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875ba8976ada7c4a814d7b5551c3231
+      internalID: 5607665639920215878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_206
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 1640
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879f23f5a2652d4a86336a6ee9ab165
+      internalID: 5098275784776501448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_207
+      rect:
+        serializedVersion: 2
+        x: 7748
+        y: 1640
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd527ae07be047f4ba911337921e65c8
+      internalID: -2565312924747875971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_208
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1128
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1112aa3c8566646b063d1f346a3bc4
+      internalID: -8359655399069769637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1108
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd58384ed93a6d45a9fdb4c0120dccc
+      internalID: -4053792933855251198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_210
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1140
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f04d4b8a7771419d723ef4dbf8fc4
+      internalID: -5440325440873681331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_211
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1188
+        width: 232
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3201aef204f074cb7b743c9f922dec
+      internalID: -3103965535633409967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_212
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1124
+        width: 296
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850dbe5d26ec83499eeeb64602d3b12
+      internalID: -9188047115054302809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_213
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1128
+        width: 316
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0bace91536ac4fa55c9d8be64478b
+      internalID: -5138496146088811329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_214
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1120
+        width: 268
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31893bb70331dfa4eb00c8c7c1fdfd93
+      internalID: -5376545258090685690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_215
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1116
+        width: 292
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f722a68160f0d4648988fcc59b1bd359
+      internalID: 7161781263473673104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_216
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1132
+        width: 320
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfbd47eb10acc4fa2fed3107886aae
+      internalID: 7646895262995251592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_217
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1152
+        width: 268
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad012252ffc8f4e9a4aee0ab49933c
+      internalID: -8781173570162778782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_218
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 1112
+        width: 248
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fdf6092226bd42b317e100818dc88
+      internalID: 5710344748422641008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_219
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 1076
+        width: 256
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82af1ab2b999e194ea6477b27304690e
+      internalID: 4264802916265474748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_220
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 1080
+        width: 240
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7abc298c4cacf044930ccb37241c8aa
+      internalID: 1686917177729981408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_221
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 1136
+        width: 320
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58264f2bd636d8349bb9aded526bb53c
+      internalID: -2431524536514023391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_222
+      rect:
+        serializedVersion: 2
+        x: 7316
+        y: 1140
+        width: 328
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02bf1598c87b2458cbca5e3b2cd132
+      internalID: 3361526339883493412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_223
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 1168
+        width: 292
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d177e234d6dba4d8bdc300ba43f668
+      internalID: -5058517183885604037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_224
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 640
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c562227d7caa445b7202f88e94ef95
+      internalID: -8452066026692975265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 588
+        width: 304
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31ca158bcfeac4cad185404290f9b7
+      internalID: 6369486258911969279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_226
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 588
+        width: 268
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7d34a5bbc49649abbb68ef56f058e
+      internalID: 1100958248929686244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_227
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 604
+        width: 288
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8987b57e9e8c41ad6a5887f7bb018
+      internalID: -6815628306968025547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_228
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 632
+        width: 308
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8c458be308ac43a308bbc0dde7c87
+      internalID: 7878749411598868763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_229
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 680
+        width: 276
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0a9823dabc66f4fa9d288047ba9b47
+      internalID: -5900397057589443190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_230
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 616
+        width: 316
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c111a903f3be46abba707f083aeba
+      internalID: -2236106476612226538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_231
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 608
+        width: 328
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613b4963ee6c8a4cbbc5c17c28820a0
+      internalID: -6467972291726099059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_232
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 604
+        width: 328
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0593a13548cad7e4eb5acd2cea4c0b1e
+      internalID: 3855492172019955977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_233
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 624
+        width: 332
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382a0fcf8cc4db42822ed18d90ee8c2
+      internalID: -5316925233639364553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_234
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 652
+        width: 316
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c38ce51bd786947915a0aebdb44c7a
+      internalID: -956622752771279263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_235
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 648
+        width: 316
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007464e10a423774d83260dfc8868737
+      internalID: 4437103388378000464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_236
+      rect:
+        serializedVersion: 2
+        x: 6236
+        y: 680
+        width: 332
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ab83b17f9a114084cfc36703a5689
+      internalID: -5467206508834014628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_237
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 632
+        width: 288
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2d55abf31f2c4fb86b2bc64d04174
+      internalID: -5282101017232365217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_238
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 688
+        width: 336
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f2546702130449aec65745dbac8ef
+      internalID: 125430785338236875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_239
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 644
+        width: 336
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f082284647b1e4c919a9aae2cc1618
+      internalID: -5235061561569924033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Sothomir_240
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 288
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b1b569f352334aab5dc54abb878ac
+      internalID: -6758783127606523865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

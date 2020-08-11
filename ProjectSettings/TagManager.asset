@@ -66,3 +66,6 @@ TagManager:
   - name: Entrances and Exits
     uniqueID: 4291844731
     locked: 0
+  - name: Foreground
+    uniqueID: 238246957
+    locked: 0
