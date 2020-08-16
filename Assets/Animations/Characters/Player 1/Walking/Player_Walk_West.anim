@@ -102,6 +102,16 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
+=======
+  - time: 0.25
+    functionName: playFootSteps
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+>>>>>>> Stashed changes
   - time: 0.5
     functionName: playFootSteps
     data: 
@@ -109,3 +119,13 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
+=======
+  - time: 0.75
+    functionName: playFootSteps
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+>>>>>>> Stashed changes

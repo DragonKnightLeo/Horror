@@ -30,7 +30,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2170091142167841803}
+<<<<<<< Updated upstream
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> Stashed changes
   m_LocalPosition: {x: -6.54, y: -6.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -73,10 +77,17 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 2120127893
   m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: -5754519224072130074, guid: 8f262efd62d5e64409867348660fabcf,
+=======
+  m_SortingLayerID: -2080804705
+  m_SortingLayer: 8
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -3599385179927813241, guid: 3aa492a7d999e8241a78575d8572264b,
+>>>>>>> Stashed changes
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -124,7 +135,11 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
     oldSize: {x: 1.65, y: 2.96}
+=======
+    oldSize: {x: 1.4, y: 2.73}
+>>>>>>> Stashed changes
     newSize: {x: 1.65, y: 2.96}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -150,7 +165,11 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
     oldSize: {x: 1.65, y: 2.96}
+=======
+    oldSize: {x: 1.4, y: 2.73}
+>>>>>>> Stashed changes
     newSize: {x: 1.65, y: 2.96}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -241,6 +260,10 @@ MonoBehaviour:
   attack: 0
   charImage: {fileID: 0}
   characterCategory: 0
+<<<<<<< Updated upstream
+=======
+  isAttacked: 0
+>>>>>>> Stashed changes
 --- !u!1 &8603668280027892058
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,7 +305,11 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
+<<<<<<< Updated upstream
   m_IsTrigger: 0
+=======
+  m_IsTrigger: 1
+>>>>>>> Stashed changes
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.19553769, y: 0.5432461}

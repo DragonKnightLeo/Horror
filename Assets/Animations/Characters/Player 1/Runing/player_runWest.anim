@@ -22,6 +22,7 @@ AnimationClip:
     - time: 0
       value: {fileID: -3172280493429825578, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
         type: 3}
+<<<<<<< Updated upstream
     - time: 0.125
       value: {fileID: 2305277812621124445, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
         type: 3}
@@ -41,13 +42,38 @@ AnimationClip:
       value: {fileID: -2682785132824368018, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
         type: 3}
     - time: 0.875
+=======
+    - time: 0.0625
+      value: {fileID: 2305277812621124445, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.125
+      value: {fileID: -6717955341457781711, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.1875
+      value: {fileID: 4415404149940210464, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.25
+      value: {fileID: 4766217992492671199, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.3125
+      value: {fileID: 1286031423847291037, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.375
+      value: {fileID: -2682785132824368018, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
+        type: 3}
+    - time: 0.4375
+>>>>>>> Stashed changes
       value: {fileID: -1873963176806561383, guid: 3cfafe7dfbc3ea643ae9d852baae8b60,
         type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
+<<<<<<< Updated upstream
   m_SampleRate: 8
+=======
+  m_SampleRate: 16
+>>>>>>> Stashed changes
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -75,7 +101,11 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
+<<<<<<< Updated upstream
     m_StopTime: 1
+=======
+    m_StopTime: 0.5
+>>>>>>> Stashed changes
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -109,35 +139,55 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
   - time: 0.25
+=======
+  - time: 0.125
+>>>>>>> Stashed changes
     functionName: playFootSteps
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
   - time: 0.25
+=======
+  - time: 0.125
+>>>>>>> Stashed changes
     functionName: playBreathingRun
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
   - time: 0.5
+=======
+  - time: 0.25
+>>>>>>> Stashed changes
     functionName: playFootSteps
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
   - time: 0.5
+=======
+  - time: 0.25
+>>>>>>> Stashed changes
     functionName: playBreathingRun
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< Updated upstream
   - time: 0.75
+=======
+  - time: 0.375
+>>>>>>> Stashed changes
     functionName: playFootSteps
     data: 
     objectReferenceParameter: {fileID: 0}

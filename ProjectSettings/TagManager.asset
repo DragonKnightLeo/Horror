@@ -9,8 +9,21 @@ TagManager:
   - DialogText
   - Enemy
   - TriggerLight
+<<<<<<< Updated upstream
   - CanBePickedUp
   - GlobalLight
+=======
+  - GlobalLight
+  - DialogPanel
+  - ItemButton
+  - GeneratorSwitch
+  - DialogImage
+  - DialogText
+  - MonsterHomePos
+  - Wall
+  - MonsterSpawnPoint
+  - ObjectNotification
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -63,12 +76,25 @@ TagManager:
   - name: Player
     uniqueID: 3823144959
     locked: 0
+  - name: Items
+    uniqueID: 2872826353
+    locked: 0
+  - name: Object Lower Layer
+    uniqueID: 4112347869
+    locked: 0
+  - name: Player
+    uniqueID: 264397063
+    locked: 0
   - name: Objects
     uniqueID: 1086614021
+    locked: 0
+  - name: Interactables
+    uniqueID: 1652965009
     locked: 0
   - name: Characters
     uniqueID: 4229053447
     locked: 0
+<<<<<<< Updated upstream
   - name: Monsters
     uniqueID: 809708897
     locked: 0
@@ -77,7 +103,14 @@ TagManager:
     locked: 0
   - name: LightLimiter
     uniqueID: 670974877
+=======
+  - name: Monster
+    uniqueID: 2214162591
+>>>>>>> Stashed changes
     locked: 0
   - name: ForeGround
     uniqueID: 4089305819
+    locked: 0
+  - name: Light Limiter
+    uniqueID: 27784775
     locked: 0

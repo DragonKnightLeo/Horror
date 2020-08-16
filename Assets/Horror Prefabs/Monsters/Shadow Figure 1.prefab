@@ -16,7 +16,11 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< Updated upstream
   m_IsActive: 1
+=======
+  m_IsActive: 0
+>>>>>>> Stashed changes
 --- !u!4 &2127690474
 Transform:
   m_ObjectHideFlags: 0
@@ -25,7 +29,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2127690473}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: -3.55, y: 0.19, z: 0}
+=======
+  m_LocalPosition: {x: -3.33, y: -4.49, z: 0}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7383173809470972641}
@@ -44,9 +52,15 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< Updated upstream
   m_Offset: {x: 3.8789234, y: -0.01306057}
   serializedVersion: 2
   m_Radius: 3.921811
+=======
+  m_Offset: {x: 3.8789234, y: 4.5384216}
+  serializedVersion: 2
+  m_Radius: 8.473293
+>>>>>>> Stashed changes
 --- !u!1 &7383173809415400208
 GameObject:
   m_ObjectHideFlags: 0
@@ -179,8 +193,13 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: -2080804705
   m_SortingLayer: 7
+=======
+  m_SortingLayerID: 28367043
+  m_SortingLayer: 6
+>>>>>>> Stashed changes
   m_SortingOrder: 0
   m_Sprite: {fileID: 5160610959855167061, guid: 8fcea7be74a797d479542e6297b51235,
     type: 3}
@@ -248,7 +267,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   charName: 
   level: 0
+<<<<<<< Updated upstream
   currentHitPoints: 100
+=======
+  currentHitPoints: 60
+>>>>>>> Stashed changes
   maxHitPoints: 0
   startingHitPoints: 0
   currentManaPoints: 0
@@ -257,7 +280,11 @@ MonoBehaviour:
   maxStamPoints: 0
   currentStamPoints: 0
   startingStamPoints: 0
+<<<<<<< Updated upstream
   attackPower: 5
+=======
+  attackPower: 10
+>>>>>>> Stashed changes
   armorPower: 0
   currentExperience: 0
   expToLvlUp: 0
@@ -285,11 +312,20 @@ MonoBehaviour:
   nextAttackTime: 0
   homePosition: {fileID: 0}
   secondPos: {fileID: 0}
+<<<<<<< Updated upstream
   movementSpeed: 3
   maxRange: 4
   minRange: 1.2
   followInterval: 2
   attackRange: 1.2
+=======
+  movementSpeed: 4.5
+  idleRange: 10
+  maxRange: 6
+  minRange: 1
+  followInterval: 2
+  attackRange: 1
+>>>>>>> Stashed changes
   attackRate: 2
   characterLayers:
     serializedVersion: 2

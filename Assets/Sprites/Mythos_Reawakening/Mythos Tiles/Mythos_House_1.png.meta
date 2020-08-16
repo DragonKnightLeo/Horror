@@ -272,6 +272,12 @@ TextureImporter:
   - first:
       213: -3856552812383026516
     second: Mythos_House_1_89
+<<<<<<< Updated upstream
+=======
+  - first:
+      213: -5665904649375703469
+    second: Mythos_House_1_90
+>>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1977,9 +1983,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 606
-        y: 51
+        y: 103
         width: 41
-        height: 87
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,6 +2251,30 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream
+=======
+    - serializedVersion: 2
+      name: Mythos_House_1_90
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 50
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396cd09d1e222f418b6bf8a05ced6be
+      internalID: -5665904649375703469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> Stashed changes
     outline: []
     physicsShape: []
     bones: []

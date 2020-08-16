@@ -14,10 +14,26 @@ public class Deinstantiate : MonoBehaviour
         {
             for (int i = 0; i < objectToDeinstantiate.Length; i++)
             {
+<<<<<<< Updated upstream
                 objectToDeinstantiate[0].SetActive(false);
                 objectToDeinstantiate[1].SetActive(false);
             }
             gameObject.SetActive(false);
         }
+=======
+                if (objectToDeinstantiate != null)
+                {
+                    objectToDeinstantiate[0].SetActive(false);
+                    objectToDeinstantiate[1].SetActive(false);
+                }
+            }
+            gameObject.SetActive(false);
+        }
+        if(collision.CompareTag("Enemy"))
+        {
+            collision.gameObject.SetActive(false);
+            gameObject.SetActive(false);
+        }
+>>>>>>> Stashed changes
     }
 }

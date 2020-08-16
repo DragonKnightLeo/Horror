@@ -49,7 +49,10 @@ public class Player : Characters
 
     public override IEnumerator DamageCharacter(float damage, float interval)
     {
+<<<<<<< Updated upstream
         print("Player is Hit");
+=======
+>>>>>>> Stashed changes
         while (true)
         {
             currentHitPoints = Mathf.Round(currentHitPoints - damage);
@@ -165,11 +168,19 @@ public class Player : Characters
 
     public void DamageTaken(float damageAmount)
     {
+<<<<<<< Updated upstream
         //damageAmount = damageAmount / 2;
 
         currentHitPoints -= damageAmount;
         SoundManager.instance.takingDamageSound();
         SoundManager.instance.monster1AttackSound();
+=======
+        print("Player is Hit");
+        currentHitPoints -= damageAmount;
+        PlayerMovement.playerMovementInstance.isHitAnimation(true);
+        SoundManager.instance.takingDamageSound();
+       // SoundManager.instance.monster1AttackSound();
+>>>>>>> Stashed changes
         if (currentHitPoints <= 0)
         {
             KillCharacter();

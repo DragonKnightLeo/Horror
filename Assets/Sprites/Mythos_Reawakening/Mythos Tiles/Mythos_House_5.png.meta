@@ -152,6 +152,18 @@ TextureImporter:
   - first:
       213: 9004635373306421692
     second: Mythos_House_5_49
+<<<<<<< Updated upstream
+=======
+  - first:
+      213: 560116415831580172
+    second: Mythos_House_5_50
+  - first:
+      213: -3924546652028165560
+    second: Mythos_House_5_51
+  - first:
+      213: -8462926873388207964
+    second: Mythos_House_5_52
+>>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -387,9 +399,15 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 608
+<<<<<<< Updated upstream
         y: 480
         width: 140
         height: 288
+=======
+        y: 575
+        width: 140
+        height: 49
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,6 +737,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Mythos_House_5_23
       rect:
         serializedVersion: 2
@@ -740,6 +759,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: Mythos_House_5_24
       rect:
         serializedVersion: 2
@@ -1285,6 +1306,93 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream
+=======
+    - serializedVersion: 2
+      name: Mythos_House_5_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 354
+        width: 134
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9a30169709ec4aa050846dea5ade2
+      internalID: 560116415831580172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_5_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 422
+        width: 134
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1af40f3ccc08408e4e08bccc7c8d1
+      internalID: -177857247493903041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_5_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 624
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333fe72b8fd406045b5aff8aa48a9eff
+      internalID: -3924546652028165560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_5_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 479
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40560bcc1e4e94880da528747c36ed
+      internalID: -8462926873388207964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> Stashed changes
     outline: []
     physicsShape: []
     bones: []

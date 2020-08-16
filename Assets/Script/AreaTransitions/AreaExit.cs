@@ -22,8 +22,16 @@ public class AreaExit : MonoBehaviour
     {
         theEntrance.transitionName = areaTransitionName;
         soundManager = GameObject.Find("SoundManager").GetComponent<SoundManager>();
+<<<<<<< Updated upstream
         soundManager.playMusic(musicToPlay);
         //soundManager.playMusic();
+=======
+        if (musicToPlay >= 0)
+        {
+            soundManager.playMusic(musicToPlay);
+        }
+            //soundManager.playMusic();
+>>>>>>> Stashed changes
     }
 
     // Update is called once per frame
