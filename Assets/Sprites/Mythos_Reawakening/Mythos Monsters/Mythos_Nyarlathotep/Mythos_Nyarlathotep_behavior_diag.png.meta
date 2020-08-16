@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: a624314f4c4fe524b8fef5d569497448
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9158591707897535225
+    second: Mythos_Nyarlathotep_behavior_diag_0
+  - first:
+      213: 3543541332071548715
+    second: Mythos_Nyarlathotep_behavior_diag_1
+  - first:
+      213: -1660415094234010863
+    second: Mythos_Nyarlathotep_behavior_diag_2
+  - first:
+      213: -7021106690650066719
+    second: Mythos_Nyarlathotep_behavior_diag_3
+  - first:
+      213: 8233115224661101491
+    second: Mythos_Nyarlathotep_behavior_diag_4
+  - first:
+      213: -3585881819746061836
+    second: Mythos_Nyarlathotep_behavior_diag_5
+  - first:
+      213: 8253769144892269087
+    second: Mythos_Nyarlathotep_behavior_diag_6
+  - first:
+      213: -6567506293925070610
+    second: Mythos_Nyarlathotep_behavior_diag_7
+  - first:
+      213: 4759788975745091236
+    second: Mythos_Nyarlathotep_behavior_diag_8
+  - first:
+      213: 7828468504779122070
+    second: Mythos_Nyarlathotep_behavior_diag_9
+  - first:
+      213: -5192577359863763120
+    second: Mythos_Nyarlathotep_behavior_diag_10
+  - first:
+      213: 8184891886909976107
+    second: Mythos_Nyarlathotep_behavior_diag_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 110
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1661
+        width: 223
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c909a0ddebb84488934552349faf83
+      internalID: 9158591707897535225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1660
+        width: 223
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1684cc9255ca04e88a79c0bb958507
+      internalID: 3543541332071548715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_2
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1660
+        width: 222
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d78619719e31f49ad89e08b2498a1b
+      internalID: -1660415094234010863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1155
+        width: 220
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b2650a93d74f4eb991b02abe5e961
+      internalID: -7021106690650066719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1155
+        width: 219
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032b32b533a3b04198155fe0fded681
+      internalID: 8233115224661101491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_5
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1154
+        width: 219
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a8a668b596bf46bbbf975deec88da
+      internalID: -3585881819746061836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 638
+        width: 218
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e302e5c1fc05c4cb2d2b7256058159
+      internalID: 8253769144892269087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 638
+        width: 218
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1822e106cd1194cbbcfe07e824956b
+      internalID: -6567506293925070610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_8
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 638
+        width: 217
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b13496e89b377b47a18d8259b486597
+      internalID: 4759788975745091236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 133
+        width: 221
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8f54337807da74196cca1b07ac5b55
+      internalID: 7828468504779122070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 133
+        width: 221
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131ce279fddb9045bd4501668ec8b3b
+      internalID: -5192577359863763120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Nyarlathotep_behavior_diag_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 133
+        width: 220
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595ce36f35969f4cb73f2d4184d74be
+      internalID: 8184891886909976107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -4,10 +4,26 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - CanBePickedUp
+  - DialogPanel
+  - DialogImage
+  - DialogText
   - Enemy
-  - VirtualCamera
   - TriggerLight
+<<<<<<< Updated upstream
+  - CanBePickedUp
+  - GlobalLight
+=======
+  - GlobalLight
+  - DialogPanel
+  - ItemButton
+  - GeneratorSwitch
+  - DialogImage
+  - DialogText
+  - MonsterHomePos
+  - Wall
+  - MonsterSpawnPoint
+  - ObjectNotification
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -17,9 +33,9 @@ TagManager:
   - UI
   - 
   - 
-  - Enemy
-  - Characters
-  - Structures
+  - Foreground
+  - 
+  - 
   - 
   - 
   - 
@@ -46,23 +62,55 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Ground
-    uniqueID: 3280160441
+    uniqueID: 2090725815
     locked: 0
   - name: OuterWall
-    uniqueID: 3119742057
+    uniqueID: 943624503
     locked: 0
   - name: InnerWall
-    uniqueID: 3184727553
+    uniqueID: 2829227393
     locked: 0
-  - name: Objects
-    uniqueID: 28367043
-    locked: 0
-  - name: Characters
-    uniqueID: 2120127893
+  - name: ObjectLowerLayer
+    uniqueID: 3986675559
     locked: 0
   - name: Player
+    uniqueID: 3823144959
+    locked: 0
+  - name: Items
+    uniqueID: 2872826353
+    locked: 0
+  - name: Object Lower Layer
     uniqueID: 4112347869
     locked: 0
-  - name: Entrances and Exits
-    uniqueID: 4291844731
+  - name: Player
+    uniqueID: 264397063
+    locked: 0
+  - name: Objects
+    uniqueID: 1086614021
+    locked: 0
+  - name: Interactables
+    uniqueID: 1652965009
+    locked: 0
+  - name: Characters
+    uniqueID: 4229053447
+    locked: 0
+<<<<<<< Updated upstream
+  - name: Monsters
+    uniqueID: 809708897
+    locked: 0
+  - name: Entrances&Exits
+    uniqueID: 3545911301
+    locked: 0
+  - name: LightLimiter
+    uniqueID: 670974877
+=======
+  - name: Monster
+    uniqueID: 2214162591
+>>>>>>> Stashed changes
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4089305819
+    locked: 0
+  - name: Light Limiter
+    uniqueID: 27784775
     locked: 0

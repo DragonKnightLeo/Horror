@@ -1,7 +1,232 @@
 fileFormatVersion: 2
 guid: ca4c02d5072f3854ba3dbc818c9ff899
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7107795965327592127
+    second: Mythos_House_4_0
+  - first:
+      213: -2013403941827061635
+    second: Mythos_House_4_1
+  - first:
+      213: 2645045334073223634
+    second: Mythos_House_4_2
+  - first:
+      213: 1502045646970231578
+    second: Mythos_House_4_3
+  - first:
+      213: -5349637522529529724
+    second: Mythos_House_4_4
+  - first:
+      213: -8884892762728471605
+    second: Mythos_House_4_5
+  - first:
+      213: -6932402504971407927
+    second: Mythos_House_4_6
+  - first:
+      213: -1827777266141521600
+    second: Mythos_House_4_7
+  - first:
+      213: -3414444488475795378
+    second: Mythos_House_4_8
+  - first:
+      213: -6189565116584856602
+    second: Mythos_House_4_9
+  - first:
+      213: 8952029676877812202
+    second: Mythos_House_4_10
+  - first:
+      213: -6161876493190909882
+    second: Mythos_House_4_11
+  - first:
+      213: 8756066907464022533
+    second: Mythos_House_4_12
+  - first:
+      213: -3662160753664968402
+    second: Mythos_House_4_13
+  - first:
+      213: 5886040761504223720
+    second: Mythos_House_4_14
+  - first:
+      213: 6487359740319375984
+    second: Mythos_House_4_15
+  - first:
+      213: 8480760531094377859
+    second: Mythos_House_4_16
+  - first:
+      213: -8504832155281355454
+    second: Mythos_House_4_17
+  - first:
+      213: -5694749088993108733
+    second: Mythos_House_4_18
+  - first:
+      213: 1809996576287011190
+    second: Mythos_House_4_19
+  - first:
+      213: -8962515126164046257
+    second: Mythos_House_4_20
+  - first:
+      213: 5290064595372751941
+    second: Mythos_House_4_21
+  - first:
+      213: -6214681788209313963
+    second: Mythos_House_4_22
+  - first:
+      213: 8913443445289637130
+    second: Mythos_House_4_23
+  - first:
+      213: 2277120555507002884
+    second: Mythos_House_4_24
+  - first:
+      213: -945180903490008919
+    second: Mythos_House_4_25
+  - first:
+      213: -6381114689142203762
+    second: Mythos_House_4_26
+  - first:
+      213: -9157061019274095683
+    second: Mythos_House_4_27
+  - first:
+      213: -3909393698447453007
+    second: Mythos_House_4_28
+  - first:
+      213: -6662655473303696090
+    second: Mythos_House_4_29
+  - first:
+      213: -3531509577231167571
+    second: Mythos_House_4_30
+  - first:
+      213: 1970078969914323818
+    second: Mythos_House_4_31
+  - first:
+      213: 1893428058408056291
+    second: Mythos_House_4_32
+  - first:
+      213: -8525382544229339171
+    second: Mythos_House_4_33
+  - first:
+      213: -6694757172731707308
+    second: Mythos_House_4_34
+  - first:
+      213: -6050507724210331125
+    second: Mythos_House_4_35
+  - first:
+      213: 205795401633035007
+    second: Mythos_House_4_36
+  - first:
+      213: 1315498943280553384
+    second: Mythos_House_4_37
+  - first:
+      213: 6284143350110396220
+    second: Mythos_House_4_38
+  - first:
+      213: -2804667827143510034
+    second: Mythos_House_4_39
+  - first:
+      213: 1591360836620533548
+    second: Mythos_House_4_40
+  - first:
+      213: 4566965906460264236
+    second: Mythos_House_4_41
+  - first:
+      213: -2920674703561937445
+    second: Mythos_House_4_42
+  - first:
+      213: 3198773956967511945
+    second: Mythos_House_4_43
+  - first:
+      213: -5277540790497300050
+    second: Mythos_House_4_44
+  - first:
+      213: 6173697739548556225
+    second: Mythos_House_4_45
+  - first:
+      213: 2304577245095014369
+    second: Mythos_House_4_46
+  - first:
+      213: 7573049532798772308
+    second: Mythos_House_4_47
+  - first:
+      213: 954801768343631358
+    second: Mythos_House_4_48
+  - first:
+      213: 218050932026417144
+    second: Mythos_House_4_49
+  - first:
+      213: 6355548595381293546
+    second: Mythos_House_4_50
+  - first:
+      213: -6025845776107242001
+    second: Mythos_House_4_51
+  - first:
+      213: -8207904158145837823
+    second: Mythos_House_4_52
+  - first:
+      213: 8362623268479166732
+    second: Mythos_House_4_53
+  - first:
+      213: -8329875527021621478
+    second: Mythos_House_4_54
+  - first:
+      213: -4912161428672336331
+    second: Mythos_House_4_55
+  - first:
+      213: 177472591559076272
+    second: Mythos_House_4_56
+  - first:
+      213: -2019781683714459921
+    second: Mythos_House_4_57
+  - first:
+      213: 568653183978160161
+    second: Mythos_House_4_58
+  - first:
+      213: -7779041039107806071
+    second: Mythos_House_4_59
+  - first:
+      213: 3323646734131700228
+    second: Mythos_House_4_60
+  - first:
+      213: -5415253914624614285
+    second: Mythos_House_4_61
+  - first:
+      213: 4503879882618375660
+    second: Mythos_House_4_62
+  - first:
+      213: -179167575362022455
+    second: Mythos_House_4_63
+  - first:
+      213: -5520299111424853149
+    second: Mythos_House_4_64
+  - first:
+      213: -8317268047891874781
+    second: Mythos_House_4_65
+  - first:
+      213: -5355201069104523531
+    second: Mythos_House_4_66
+  - first:
+      213: 1082645575531733768
+    second: Mythos_House_4_67
+  - first:
+      213: -4989209596229122540
+    second: Mythos_House_4_68
+  - first:
+      213: -6584355480640983721
+    second: Mythos_House_4_69
+  - first:
+      213: -7424668954408434536
+    second: Mythos_House_4_70
+  - first:
+      213: 1326743500498558992
+    second: Mythos_House_4_71
+  - first:
+      213: -5440166984837275244
+    second: Mythos_House_4_72
+  - first:
+      213: -3483601163148690315
+    second: Mythos_House_4_73
+  - first:
+      213: 4769186669466043845
+    second: Mythos_House_4_74
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +256,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +265,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +288,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +309,1582 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_House_4_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 634
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b801fe99c432a946b1f15f0167ca551
+      internalID: 7107795965327592127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 678
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4e27064824e340b3df9416dadf1b2
+      internalID: -2013403941827061635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 673
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1860b72448eb67b40b35cbf33670e82d
+      internalID: 2645045334073223634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 676
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68595eeb017a1547a087040af8e6ca8
+      internalID: 1502045646970231578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 675
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2bce69bc0aa284f833801c2dacc3a4
+      internalID: -5349637522529529724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 678
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da551af67d7704d8d33e5ef5d525eb
+      internalID: -8884892762728471605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 675
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06767816951124293aafb93a4066c7
+      internalID: -6932402504971407927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 676
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d27419daeab346b33fc51fc6ecfb6
+      internalID: -1827777266141521600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 587
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0adbb1ceb831459824fc7ad1b1044
+      internalID: -3414444488475795378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 586
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366f6849c306bd429c4de39aeaafdf1
+      internalID: -6189565116584856602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 540
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385ab7b347352f479e3bcd368b393e0
+      internalID: 8952029676877812202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 541
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec173b636faed0c4580ed3bada5c798c
+      internalID: -6161876493190909882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 576
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924a095053c7cd4a80d31fb63107868
+      internalID: 8756066907464022533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 576
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0956df75b90a4bb8db00510f1b42d
+      internalID: -3662160753664968402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 580
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b0ce17823d5946b6444ea3410ba0b
+      internalID: 5886040761504223720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 581
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6721650cd246648aada02d228a842d
+      internalID: 6487359740319375984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 539
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ac621a8596e2478826d5d281b0d71
+      internalID: 8480760531094377859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 525
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1dc3727b86c146b89c46b63072520
+      internalID: -8504832155281355454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 496
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964300dd7fd2724cb898fd72d010016
+      internalID: -5694749088993108733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 500
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15d1f21a7dacf4e86f1874bce9c1b7
+      internalID: 1809996576287011190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 498
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d77a8310bfbe4cb0f18c9ea96d27a
+      internalID: -8962515126164046257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 498
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ada19b116e8ee478cb34d1c626ca83
+      internalID: 5290064595372751941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 490
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ee0480d74d504b803cf5e5ef81843
+      internalID: -6214681788209313963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 490
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5266bc1b4a32ac145ada26347de631a4
+      internalID: 8913443445289637130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 446
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3780fb04cd0549b1f360f4882dc96
+      internalID: 2277120555507002884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 448
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559e4dfb7f6b6848a0af908c4379609
+      internalID: -945180903490008919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 444
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ab87aeb09434047a6561d19ecfb6f4
+      internalID: -6381114689142203762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 446
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448fa19c58da304f82c8a92def28a5e
+      internalID: -9157061019274095683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 439
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9628d22fc97674db371b51a7b642df
+      internalID: -3909393698447453007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 438
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c9f05e3788c34db4fb09edbcb6484
+      internalID: -6662655473303696090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 439
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d759caf6164243a52a2559cf409f1
+      internalID: -3531509577231167571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 439
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc6b6cad405c264f8c9cbad6bafd88a
+      internalID: 1970078969914323818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_32
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 487
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5cb346726600e4d93f2a78fcc92d0b
+      internalID: 1893428058408056291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 485
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922ab4c9fa6f154aa2359689374f141
+      internalID: -8525382544229339171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 402
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb1c25d148637d4aa1b8e8634615f96
+      internalID: -6694757172731707308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 380
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbc25189ec0fd4288841c7c7971fba
+      internalID: -6050507724210331125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 378
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335f494e1ae4794884982bc0fbfeb87
+      internalID: 205795401633035007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 385
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b52501c66e7cee4f9bdfeed102e0295
+      internalID: 1315498943280553384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85163b0676324e24fa82e981e005b482
+      internalID: 6284143350110396220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 390
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46f51040ef40a42a477afbbafae1f8
+      internalID: -2804667827143510034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 391
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100e64369ec91e42ba2856f13a014cd
+      internalID: 1591360836620533548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 394
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a19cca14c75f4ab80d3230d65cfff
+      internalID: 4566965906460264236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 394
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf374d8c266f14cb5646695cfa5840
+      internalID: -2920674703561937445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 403
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fbd855d21cc34099948acd8a7b91c
+      internalID: 3198773956967511945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 390
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425928bab7c822443a1b6e089393dc48
+      internalID: -5277540790497300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 390
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d32500088db504ab27bd3c0deab26b
+      internalID: 6173697739548556225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 371
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975cec33d7248a459c4b1eae6f9d965
+      internalID: 2304577245095014369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b469cbcef008f41bcf7432aad6d613
+      internalID: 7573049532798772308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 355
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e30bacdbf45c46a60b9a14a7e0119
+      internalID: 954801768343631358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 354
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d16665d3329f46acab5a5c66807cf
+      internalID: 218050932026417144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 346
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8186ab05c6d249902388c3c188bad
+      internalID: 6355548595381293546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_51
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 339
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e56f68c098f4e43b7a55454fa0330d
+      internalID: -6025845776107242001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 348
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697beed42531b6145ad978fb2d55b5a9
+      internalID: -8207904158145837823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 352
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbeaa7fbbf0f434ea56f6e3885d98a7
+      internalID: 8362623268479166732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_54
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 51
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e19191962e4d4bac38d943024abef
+      internalID: -8329875527021621478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 102
+        width: 49
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e333b0aab068a409391654cfea9686
+      internalID: -4912161428672336331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_56
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 102
+        width: 76
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cfcfec14efea346a2c60551788584a
+      internalID: 177472591559076272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 298
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b711ae47da5d4d99c6bee80049c25
+      internalID: -2019781683714459921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 294
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36d11a96f9d1d43b0aa8220ec90846
+      internalID: 568653183978160161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 298
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59da99898f63ed40bbedc1e0b3f54fb
+      internalID: -7779041039107806071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 298
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb546b201c3874ea360a09f8544a4f
+      internalID: 3323646734131700228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 296
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d89da2a587fdf47811ed1d94b2d979
+      internalID: -5415253914624614285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 297
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dace9c9d56c884c9b0283fdd192862
+      internalID: 4503879882618375660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 294
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e708c7b481d74791c26e580af359f
+      internalID: -179167575362022455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_64
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 293
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394449c8b34c4e4188ac0661cc426cd
+      internalID: -5520299111424853149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 293
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce0482d2b577f479b6d7ce4b715b45
+      internalID: -8317268047891874781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_66
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 298
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc087721ee18154d8c415d4b1def308
+      internalID: -5355201069104523531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 195
+        width: 161
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e425583e3afc0c49bcf1a6bbb1daa36
+      internalID: 1082645575531733768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 245
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f4bed71a6f1e49b3c89dce3b7f837
+      internalID: -4989209596229122540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 241
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028f6c6c0638b847bfe5dd1c0fc3f9f
+      internalID: -6584355480640983721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12960d9f5162bc4c9892f35431a5cdf
+      internalID: -7424668954408434536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded8364c124cb84992700c2b64696c3
+      internalID: 1326743500498558992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_72
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6650f4dd2abb42805bbe7b8bed33d
+      internalID: -5440166984837275244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350810bc883857448bc8ac89c6a078b2
+      internalID: -3483601163148690315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_House_4_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 22
+        width: 109
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b2637a37fa174d847b75279067a95
+      internalID: 4769186669466043845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 1006e5bd48fb2cd47a606aab2ad4e831
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4299654159738295935
+    second: Mythos_Character_24_crithealth_diag_0
+  - first:
+      213: 7007124004483262226
+    second: Mythos_Character_24_crithealth_diag_1
+  - first:
+      213: -1602102656775939762
+    second: Mythos_Character_24_crithealth_diag_2
+  - first:
+      213: 6222213746677695812
+    second: Mythos_Character_24_crithealth_diag_3
+  - first:
+      213: 4953610344997595778
+    second: Mythos_Character_24_crithealth_diag_4
+  - first:
+      213: -5901918408123455780
+    second: Mythos_Character_24_crithealth_diag_5
+  - first:
+      213: -4211840304995751219
+    second: Mythos_Character_24_crithealth_diag_6
+  - first:
+      213: 1320710263146554821
+    second: Mythos_Character_24_crithealth_diag_7
+  - first:
+      213: -5371379943374561796
+    second: Mythos_Character_24_crithealth_diag_8
+  - first:
+      213: 5354094732797136975
+    second: Mythos_Character_24_crithealth_diag_9
+  - first:
+      213: 9026552897510181749
+    second: Mythos_Character_24_crithealth_diag_10
+  - first:
+      213: -6306069665744234869
+    second: Mythos_Character_24_crithealth_diag_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +120,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 399
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e511c5cc38c57146aaee9177fe329f2
+      internalID: -4299654159738295935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 399
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65b73c12bead241a596042aa078387
+      internalID: 7007124004483262226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 399
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e44163159f784b9aaed6954197cd9
+      internalID: -1602102656775939762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436de065478140a4c949defc714d3207
+      internalID: 6222213746677695812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 268
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4f1532daa9674285718dac7c13e8b
+      internalID: 4953610344997595778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ed91f286d4df408da504458a34c21
+      internalID: -5901918408123455780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 150
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08486c35eb08f443a024aa31587e5e9
+      internalID: -4211840304995751219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 150
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851dbac1382e07145a74349e413daaa4
+      internalID: 1320710263146554821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01257ff44d8fc04a8dde6f451a6221c
+      internalID: -5371379943374561796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7fa53450279940b8f4347226e363b
+      internalID: 5354094732797136975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1d372cdb122a4da2bd576db08241f
+      internalID: 9026552897510181749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_24_crithealth_diag_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e74022140e9b74db667bcdbdb18643
+      internalID: -6306069665744234869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

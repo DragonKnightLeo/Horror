@@ -10,23 +10,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Title Screen.unity
     guid: 5b0e978bd292bbe4d9f9d61e31f65d1f
   - enabled: 1
-    path: Assets/Scenes/Intro Cutscene.unity
-    guid: 1fc4e1cbb0f38c549b18d24dda1f4e34
+    path: Assets/Scenes/Video Cutscene.unity
+    guid: 3868297eaa88d3a4c91eea063b4ec1f8
   - enabled: 1
-    path: Assets/Scenes/Level One.unity
+    path: Assets/Scenes/Main Level.unity
     guid: 1dcf9ba86640ab4439bdc595768b6f92
+  - enabled: 1
+    path: Assets/Scenes/Forest Level.unity
+    guid: c6a94c008fcedc94e8783d9773d3e7dc
 =======
   - enabled: 0
-    path: Assets/Prototype/Prototype Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: Assets/Prototype/Prototype Scenes/Shop.unity
-    guid: ed8711a3ba273ee489b24b8d924c659c
-  - enabled: 0
-    path: Assets/Prototype/Prototype Scenes/Player House.unity
-    guid: 8a1cc9edf2cb03e488e544adee99f471
-  - enabled: 1
     path: Assets/Scenes/Horror Prototype.unity
     guid: c3922144635e5894fa36cd9cc21a3b23
+  - enabled: 1
+    path: Assets/Scenes/Manor.unity
+    guid: 322be1e83afbfa94da62718050ab70a0
+  - enabled: 0
+    path: Assets/Scenes/Basement.unity
+    guid: 47cb1605beffe4f43ade658a7be4a17a
+  - enabled: 0
+    path: Assets/Scenes/Level One.unity
+    guid: 1dcf9ba86640ab4439bdc595768b6f92
 >>>>>>> Stashed changes
   m_configObjects: {}

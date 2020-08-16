@@ -1,7 +1,214 @@
 fileFormatVersion: 2
 guid: aef3d179162ac7b49bfbe479a42054c3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5228087462429313076
+    second: Mythos_Industrial_1_0
+  - first:
+      213: 2556153301677758127
+    second: Mythos_Industrial_1_1
+  - first:
+      213: 4039038772868490673
+    second: Mythos_Industrial_1_2
+  - first:
+      213: -6725891430648375076
+    second: Mythos_Industrial_1_3
+  - first:
+      213: 5660921175988374321
+    second: Mythos_Industrial_1_4
+  - first:
+      213: -5341216705224421071
+    second: Mythos_Industrial_1_5
+  - first:
+      213: -4412221917244302706
+    second: Mythos_Industrial_1_6
+  - first:
+      213: -7940685422539544707
+    second: Mythos_Industrial_1_7
+  - first:
+      213: 2328736288817090071
+    second: Mythos_Industrial_1_8
+  - first:
+      213: -3985871945689380374
+    second: Mythos_Industrial_1_9
+  - first:
+      213: 4390445348472384664
+    second: Mythos_Industrial_1_10
+  - first:
+      213: 3228814515351932211
+    second: Mythos_Industrial_1_11
+  - first:
+      213: 5718416613912470114
+    second: Mythos_Industrial_1_12
+  - first:
+      213: 4768668045595916032
+    second: Mythos_Industrial_1_13
+  - first:
+      213: 4283013526207988712
+    second: Mythos_Industrial_1_14
+  - first:
+      213: 7133271604521421080
+    second: Mythos_Industrial_1_15
+  - first:
+      213: 2946476635960138075
+    second: Mythos_Industrial_1_16
+  - first:
+      213: -247387709432726732
+    second: Mythos_Industrial_1_17
+  - first:
+      213: 8973379621622164770
+    second: Mythos_Industrial_1_18
+  - first:
+      213: -4959101872536847982
+    second: Mythos_Industrial_1_19
+  - first:
+      213: -7281593032027118490
+    second: Mythos_Industrial_1_20
+  - first:
+      213: 7589298126214628294
+    second: Mythos_Industrial_1_21
+  - first:
+      213: 875130625113478723
+    second: Mythos_Industrial_1_22
+  - first:
+      213: 2210631631242346726
+    second: Mythos_Industrial_1_23
+  - first:
+      213: 9019679793834251158
+    second: Mythos_Industrial_1_24
+  - first:
+      213: 4446514208113389567
+    second: Mythos_Industrial_1_25
+  - first:
+      213: -7960015824530139049
+    second: Mythos_Industrial_1_26
+  - first:
+      213: -175028752018850223
+    second: Mythos_Industrial_1_27
+  - first:
+      213: -4551291379989630578
+    second: Mythos_Industrial_1_28
+  - first:
+      213: -344998220221172720
+    second: Mythos_Industrial_1_29
+  - first:
+      213: -8064686050910496095
+    second: Mythos_Industrial_1_30
+  - first:
+      213: 1313191925934548622
+    second: Mythos_Industrial_1_31
+  - first:
+      213: -173898331237652164
+    second: Mythos_Industrial_1_32
+  - first:
+      213: -1047549276149954032
+    second: Mythos_Industrial_1_33
+  - first:
+      213: -7650701950964063518
+    second: Mythos_Industrial_1_34
+  - first:
+      213: -3155647027582361164
+    second: Mythos_Industrial_1_35
+  - first:
+      213: 3034544373287609246
+    second: Mythos_Industrial_1_36
+  - first:
+      213: -1852903561111077773
+    second: Mythos_Industrial_1_37
+  - first:
+      213: 6703463528266830563
+    second: Mythos_Industrial_1_38
+  - first:
+      213: 1137361951725046210
+    second: Mythos_Industrial_1_39
+  - first:
+      213: 8151665105271576832
+    second: Mythos_Industrial_1_40
+  - first:
+      213: 6840981908503857822
+    second: Mythos_Industrial_1_41
+  - first:
+      213: 2358629972144795455
+    second: Mythos_Industrial_1_42
+  - first:
+      213: 7431509620640694957
+    second: Mythos_Industrial_1_43
+  - first:
+      213: 4153727163743589706
+    second: Mythos_Industrial_1_44
+  - first:
+      213: 1332809223145556774
+    second: Mythos_Industrial_1_45
+  - first:
+      213: 2442044572339869141
+    second: Mythos_Industrial_1_46
+  - first:
+      213: -5975343055035059612
+    second: Mythos_Industrial_1_47
+  - first:
+      213: 4840319065892258754
+    second: Mythos_Industrial_1_48
+  - first:
+      213: -6023128684967507448
+    second: Mythos_Industrial_1_49
+  - first:
+      213: -3316797363215960569
+    second: Mythos_Industrial_1_50
+  - first:
+      213: -8548015080361235328
+    second: Mythos_Industrial_1_51
+  - first:
+      213: 2336770563755302070
+    second: Mythos_Industrial_1_52
+  - first:
+      213: -2044940326609059691
+    second: Mythos_Industrial_1_53
+  - first:
+      213: -5356461290266769063
+    second: Mythos_Industrial_1_54
+  - first:
+      213: -3652782743858640530
+    second: Mythos_Industrial_1_55
+  - first:
+      213: -6273829101778184837
+    second: Mythos_Industrial_1_56
+  - first:
+      213: -7894003042193567335
+    second: Mythos_Industrial_1_57
+  - first:
+      213: 8754561930410785538
+    second: Mythos_Industrial_1_58
+  - first:
+      213: -7761839526703907389
+    second: Mythos_Industrial_1_59
+  - first:
+      213: 3169829887947094021
+    second: Mythos_Industrial_1_60
+  - first:
+      213: 4471291753196092667
+    second: Mythos_Industrial_1_61
+  - first:
+      213: 1455333438553765048
+    second: Mythos_Industrial_1_62
+  - first:
+      213: -8652529140310211952
+    second: Mythos_Industrial_1_63
+  - first:
+      213: -1795487862194573519
+    second: Mythos_Industrial_1_64
+  - first:
+      213: 8234952564522491477
+    second: Mythos_Industrial_1_65
+  - first:
+      213: 1223367857212275621
+    second: Mythos_Industrial_1_66
+  - first:
+      213: 802325266755149201
+    second: Mythos_Industrial_1_67
+  - first:
+      213: -1055654675596179676
+    second: Mythos_Industrial_1_68
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +238,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +247,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +270,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +291,1456 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 671
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b211f43a41def7f4e8d276c26d5d10c9
+      internalID: 5228087462429313076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 42
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cefa238834b0e46ada1410b5267907
+      internalID: 2556153301677758127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 631
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009fba612e96ff849bc78892b39ec7a1
+      internalID: 4039038772868490673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 629
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bad13dedb3f994c86b53810f921100
+      internalID: -6725891430648375076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 683
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d7b004b667364c905a099280e57cc
+      internalID: 5660921175988374321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 635
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c3b7da6c231b46aa33fbf60011fa2
+      internalID: -5341216705224421071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 584
+        width: 56
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b924ab05259f34888ecd7f897a8d8b
+      internalID: -4412221917244302706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 728
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0663ab6da35ab934bb71e1e2c966ef04
+      internalID: -7940685422539544707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 730
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef1b44e6ba5434abaabdb9a10d9e76
+      internalID: 2328736288817090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 722
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd2ed2975e2c64a9e8dacb582506d2
+      internalID: -3985871945689380374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 677
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa7162cc4366d845a122857637e53f1
+      internalID: 4390445348472384664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 674
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4ea25bd6c3d7468b0e3725bee60b6
+      internalID: 3228814515351932211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 675
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f6a874d2f2894b911db35bb01270c
+      internalID: 5718416613912470114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d14be483249a4c9d9292b48660ee5
+      internalID: 4768668045595916032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 585
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4496bf5915b07c48923a14b4a247ee5
+      internalID: 4283013526207988712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 634
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc04ccc1a91f9ef49ac93505fe8522e2
+      internalID: 7133271604521421080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 631
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b74ca34a2be614a90b83b5341e0ac9
+      internalID: 2946476635960138075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 625
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01020277a82764abca4beb7622ed68
+      internalID: -247387709432726732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 552
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f25074d7885247b87f31654f5388b
+      internalID: 8973379621622164770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 544
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891c6510ebf6d54598fe43202d0d8de
+      internalID: -4959101872536847982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 540
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b6479e4086de4c902c411382ae248
+      internalID: -7281593032027118490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 549
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ffbbcaacbf9c43832a26beeb06006
+      internalID: 7589298126214628294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 583
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11171c849f54049accf5ec77343751
+      internalID: 875130625113478723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 583
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64745e06d08d54a8ff1264575f5552
+      internalID: 2210631631242346726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 342
+        width: 47
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da7ebd7bdb09f4c9b2a10cdb01f287
+      internalID: 9019679793834251158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 340
+        width: 44
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c943868e55bdbf46bc1bf33da141278
+      internalID: 4446514208113389567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 545
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5fb87ab542cc4a905180ce0eeb6a4
+      internalID: -7960015824530139049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 542
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49175a3d8a422554392156fcaeb9fc75
+      internalID: -175028752018850223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 395
+        width: 95
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4d3bd3073ef9438d69edf695502a9
+      internalID: -4551291379989630578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a99ec2845207a4596ce1709cd42fdb
+      internalID: -344998220221172720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 441
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83919e9a92394844e8d37e3cf41bca16
+      internalID: -8064686050910496095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 442
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d828b956ce5b04d92d98ba55ab4fa6
+      internalID: 1313191925934548622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacdcf87a4ffe6e45b4f028b4ac21ac0
+      internalID: -173898331237652164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 396
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807aff80ca162b14aad6e41398166e68
+      internalID: -1047549276149954032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 356
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5e8ec27961084faad44b73329b996
+      internalID: -7650701950964063518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 359
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199885a280cf124fa483726282572d2
+      internalID: -3155647027582361164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 354
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28138fd07689648b9e9e3ab08cd43b
+      internalID: 3034544373287609246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 354
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68369fde04dbc1648a71b33a240d155e
+      internalID: -1852903561111077773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 256
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2be5e11f0722429eaafa180a18fa1
+      internalID: 6703463528266830563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d335354af67baf49b5f8975ae5b7e19
+      internalID: 1137361951725046210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 251
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45bbff898ec4d498156a97b08c6003
+      internalID: 8151665105271576832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 309
+        width: 142
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0815e93c73f4448b494e6c0c881a1
+      internalID: 6840981908503857822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_42
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 96
+        width: 39
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371fe2c85178904aa5a749e3d776b80
+      internalID: 2358629972144795455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 260
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722ae9248aaf0647b982b2278e9e573
+      internalID: 7431509620640694957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 260
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d3e6716be97f042af98082aa3ccce7
+      internalID: 4153727163743589706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 288
+        width: 138
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414103d712926f4ebdbb19476b9d137
+      internalID: 1332809223145556774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37585847dacea014097d4c44cf4b3e74
+      internalID: 2442044572339869141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 157
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d438b75352ba469edbc6b0b853873
+      internalID: -5975343055035059612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 158
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba223de22f5ef4c4bb4734c3cead1fba
+      internalID: 4840319065892258754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 157
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba101e3337cb54d934546e69f9218a
+      internalID: -6023128684967507448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 61
+        width: 97
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc68db709c8054e8b05a1c357d82f7
+      internalID: -3316797363215960569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 55
+        width: 98
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c901c66bca02f4c9f7ffd286b76f71
+      internalID: -8548015080361235328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_52
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2
+        width: 42
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5601a114db8d344290667622309e209
+      internalID: 2336770563755302070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2782f36c218674494d0f637a4caf5e
+      internalID: -2044940326609059691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_54
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 106
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a11045415aaf24eb4350b919d6ee91
+      internalID: -5356461290266769063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6bd7fd18d3244fbdaa631107c7591
+      internalID: -3652782743858640530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ec1092224fb64b80b5ab56678504a
+      internalID: -6273829101778184837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c846bf8f7441b438f6dd37a883820b
+      internalID: -7894003042193567335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d50b177b1ab9e46a377f532bd08fa0
+      internalID: 8754561930410785538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 104
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f4a6f2afc1cc4cafcf777e6fe1c5f
+      internalID: -7761839526703907389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79d1685aaac2b4ca8bf13a97d3b7ee
+      internalID: 3169829887947094021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 30
+        width: 5
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6dcc8c170cee49ae8c6ea71bb9fe1
+      internalID: 4471291753196092667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 6
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663260f273b5d594791faa6ed2956377
+      internalID: 1455333438553765048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf883d1be9f5d43b05dcc4d3f968d5
+      internalID: -8652529140310211952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63e2ed9eed3ea4ab20a87ebcbbcb39
+      internalID: -1795487862194573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355865b1b6f8e454ca1d0966c15dca9f
+      internalID: 8234952564522491477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 13
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79bda40a1198e49a17056b4d5699b7
+      internalID: 1223367857212275621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_67
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 584
+        width: 56
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ba13e63028bb40913fa3ad9ab7917
+      internalID: 802325266755149201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Industrial_1_68
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 583
+        width: 56
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b7ad1b5a950ba4eb605777fba011a0
+      internalID: -1055654675596179676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

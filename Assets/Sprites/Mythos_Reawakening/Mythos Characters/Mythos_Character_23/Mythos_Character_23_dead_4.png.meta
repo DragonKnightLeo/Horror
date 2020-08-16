@@ -1,7 +1,40 @@
 fileFormatVersion: 2
 guid: 818e452520d2cb547951d9454e198fbf
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6385300471221398928
+    second: Mythos_Character_23_dead_4_0
+  - first:
+      213: -8585014498214222523
+    second: Mythos_Character_23_dead_4_1
+  - first:
+      213: -2470536714005764783
+    second: Mythos_Character_23_dead_4_2
+  - first:
+      213: 6678639481018815889
+    second: Mythos_Character_23_dead_4_3
+  - first:
+      213: 1713286964610354582
+    second: Mythos_Character_23_dead_4_4
+  - first:
+      213: 6842635174155464315
+    second: Mythos_Character_23_dead_4_5
+  - first:
+      213: -4580326213620752866
+    second: Mythos_Character_23_dead_4_6
+  - first:
+      213: -6720323047190901546
+    second: Mythos_Character_23_dead_4_7
+  - first:
+      213: -6734398722567252179
+    second: Mythos_Character_23_dead_4_8
+  - first:
+      213: -3202924750558147147
+    second: Mythos_Character_23_dead_4_9
+  - first:
+      213: -8219640436038911911
+    second: Mythos_Character_23_dead_4_10
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +73,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +96,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +117,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 409
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab412fb988b1b418465671afac45ab
+      internalID: -6385300471221398928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 437
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0552de45102cfd4790c5592a9eb2ad1
+      internalID: -8585014498214222523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 415
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea7442c79cf064a8560d66065a3de7
+      internalID: -2470536714005764783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 282
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372dba7bb6e66704da7cb913c6a90546
+      internalID: 6678639481018815889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 286
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab386ad8543ea246882fdb6eaf80e55
+      internalID: 1713286964610354582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c16df7e8d4ca4287df28faa64cb0a
+      internalID: 6842635174155464315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89614efad590de34a8b565ac0072f391
+      internalID: -4580326213620752866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 152
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882981b94a81a84eb124fcb2548c3ee
+      internalID: -6720323047190901546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 421
+        width: 24
+        height: 14
+      alignment: 9
+      pivot: {x: -0.55796915, y: -0.17891207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d8692cf137a6418594bf8e387b5d6
+      internalID: -6734398722567252179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 427
+        width: 24
+        height: 14
+      alignment: 9
+      pivot: {x: -0.55796915, y: -0.17891207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a39ce62aac99b4cb52cfb6ec176043
+      internalID: -3202924750558147147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Character_23_dead_4_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 455
+        width: 24
+        height: 14
+      alignment: 9
+      pivot: {x: -0.55796915, y: -0.17891207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831d11d5c69d4d4794a3e7dfa5553ec
+      internalID: -8219640436038911911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

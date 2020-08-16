@@ -1,7 +1,220 @@
 fileFormatVersion: 2
 guid: a9a430ddb4737b549994f3834504abea
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1455443803128305794
+    second: Mythos_Occult_2_0
+  - first:
+      213: -2353932093085756768
+    second: Mythos_Occult_2_1
+  - first:
+      213: 1377926486300778230
+    second: Mythos_Occult_2_2
+  - first:
+      213: -8575840539982384063
+    second: Mythos_Occult_2_3
+  - first:
+      213: 3517413890025488154
+    second: Mythos_Occult_2_4
+  - first:
+      213: -5533029219101038613
+    second: Mythos_Occult_2_5
+  - first:
+      213: 9158262485304645429
+    second: Mythos_Occult_2_6
+  - first:
+      213: -5659043697296182678
+    second: Mythos_Occult_2_7
+  - first:
+      213: 5872004421764912950
+    second: Mythos_Occult_2_8
+  - first:
+      213: -4224248578587125834
+    second: Mythos_Occult_2_9
+  - first:
+      213: -8216945236666153478
+    second: Mythos_Occult_2_10
+  - first:
+      213: -4233214231088714833
+    second: Mythos_Occult_2_11
+  - first:
+      213: 386834523612133881
+    second: Mythos_Occult_2_12
+  - first:
+      213: 691305886262778467
+    second: Mythos_Occult_2_13
+  - first:
+      213: 4550034546202301037
+    second: Mythos_Occult_2_14
+  - first:
+      213: 1640646440570365094
+    second: Mythos_Occult_2_15
+  - first:
+      213: -1409926399049563433
+    second: Mythos_Occult_2_16
+  - first:
+      213: 1607388477343733632
+    second: Mythos_Occult_2_17
+  - first:
+      213: 8729453176613310098
+    second: Mythos_Occult_2_18
+  - first:
+      213: -1471393690389295120
+    second: Mythos_Occult_2_19
+  - first:
+      213: -7947722757126408720
+    second: Mythos_Occult_2_20
+  - first:
+      213: -84016583655868940
+    second: Mythos_Occult_2_21
+  - first:
+      213: 8013234311782942768
+    second: Mythos_Occult_2_22
+  - first:
+      213: 1225890070419689793
+    second: Mythos_Occult_2_23
+  - first:
+      213: -6449502453059312673
+    second: Mythos_Occult_2_24
+  - first:
+      213: 2006086937526926924
+    second: Mythos_Occult_2_25
+  - first:
+      213: 7959077798635245739
+    second: Mythos_Occult_2_26
+  - first:
+      213: -8471999871273887194
+    second: Mythos_Occult_2_27
+  - first:
+      213: -4677676779528801405
+    second: Mythos_Occult_2_28
+  - first:
+      213: -271657413154779294
+    second: Mythos_Occult_2_29
+  - first:
+      213: 2498279379059393575
+    second: Mythos_Occult_2_30
+  - first:
+      213: -4274830329211313986
+    second: Mythos_Occult_2_31
+  - first:
+      213: 8418128889793219158
+    second: Mythos_Occult_2_32
+  - first:
+      213: -3642831055389926167
+    second: Mythos_Occult_2_33
+  - first:
+      213: -7951027890145172217
+    second: Mythos_Occult_2_34
+  - first:
+      213: 6214247076524247793
+    second: Mythos_Occult_2_35
+  - first:
+      213: 8377175043524172875
+    second: Mythos_Occult_2_36
+  - first:
+      213: 8186400035556257399
+    second: Mythos_Occult_2_37
+  - first:
+      213: 1768134128323664617
+    second: Mythos_Occult_2_38
+  - first:
+      213: 6432303136806330726
+    second: Mythos_Occult_2_39
+  - first:
+      213: 5720688749183783883
+    second: Mythos_Occult_2_40
+  - first:
+      213: 8265675932915422132
+    second: Mythos_Occult_2_41
+  - first:
+      213: -8350110716890158806
+    second: Mythos_Occult_2_42
+  - first:
+      213: 2122618739618366970
+    second: Mythos_Occult_2_43
+  - first:
+      213: 5488588608899756117
+    second: Mythos_Occult_2_44
+  - first:
+      213: -688350160346225853
+    second: Mythos_Occult_2_45
+  - first:
+      213: -4803791828311802497
+    second: Mythos_Occult_2_46
+  - first:
+      213: 1960112278997371284
+    second: Mythos_Occult_2_47
+  - first:
+      213: 7060915215598986389
+    second: Mythos_Occult_2_48
+  - first:
+      213: -5985770183091274725
+    second: Mythos_Occult_2_49
+  - first:
+      213: 7651564007074231475
+    second: Mythos_Occult_2_50
+  - first:
+      213: 5204564071467754719
+    second: Mythos_Occult_2_51
+  - first:
+      213: -3572978230740088492
+    second: Mythos_Occult_2_52
+  - first:
+      213: -7595999817880897517
+    second: Mythos_Occult_2_53
+  - first:
+      213: 5205547525403312468
+    second: Mythos_Occult_2_54
+  - first:
+      213: -5353715094101055375
+    second: Mythos_Occult_2_55
+  - first:
+      213: -4425152526254052232
+    second: Mythos_Occult_2_56
+  - first:
+      213: 8869688326725208584
+    second: Mythos_Occult_2_57
+  - first:
+      213: -6022961122615190716
+    second: Mythos_Occult_2_58
+  - first:
+      213: -3094974462405595140
+    second: Mythos_Occult_2_59
+  - first:
+      213: 194997146382490129
+    second: Mythos_Occult_2_60
+  - first:
+      213: 2068195864466885676
+    second: Mythos_Occult_2_61
+  - first:
+      213: 7921256248070576247
+    second: Mythos_Occult_2_62
+  - first:
+      213: -7259787998020560714
+    second: Mythos_Occult_2_63
+  - first:
+      213: 6514112625089777099
+    second: Mythos_Occult_2_64
+  - first:
+      213: 2892446784322778669
+    second: Mythos_Occult_2_65
+  - first:
+      213: 7341732889884681942
+    second: Mythos_Occult_2_66
+  - first:
+      213: 1387724385312029017
+    second: Mythos_Occult_2_67
+  - first:
+      213: -2676557310636173089
+    second: Mythos_Occult_2_68
+  - first:
+      213: -2163122843084239533
+    second: Mythos_Occult_2_69
+  - first:
+      213: 7803091718681983483
+    second: Mythos_Occult_2_70
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +244,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +253,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +276,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +297,1498 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mythos_Occult_2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 681
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908018736c1d7f14f997ed78c13efc6e
+      internalID: 1455443803128305794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 682
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ecdff92b634647ab2551a1611cb3e
+      internalID: -2353932093085756768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 682
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e759a752425154583bc524ebca6d4a
+      internalID: 1377926486300778230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 682
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6fbbe8e0892964099a4c9caa4c472b
+      internalID: -8575840539982384063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 679
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf0a127c3aaf041bee4dd1db1f6077
+      internalID: 3517413890025488154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 678
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155783654dd26e41824fb6b4a03be84
+      internalID: -5533029219101038613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 679
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ab181784cf0a469974da938fc20a1
+      internalID: 9158262485304645429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 677
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc604e695c4ff84aaba0dd49934f884
+      internalID: -5659043697296182678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 672
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f15a8345592b48aee3041949fae6b
+      internalID: 5872004421764912950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 673
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a160f2f58b9844a71777af333d137
+      internalID: -4224248578587125834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_10
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 631
+        width: 38
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8a2878b829924a881a6aa81885d9c
+      internalID: -8216945236666153478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 633
+        width: 37
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ecd5d6fe33204397cfb7fa3245565
+      internalID: -4233214231088714833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 591
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5fef192ee0854aae92f5bd8d8a481
+      internalID: 386834523612133881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 625
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84c0ee5f71b9142888b6ec675c5049
+      internalID: 691305886262778467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 591
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95354989225c1c644a5ce9b3dfbbf382
+      internalID: 4550034546202301037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 589
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a2070db0d51d4dad4abfd21461685
+      internalID: 1640646440570365094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 540
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3ff951fe4cda4991fccc4f8295e25
+      internalID: -1409926399049563433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 536
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae49ed55ca9a741b871cbaf2713962
+      internalID: 1607388477343733632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 489
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f47c308b78f84bb73fee2c0c173df
+      internalID: 8729453176613310098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 489
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4c96ee3e15eb458e80df8f3326a36
+      internalID: -1471393690389295120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 488
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5edbbcf96cfef4a9d2ff9c2bc5540f
+      internalID: -7947722757126408720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 485
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e218b1390372a498fc30c2782eabce
+      internalID: -84016583655868940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 484
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0cd93472cf5e4fa1789f2d640c608
+      internalID: 8013234311782942768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 484
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b764ad96295e42bd7e11d7a29b78b
+      internalID: 1225890070419689793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 483
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107dd6106b79541428209bb563c1c069
+      internalID: -6449502453059312673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_25
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 436
+        width: 143
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102feada69156f4fbb373da78c699e9
+      internalID: 2006086937526926924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 392
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48092d3cf32470240b6e8af10a63d22c
+      internalID: 7959077798635245739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 388
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c310a2c17da79a4db4a6f08502c2f41
+      internalID: -8471999871273887194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 394
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ceb9654be8706498d6fb5b79abee1f
+      internalID: -4677676779528801405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 389
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7984169e42f3428f1b7aaabff2b00
+      internalID: -271657413154779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 390
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafae766f0de83f4584fea0d777dec5d
+      internalID: 2498279379059393575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f8f873d6a46b47b831758c0c56692
+      internalID: -4274830329211313986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750b59ca6a4b36438b306411de71892
+      internalID: 8418128889793219158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395451036de5ae4428924f5c4b1241f4
+      internalID: -3642831055389926167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2b890440f260643bb7096e1b4cf679
+      internalID: -7951027890145172217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e0ebf603e70c40a6872085411d8b6
+      internalID: 6214247076524247793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc521faa6402e44b3d648f12fabd84
+      internalID: 8377175043524172875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 292
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1478f01a74663c46addef71494cef18
+      internalID: 8186400035556257399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 292
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd04aa1607d1345820dfe6b8f803f4
+      internalID: 1768134128323664617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b90b0a66e74949a44f6ed33a960d9
+      internalID: 6432303136806330726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae41e8acb34da42ac400e6a246391e
+      internalID: 5720688749183783883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b818be492dd89a45b40c125b8d44af5
+      internalID: 8265675932915422132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 289
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0d3024be96b048875b711c6a007a5
+      internalID: -8350110716890158806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 221
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a85e2da1947f043bd82db499cbb27c
+      internalID: 2122618739618366970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_44
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 225
+        width: 158
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d533a26da9f841b55e5a6a067a822
+      internalID: 5488588608899756117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 252
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a74796b576f547aa3c011008831e2
+      internalID: -688350160346225853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f60d581e3d51439a9beb26c916730
+      internalID: -4803791828311802497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 248
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9632d6245285f4b97f8d24bbbfaa9b
+      internalID: 1960112278997371284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328b93bd2db1de49b6db9af19c0091e
+      internalID: 7060915215598986389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 244
+        width: 194
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002ad6d14450544c850903d14fa7404
+      internalID: -5985770183091274725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 204
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5467575da06b429140c97b2b4f973
+      internalID: 7651564007074231475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667feedaacad12c449b19a15c4996d37
+      internalID: 5204564071467754719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 204
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b95d248bc2589419bd3784da2d69c9
+      internalID: -3572978230740088492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518453f0b3939e4e81fcbb4828232a4
+      internalID: -7595999817880897517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b63303f5e6a7744bbbd2d208d7636e4
+      internalID: 5205547525403312468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 201
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a5612d8876650439f66cd13d84055c
+      internalID: -5353715094101055375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 201
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f205743e25cb418d212275f77ab31
+      internalID: -4425152526254052232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc29bae863dab49be84332d179094f
+      internalID: 8869688326725208584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 151
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd70382d2e697247bd6e5c464696649
+      internalID: -6022961122615190716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4e18246de0024e91de0e80416b6b3
+      internalID: -3094974462405595140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 152
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38bd763f95a93c48803d5fcfcece187
+      internalID: 194997146382490129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 148
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85647ae61eb24249a23d60b35f5783f
+      internalID: 2068195864466885676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 148
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1c20dde695fd4ebc9a22c0fdd42c0
+      internalID: 7921256248070576247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 157
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b313239dd09604cae855db5bdc570e
+      internalID: -7259787998020560714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 155
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b4d7b3aa08cc4eb930835a05d993c
+      internalID: 6514112625089777099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b7d2003af2ee4488d5604b353d8fa5
+      internalID: 2892446784322778669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d03a364e01838142ba96e1335f4cab3
+      internalID: 7341732889884681942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72828a849f3bfe469238356a50180ae
+      internalID: 1387724385312029017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_68
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10350963536adc341a6f261f11053b7d
+      internalID: -2676557310636173089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 109
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cbe484ecf7a0f47bb1912420a22466
+      internalID: -2163122843084239533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mythos_Occult_2_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 108
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bc79c0ccad9e4e98e010a8972c872
+      internalID: 7803091718681983483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
