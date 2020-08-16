@@ -38,14 +38,7 @@ public class SoundTrigger : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-<<<<<<< Updated upstream
             trigger.gameObject.SetActive(false);
-=======
-            if (trigger != null)
-            {
-                trigger.gameObject.SetActive(false);
-            }
->>>>>>> Stashed changes
             if(trigger2 != null)
             {
                 soundManager.sfx[trigger2.GetComponent<SoundTrigger>().sfxToPlay].Stop();

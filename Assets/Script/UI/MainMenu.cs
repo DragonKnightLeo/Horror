@@ -34,15 +34,9 @@ public class MainMenu : MonoBehaviour
 
     public void openMainMenu()
     {
-<<<<<<< Updated upstream
 
         if(Input.GetKeyDown(KeyCode.Escape))
         {
-=======
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            print(mainMenuWindows.Length);
->>>>>>> Stashed changes
             SoundManager.instance.uiMainSlotSound();
             if (!mainMenuPanel.activeInHierarchy)
             {
@@ -69,10 +63,7 @@ public class MainMenu : MonoBehaviour
             {
                 mainMenuWindows[0].SetActive(true);
                 mainMenuActivate();
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
             }
             else
             {
@@ -180,11 +171,8 @@ public class MainMenu : MonoBehaviour
             }
         }
     }
-<<<<<<< Updated upstream
 
 
 
 
-=======
->>>>>>> Stashed changes
 }

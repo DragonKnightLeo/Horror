@@ -22,32 +22,32 @@ AnimationClip:
     - time: 0
       value: {fileID: -5758070356630533672, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.125
+    - time: 0.0625
       value: {fileID: -8837672754059004892, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.25
+    - time: 0.125
       value: {fileID: -3009432137970806517, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.375
+    - time: 0.1875
       value: {fileID: 1868477920164330833, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.5
+    - time: 0.25
       value: {fileID: 414752681680243902, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.625
+    - time: 0.3125
       value: {fileID: -6459141297204815757, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.75
+    - time: 0.375
       value: {fileID: 5683372833871926518, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
-    - time: 0.875
+    - time: 0.4375
       value: {fileID: -3818841538446747364, guid: d63af421189ed7c4eaa2aa1b6e2ce9c7,
         type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 8
+  m_SampleRate: 16
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -75,7 +75,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -102,6 +102,13 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0.125
+    functionName: playMonster1Steps
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.25
     functionName: playMonster1Steps
     data: 
@@ -109,14 +116,7 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.5
-    functionName: playMonster1Steps
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0.75
+  - time: 0.375
     functionName: playMonster1Steps
     data: 
     objectReferenceParameter: {fileID: 0}

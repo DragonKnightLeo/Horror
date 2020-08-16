@@ -53,10 +53,7 @@ public class SceneTrigger : MonoBehaviour
 
             secPassed = Time.deltaTime * 100;
 
-<<<<<<< Updated upstream
             print(secPassed);
-=======
->>>>>>> Stashed changes
             if (secPassed >= 2f)
             {
                 soundManager.playSfx(19, 9, 0.5f);

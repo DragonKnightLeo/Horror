@@ -32,10 +32,6 @@ public class InsEnemyController : MonoBehaviour
     #endregion
 
     #region Public Variables
-<<<<<<< Updated upstream
-=======
-    public float idleRange;
->>>>>>> Stashed changes
     public float maxRange;
     public float minRange;
     public float followInterval;
@@ -55,10 +51,6 @@ public class InsEnemyController : MonoBehaviour
 
     void Start()
     {
-<<<<<<< Updated upstream
-=======
-        canMove = true;
->>>>>>> Stashed changes
         homePosition = FindObjectOfType<HomePosition>();
         targetTransform = FindObjectOfType<Player>().transform;
         enemyAttackPower = FindObjectOfType<Enemy>().attackPower;
@@ -90,17 +82,8 @@ public class InsEnemyController : MonoBehaviour
             homePos = Vector3.Distance(homePosition.getPosition(), transform.position);
         }
         #endregion
-<<<<<<< Updated upstream
 
         if (targetPos <= maxRange && Mathf.Abs(targetPos) >= minRange && canMove)
-=======
-        if (targetPos <= idleRange && targetPos > maxRange && Mathf.Abs(targetPos) >= minRange && canMove)
-        {
-            newPosition = Vector3.MoveTowards(rb2D.position, targetTransform.position, moveSpeed * Time.deltaTime);
-            animateEnemy(targetTransform, newPosition, false);
-        }
-        if (targetPos <= maxRange  && Mathf.Abs(targetPos) >= minRange && canMove)
->>>>>>> Stashed changes
         {
             newPosition = Vector3.MoveTowards(rb2D.position, targetTransform.position, moveSpeed * Time.deltaTime);
             rb2D.MovePosition(newPosition);
@@ -113,11 +96,7 @@ public class InsEnemyController : MonoBehaviour
                 newPosition = Vector3.MoveTowards(rb2D.position, homePosition.getPosition(), moveSpeed * Time.deltaTime);
                 rb2D.MovePosition(newPosition);
                 animateEnemy(homePosition.position, newPosition, true);
-<<<<<<< Updated upstream
                 if (homePos <= 2 && homePos < 0)
-=======
-                if (homePos <= 2)
->>>>>>> Stashed changes
                 {
                     animateEnemy(homePosition.position, transform.position, false);
                 }
@@ -127,10 +106,7 @@ public class InsEnemyController : MonoBehaviour
         {
             attack();
             animateEnemy(targetTransform, newPosition, false);
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
         }
     }
     void animateEnemy(Transform targetTransform, Vector3 newPosition, bool canWalk)
@@ -138,7 +114,6 @@ public class InsEnemyController : MonoBehaviour
         moveX = (targetTransform.position.x - newPosition.x);
         moveY = (targetTransform.position.y - newPosition.y);
 
-<<<<<<< Updated upstream
         if (canWalk)
         {
             animator.SetBool("isWalking", true);
@@ -149,19 +124,6 @@ public class InsEnemyController : MonoBehaviour
         {
             animator.SetBool("isWalking", false);
         }
-=======
-            if (canWalk)
-            {
-                animator.SetBool("isWalking", true);
-                animator.SetFloat("dirX", (targetTransform.position.x - newPosition.x));
-                animator.SetFloat("dirY", (targetTransform.position.y - newPosition.y));
-            }
-            else
-            {
-                animator.SetBool("isWalking", false);
-            }
-       
->>>>>>> Stashed changes
         if (moveX == 1 || moveX == -1 || moveY == 1 || moveY == -1
         || moveX < -0.1 && moveY < -0.1 || moveX < -0.1 && moveY > 0.1
         || moveX > 0.1 && moveY < -0.1 || moveX > 0.1 && moveY > 0.1)

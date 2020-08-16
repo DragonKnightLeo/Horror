@@ -132,11 +132,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 2120127893
-<<<<<<< Updated upstream
   m_SortingLayer: 6
-=======
-  m_SortingLayer: 7
->>>>>>> Stashed changes
   m_SortingOrder: -1
   m_Sprite: {fileID: 2228714479619816260, guid: 99a3e20779c2d314b87e9d6dcdad5797,
     type: 3}
@@ -202,10 +198,6 @@ MonoBehaviour:
   attack: 0
   charImage: {fileID: 0}
   characterCategory: 0
-<<<<<<< Updated upstream
-=======
-  isAttacked: 0
->>>>>>> Stashed changes
 --- !u!114 &9122397485787165211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -224,11 +216,7 @@ MonoBehaviour:
   homePosition: {fileID: 0}
   secondPos: {fileID: 0}
   movementSpeed: 3
-<<<<<<< Updated upstream
   maxRange: 12
-=======
-  maxRange: 4
->>>>>>> Stashed changes
   minRange: 1.5
   followInterval: 2
   attackRange: 2

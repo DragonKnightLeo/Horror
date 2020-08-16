@@ -1,31 +1,7 @@
 fileFormatVersion: 2
 guid: 1153e13aa364ec44191f74761e9821b6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 2726844524457645631
-    second: Mythos_Shop_3_0
-  - first:
-      213: -4139315183077768664
-    second: Mythos_Shop_3_1
-  - first:
-      213: -2161596757418028690
-    second: Mythos_Shop_3_2
-  - first:
-      213: 2022092437907903566
-    second: Mythos_Shop_3_3
-  - first:
-      213: 7935576076717602674
-    second: Mythos_Shop_3_4
-  - first:
-      213: -8949453848109568028
-    second: Mythos_Shop_3_5
-  - first:
-      213: -1523892511794451480
-    second: Mythos_Shop_3_6
-  - first:
-      213: 344791892214480265
-    second: Mythos_Shop_3_7
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -55,7 +31,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -64,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 56
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,19 +63,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,175 +72,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Mythos_Shop_3_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 529
-        width: 163
-        height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2490df4801c7a546a7f76a14d0fbe70
-      internalID: 2726844524457645631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_1
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 604
-        width: 271
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa07c089ff990314cb8139468d9a84c8
-      internalID: -4139315183077768664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_2
-      rect:
-        serializedVersion: 2
-        x: 530
-        y: 508
-        width: 224
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec9ad451436b50744953d24002a4bf05
-      internalID: -2161596757418028690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 343
-        width: 271
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 694986966ea821843a8b3b9b7991fc7c
-      internalID: 2022092437907903566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_4
-      rect:
-        serializedVersion: 2
-        x: 299
-        y: 340
-        width: 164
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30926771fe03e664790541a956d3d3cf
-      internalID: 7935576076717602674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_5
-      rect:
-        serializedVersion: 2
-        x: 543
-        y: 224
-        width: 224
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff559e3aebf87714bb773e72f8cbd448
-      internalID: -8949453848109568028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_6
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 145
-        width: 301
-        height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70e0b6a51a481094db04290281619b9a
-      internalID: -1523892511794451480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mythos_Shop_3_7
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 304
-        height: 187
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1098cbeff2932cd4ea6921c27f75200c
-      internalID: 344791892214480265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []

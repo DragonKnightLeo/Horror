@@ -35,10 +35,7 @@ public class PlayerMovement : MonoBehaviour
                         attackHorizontal = "attackHorizontal", isShooting= "isShooting", isRunning = "isRunning",
                         isAttackReady = "isAttackReady";
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
     public Light2D[] lightBoxes;
     public Light2D characterLight;
     //public Light2D flashLight;

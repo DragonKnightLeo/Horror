@@ -31,10 +31,6 @@ public class EnemyController : MonoBehaviour
     #endregion
 
     #region Public Variables
-<<<<<<< Updated upstream
-=======
-    public float idleRange;
->>>>>>> Stashed changes
     public  float maxRange;
     public  float minRange;
     public float followInterval;
@@ -49,10 +45,6 @@ public class EnemyController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb2D = GetComponent<Rigidbody2D>();
-<<<<<<< Updated upstream
-=======
-        canMove = true;
->>>>>>> Stashed changes
         walking = true;
     }
 
@@ -66,11 +58,7 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-<<<<<<< Updated upstream
     
-=======
-        IfAttacked();
->>>>>>> Stashed changes
     }
 
     private void FixedUpdate()
@@ -89,16 +77,7 @@ public class EnemyController : MonoBehaviour
         float homePos = Vector3.Distance(homePosition.position, transform.position);
         #endregion
 
-<<<<<<< Updated upstream
             if (targetPos <= maxRange && Mathf.Abs(targetPos) >= minRange && canMove)
-=======
-        if (targetPos <= idleRange && targetPos > maxRange && Mathf.Abs(targetPos) >= minRange && canMove)
-        {
-            newPosition = Vector3.MoveTowards(rb2D.position, targetTransform.position, moveSpeed * Time.deltaTime);
-            animateEnemy(targetTransform, newPosition, false);
-        }
-        else if (targetPos <= maxRange && Mathf.Abs(targetPos) >= minRange && canMove)
->>>>>>> Stashed changes
             {
                 newPosition = Vector3.MoveTowards(rb2D.position, targetTransform.position, moveSpeed * Time.deltaTime);
                 rb2D.MovePosition(newPosition);
@@ -112,11 +91,7 @@ public class EnemyController : MonoBehaviour
                 animateEnemy(homePosition, newPosition, true);
                 if (homePos <= 1)
                 {
-<<<<<<< Updated upstream
                     maxRange = 12;
-=======
-                    maxRange = 5;
->>>>>>> Stashed changes
                     animateEnemy(homePosition, transform.position, false);
                 }
             }
@@ -161,17 +136,6 @@ public class EnemyController : MonoBehaviour
         }
     }
 
-<<<<<<< Updated upstream
-=======
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if(collision.CompareTag("Player"))
-        {
-            PlayerMovement.playerMovementInstance.isHitAnimation(false);
-        }
-    }
-
->>>>>>> Stashed changes
     public void attack()
     {
         if (Time.time >= nextAttackTime)
@@ -235,15 +199,4 @@ public class EnemyController : MonoBehaviour
             PlayerMovement.playerMovementInstance.isHitAnimation(false);
         }
     }
-<<<<<<< Updated upstream
-=======
-    void IfAttacked()
-    {
-        if (GetComponent<Enemy>().isAttacked == true)
-        {
-            maxRange = 20;
-        }
-    }
-
->>>>>>> Stashed changes
 }

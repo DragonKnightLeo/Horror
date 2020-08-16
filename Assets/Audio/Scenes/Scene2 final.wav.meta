@@ -5,11 +5,7 @@ AudioImporter:
   serializedVersion: 6
   defaultSettings:
     loadType: 0
-<<<<<<< Updated upstream
     sampleRateSetting: 0
-=======
-    sampleRateSetting: 1
->>>>>>> Stashed changes
     sampleRateOverride: 44100
     compressionFormat: 1
     quality: 1

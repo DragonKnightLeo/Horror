@@ -13,12 +13,7 @@ public class GameManager : MonoBehaviour
     const int numberOfPartyMembers = 4;
     public float globalLightIntesity;
     public float indicatorLightIntensity;
-<<<<<<< Updated upstream
     bool canAttack;
-=======
-    public bool noteOpen;
-    public bool canAttack;
->>>>>>> Stashed changes
     public bool canShoot;
     public bool fadingBetweenAreas;
     public bool dialogActive;
@@ -36,10 +31,6 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-<<<<<<< Updated upstream
-=======
-        
->>>>>>> Stashed changes
         canShoot = true;
         if (gameManagerInstance != null && gameManagerInstance != this)
         {
@@ -87,7 +78,7 @@ public class GameManager : MonoBehaviour
         bool activeMenu = MainMenu.instance.activeMenu;
 
 
-        if (activeMenu || fadingBetweenAreas || dialogActive || noteOpen)
+        if (activeMenu || fadingBetweenAreas || dialogActive)
         {
             playerMovement.moveCharacter(false);
             playerMovement.shootAnimation(canShoot);

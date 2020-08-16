@@ -62,14 +62,7 @@ public class Enemy : Characters
 
     public void playMonster1Steps()
     {
-<<<<<<< Updated upstream
         SoundManager.instance.monster1StepsSound();
     }
    
-=======
-        SoundManager.instance.PlayGhulSteps();
-    }
-
-
->>>>>>> Stashed changes
 }
