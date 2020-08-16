@@ -94,7 +94,7 @@ public class SoundManager : MonoBehaviour
     {
         if (shooting)
         {
-            sfx[1].Play();
+            sfx[8].Play();
         }
         else
         {
@@ -104,13 +104,13 @@ public class SoundManager : MonoBehaviour
 
     public void footSteps(float volumeScale)
     {
-        if(!sfx[0].isPlaying)
+        if(!sfx[9].isPlaying)
         {
-            sfx[0].PlayOneShot(clip[0], 0.7f);
+            sfx[9].PlayOneShot(clip[1], 0.7f);
         }
-        else if(sfx[0].isPlaying)
+        else if(sfx[9].isPlaying)
         {
-            sfx[0].Stop();
+            sfx[9].Stop();
         }
     }
 

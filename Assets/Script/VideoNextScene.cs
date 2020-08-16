@@ -12,7 +12,7 @@ public class VideoNextScene : MonoBehaviour
     IEnumerator ExampleCoroutine()
     {
         
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(15);
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
